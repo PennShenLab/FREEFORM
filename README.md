@@ -1,1 +1,1 @@
-# GenoLLM: Inferring phenotypes from tabular genotype data with pre-trained Large Language Models
+# FREEFORM: Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models
