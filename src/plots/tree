@@ -1,0 +1,29 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label=<x<SUB>7</SUB> &le; 1.5<br/>gini = 0.76<br/>samples = 13<br/>value = [4, 6, 6, 2, 2]<br/>class = American Ancestry>, fillcolor="#ffffff"] ;
+1 [label=<x<SUB>5</SUB> &le; 1.0<br/>gini = 0.761<br/>samples = 12<br/>value = [4, 6, 3, 2, 2]<br/>class = American Ancestry>, fillcolor="#ebfbe1"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<x<SUB>4</SUB> &le; 1.5<br/>gini = 0.686<br/>samples = 8<br/>value = [0, 6, 3, 2, 2]<br/>class = American Ancestry>, fillcolor="#d7f7c4"] ;
+1 -> 2 ;
+3 [label=<x<SUB>2</SUB> &le; 0.5<br/>gini = 0.595<br/>samples = 7<br/>value = [0, 6, 3, 0, 2]<br/>class = American Ancestry>, fillcolor="#cef5b5"] ;
+2 -> 3 ;
+4 [label=<x<SUB>7</SUB> &le; 0.5<br/>gini = 0.611<br/>samples = 4<br/>value = [0, 1, 3, 0, 2]<br/>class = East Asian Ancestry>, fillcolor="#cef8f0"] ;
+3 -> 4 ;
+5 [label=<gini = 0.0<br/>samples = 2<br/>value = [0, 0, 3, 0, 0]<br/>class = East Asian Ancestry>, fillcolor="#39e5c5"] ;
+4 -> 5 ;
+6 [label=<x<SUB>3</SUB> &le; 0.5<br/>gini = 0.444<br/>samples = 2<br/>value = [0, 1, 0, 0, 2]<br/>class = South Asian Ancestry>, fillcolor="#f29ce0"] ;
+4 -> 6 ;
+7 [label=<gini = 0.0<br/>samples = 1<br/>value = [0, 0, 0, 0, 2]<br/>class = South Asian Ancestry>, fillcolor="#e539c0"] ;
+6 -> 7 ;
+8 [label=<gini = 0.0<br/>samples = 1<br/>value = [0, 1, 0, 0, 0]<br/>class = American Ancestry>, fillcolor="#7be539"] ;
+6 -> 8 ;
+9 [label=<gini = 0.0<br/>samples = 3<br/>value = [0, 5, 0, 0, 0]<br/>class = American Ancestry>, fillcolor="#7be539"] ;
+3 -> 9 ;
+10 [label=<gini = 0.0<br/>samples = 1<br/>value = [0, 0, 0, 2, 0]<br/>class = European Ancestry>, fillcolor="#3c39e5"] ;
+2 -> 10 ;
+11 [label=<gini = 0.0<br/>samples = 4<br/>value = [4, 0, 0, 0, 0]<br/>class = African Ancestry>, fillcolor="#e58139"] ;
+1 -> 11 ;
+12 [label=<gini = 0.0<br/>samples = 1<br/>value = [0, 0, 3, 0, 0]<br/>class = East Asian Ancestry>, fillcolor="#39e5c5"] ;
+0 -> 12 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}

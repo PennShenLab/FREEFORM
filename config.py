@@ -1,0 +1,5 @@
+OPENAI_API_KEY = ''
+TOGETHER_API_KEY = ''
+NCBI_API_KEY   = ''
+EMAIL          = ''
+SECRET_KEY     = ''

@@ -1,0 +1,2504 @@
+rs671,rs1426654,rs16891982,rs4988235,rs12913832,rs2814778,rs1042602,rs10498746,rs3827760,rs2192416,rs1390723,rs3814381,rs2476746,rs1878685,rs1344011,superpopulation_name
+0.0,0,2,2,2,0,0,1,0,0,0,0,1,1,0,European Ancestry
+0.0,0,2,2,2,0,0,2,0,0,1,0,0,0,0,European Ancestry
+0.0,0,1,2,2,0,0,1,0,0,0,1,1,0,0,European Ancestry
+0.0,0,2,1,2,0,0,0,0,0,1,0,1,0,1,European Ancestry
+0.0,0,2,0,2,0,0,0,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,2,2,0,0,1,0,0,0,2,0,0,0,European Ancestry
+0.0,0,2,2,2,0,1,1,0,0,0,0,1,1,1,European Ancestry
+0.0,0,2,2,2,0,1,1,0,0,2,2,0,0,0,European Ancestry
+0.0,0,2,2,2,0,1,0,0,1,0,1,0,0,0,European Ancestry
+0.0,0,2,0,1,0,0,1,0,0,0,0,1,0,0,European Ancestry
+0.0,0,2,1,2,0,2,1,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,2,2,0,1,2,0,0,0,0,1,0,1,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,1,1,0,1,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,1,1,0,0,0,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,0,2,0,0,1,European Ancestry
+0.0,0,2,2,0,0,0,1,0,0,0,1,1,2,1,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,0,0,0,0,1,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,0,2,0,1,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,1,2,2,0,1,1,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,2,2,2,0,0,European Ancestry
+0.0,0,2,2,1,0,1,0,0,0,1,0,1,2,0,European Ancestry
+0.0,0,2,2,2,0,1,1,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,0,0,1,0,1,European Ancestry
+0.0,0,2,1,2,0,2,0,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,1,1,0,0,2,European Ancestry
+0.0,0,2,2,1,0,0,1,0,1,0,2,1,0,0,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,1,1,1,0,1,European Ancestry
+0.0,0,2,2,1,0,0,0,0,0,0,1,0,1,0,European Ancestry
+0.0,0,1,2,2,0,1,0,0,0,0,1,1,0,1,European Ancestry
+0.0,0,2,1,1,0,2,0,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,0,2,0,0,0,0,1,1,0,0,0,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,1,0,0,0,1,European Ancestry
+0.0,0,2,2,2,0,2,0,0,0,1,1,1,1,0,European Ancestry
+0.0,0,2,2,1,0,0,0,0,0,1,1,0,0,0,European Ancestry
+0.0,0,2,1,2,0,1,1,0,0,1,0,0,0,2,European Ancestry
+0.0,0,2,2,2,0,2,0,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,1,1,0,0,0,1,1,0,1,European Ancestry
+0.0,0,2,1,2,0,0,0,0,0,0,2,0,0,2,European Ancestry
+0.0,0,2,2,2,0,0,1,0,0,0,2,0,1,1,European Ancestry
+0.0,0,2,0,2,0,0,0,0,0,1,1,0,0,1,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,1,0,0,1,0,European Ancestry
+0.0,0,2,1,2,0,1,1,0,0,1,1,1,0,0,European Ancestry
+0.0,0,2,1,1,0,1,1,0,0,1,0,1,0,1,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,0,1,0,1,0,European Ancestry
+0.0,0,2,1,1,0,2,1,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,1,2,0,1,1,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,1,1,0,0,1,European Ancestry
+0.0,0,2,2,1,0,1,0,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,1,2,0,0,0,European Ancestry
+0.0,0,2,1,2,0,1,1,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,1,1,1,1,0,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,1,1,1,0,1,European Ancestry
+0.0,0,2,1,2,0,2,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,0,1,0,1,0,European Ancestry
+0.0,0,2,2,1,0,0,0,0,0,0,0,1,0,0,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,1,0,2,0,2,European Ancestry
+0.0,0,2,1,1,0,0,0,0,0,1,2,0,0,0,European Ancestry
+0.0,0,2,1,1,0,0,0,1,0,1,1,1,0,0,European Ancestry
+0.0,0,2,1,2,0,0,1,0,2,1,0,1,0,0,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,1,0,0,0,2,European Ancestry
+0.0,0,2,1,2,0,1,1,0,0,0,0,1,2,0,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,0,2,0,0,2,1,0,0,1,European Ancestry
+0.0,0,1,1,2,0,0,0,0,0,1,1,2,0,0,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,1,1,0,0,0,European Ancestry
+0.0,0,2,1,1,0,0,0,0,0,1,0,2,0,0,European Ancestry
+0.0,0,2,0,2,0,1,1,0,0,0,1,2,0,0,European Ancestry
+0.0,0,2,0,2,0,0,0,0,0,1,0,1,0,1,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,0,2,0,0,0,European Ancestry
+0.0,0,2,1,2,0,0,1,0,1,1,1,1,0,0,European Ancestry
+0.0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,1,0,0,1,1,European Ancestry
+0.0,0,2,2,1,0,0,0,0,0,1,1,1,0,0,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,1,0,1,1,0,European Ancestry
+0.0,0,2,2,1,0,0,1,0,0,2,0,0,1,1,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,1,2,1,0,0,European Ancestry
+0.0,0,2,2,2,0,1,2,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,2,2,0,0,1,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,1,2,0,1,1,0,0,0,1,0,2,0,European Ancestry
+0.0,0,2,2,0,0,0,1,0,0,0,0,1,0,0,European Ancestry
+0.0,0,2,0,2,0,1,0,0,0,0,1,1,2,0,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,1,0,1,0,0,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,0,1,0,2,1,European Ancestry
+0.0,0,2,1,2,0,0,1,0,1,0,0,0,0,1,European Ancestry
+0.0,0,2,1,2,0,2,0,0,0,1,0,0,0,1,European Ancestry
+0.0,0,2,2,1,0,1,0,0,0,1,1,0,1,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,1,1,1,0,0,European Ancestry
+0.0,0,2,2,1,0,1,2,0,1,2,0,0,0,1,European Ancestry
+0.0,0,2,2,1,0,0,0,0,0,0,0,1,0,1,European Ancestry
+0.0,0,2,2,1,0,0,0,0,0,0,2,2,1,0,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,0,0,0,1,2,European Ancestry
+0.0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,European Ancestry
+0.0,0,2,2,2,0,0,1,0,0,0,1,2,0,0,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,2,0,1,0,1,European Ancestry
+0.0,0,2,1,1,0,2,2,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,2,1,0,2,0,0,0,1,1,0,0,0,European Ancestry
+0.0,0,2,0,0,0,1,2,0,0,0,1,1,1,1,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,1,0,0,0,1,European Ancestry
+0.0,0,2,1,2,0,0,0,0,0,0,0,0,0,1,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,2,1,0,0,2,0,0,1,1,0,0,0,European Ancestry
+0.0,0,2,1,1,0,1,1,0,1,2,0,2,0,1,European Ancestry
+0.0,0,2,2,1,0,0,0,0,0,1,0,1,0,1,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,1,1,1,0,0,0,1,0,0,European Ancestry
+0.0,1,2,1,2,0,0,1,1,0,1,0,2,0,0,European Ancestry
+0.0,0,2,1,2,0,0,0,0,0,1,1,1,0,0,European Ancestry
+0.0,0,2,0,2,0,0,0,0,1,0,2,1,0,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,1,2,0,1,0,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,0,1,0,1,1,European Ancestry
+0.0,0,2,1,2,0,0,0,0,0,1,1,0,0,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,0,2,2,0,0,European Ancestry
+0.0,0,2,2,2,0,1,0,1,0,0,0,2,1,1,European Ancestry
+0.0,0,2,1,2,0,1,0,0,1,0,1,0,1,0,European Ancestry
+0.0,0,2,0,2,0,0,0,0,0,2,0,1,0,0,European Ancestry
+0.0,0,2,2,2,0,1,1,0,0,0,0,1,1,1,European Ancestry
+0.0,0,2,1,1,0,2,0,0,1,0,1,0,1,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,1,0,0,0,1,European Ancestry
+0.0,0,1,1,2,0,1,0,0,1,1,1,0,0,1,European Ancestry
+0.0,0,2,2,2,0,0,1,0,0,1,0,1,0,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,1,1,1,0,0,European Ancestry
+0.0,0,1,2,2,0,0,1,0,0,0,0,0,0,1,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,0,0,0,1,1,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,0,1,1,0,1,European Ancestry
+0.0,0,2,2,2,0,2,0,1,0,0,0,1,0,1,European Ancestry
+0.0,1,2,1,2,0,0,0,0,1,0,0,0,0,0,European Ancestry
+0.0,0,2,2,2,0,1,2,0,0,1,1,0,0,0,European Ancestry
+0.0,0,2,0,2,0,0,0,0,0,1,0,0,0,1,European Ancestry
+0.0,0,2,1,2,0,0,0,0,0,2,2,1,0,0,European Ancestry
+0.0,0,2,2,2,0,0,1,0,0,0,2,1,1,0,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,1,2,0,0,0,European Ancestry
+0.0,0,2,2,2,0,0,2,0,0,1,0,1,1,0,European Ancestry
+0.0,0,2,2,2,0,0,1,0,0,1,0,1,0,1,European Ancestry
+0.0,0,2,1,1,0,0,0,1,0,1,0,0,1,0,European Ancestry
+0.0,0,2,1,1,0,0,2,0,0,1,0,1,1,0,European Ancestry
+0.0,0,2,2,1,0,1,0,0,0,1,0,1,0,1,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,0,0,1,1,1,European Ancestry
+0.0,0,2,1,1,0,1,1,0,0,2,0,0,0,1,European Ancestry
+0.0,0,2,1,2,0,0,2,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,1,2,0,0,0,0,0,0,0,2,0,0,European Ancestry
+0.0,0,2,0,2,0,0,0,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,0,2,0,0,2,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,0,2,0,0,1,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,2,1,0,0,0,0,1,1,1,0,0,1,European Ancestry
+0.0,0,2,0,2,0,1,1,0,0,0,1,0,1,0,European Ancestry
+0.0,0,2,1,2,0,0,2,0,0,1,0,0,0,1,European Ancestry
+0.0,0,1,1,2,0,1,0,0,1,1,1,1,0,0,European Ancestry
+0.0,0,1,1,1,0,1,0,1,1,0,1,0,0,2,European Ancestry
+0.0,0,2,1,2,0,0,0,0,0,2,0,0,1,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,2,0,0,0,1,European Ancestry
+0.0,0,2,2,2,0,1,1,0,1,1,0,2,1,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,0,0,1,0,0,European Ancestry
+0.0,0,2,0,2,0,0,1,0,0,1,0,0,0,1,European Ancestry
+0.0,0,1,1,2,0,0,1,0,1,1,1,1,0,0,European Ancestry
+0.0,0,2,1,2,0,1,0,0,1,1,1,1,0,0,European Ancestry
+0.0,0,2,1,2,0,0,1,0,1,1,2,0,0,1,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,2,0,1,0,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,1,0,2,1,0,1,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,1,1,1,1,0,European Ancestry
+0.0,0,2,1,2,0,0,0,1,0,0,2,0,0,1,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,1,0,1,0,0,European Ancestry
+0.0,0,2,1,2,0,0,2,0,0,0,2,1,0,0,European Ancestry
+0.0,0,2,2,1,0,1,1,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,2,1,0,0,2,0,0,0,1,1,0,2,European Ancestry
+0.0,0,2,0,2,0,0,0,1,0,1,1,0,0,0,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,1,2,1,1,0,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,0,0,1,1,1,European Ancestry
+0.0,0,2,2,1,0,2,0,0,0,0,0,2,0,0,European Ancestry
+0.0,0,2,1,2,0,0,0,0,0,0,1,1,0,0,European Ancestry
+0.0,0,1,1,2,0,0,1,0,0,1,1,0,0,1,European Ancestry
+0.0,0,2,2,2,0,0,1,1,0,0,0,1,1,0,European Ancestry
+0.0,0,2,2,1,0,0,1,0,0,0,1,0,0,1,European Ancestry
+0.0,0,2,2,2,0,1,1,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,0,0,1,0,0,European Ancestry
+0.0,0,2,1,2,0,2,1,0,0,2,1,0,1,2,European Ancestry
+0.0,0,2,1,1,0,2,1,0,0,1,1,2,2,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,0,1,0,1,0,European Ancestry
+0.0,0,2,0,2,0,1,1,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,0,0,0,0,1,1,0,0,0,European Ancestry
+0.0,0,2,0,2,0,0,1,1,0,0,0,0,0,1,European Ancestry
+0.0,0,2,1,2,0,0,1,0,1,1,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,1,1,0,0,0,European Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,0,1,2,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,1,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,1,0,0,0,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,0,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,1,0,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,1,1,1,0,0,East Asian Ancestry
+2.0,2,0,0,0,0,0,1,2,2,1,1,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,2,0,0,1,0,East Asian Ancestry
+2.0,2,0,0,0,0,0,0,2,1,0,0,0,0,0,East Asian Ancestry
+2.0,2,0,0,0,0,0,2,1,0,0,0,2,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,1,1,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,2,1,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,0,0,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,1,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,1,1,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,1,1,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,0,1,0,0,1,East Asian Ancestry
+0.0,1,0,0,0,0,0,2,2,0,0,1,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,0,0,1,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,2,2,1,0,0,0,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,1,1,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,0,1,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,1,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,2,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,0,1,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,2,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,1,1,2,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,1,0,1,East Asian Ancestry
+0.0,2,1,0,0,0,0,1,1,0,1,0,2,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,0,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,2,2,0,1,1,1,0,0,East Asian Ancestry
+2.0,2,0,0,0,0,0,0,2,1,1,0,2,0,0,East Asian Ancestry
+2.0,2,0,0,0,0,0,1,2,1,0,1,0,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,0,0,1,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,0,2,0,0,East Asian Ancestry
+2.0,2,0,0,0,0,0,1,2,2,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,1,1,1,0,East Asian Ancestry
+0.0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,American Ancestry
+0.0,0,1,0,0,0,1,2,0,0,1,0,0,1,0,American Ancestry
+0.0,0,1,0,0,0,0,1,1,0,1,1,0,1,1,American Ancestry
+1.0,2,0,0,0,0,0,1,2,0,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,1,1,0,0,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,0,1,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,2,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,0,1,1,1,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,0,0,0,1,East Asian Ancestry
+2.0,2,0,0,0,0,0,1,1,1,0,0,1,0,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,0,0,0,0,1,East Asian Ancestry
+2.0,2,0,0,0,0,0,0,1,0,0,1,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,1,0,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,2,0,0,1,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,2,1,0,0,0,1,East Asian Ancestry
+1.0,2,0,0,1,0,0,0,2,1,0,0,0,1,0,East Asian Ancestry
+2.0,2,0,0,0,0,0,0,2,1,2,0,1,1,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,2,2,1,0,0,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,0,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,1,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,1,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,2,0,0,0,0,East Asian Ancestry
+0.0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,2,1,0,0,0,1,East Asian Ancestry
+0.0,1,0,0,0,0,0,0,2,1,0,0,0,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,2,0,0,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,2,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,0,0,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,1,1,2,2,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,0,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,1,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,2,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,1,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,1,0,2,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,1,0,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,2,1,0,0,East Asian Ancestry
+0.0,1,2,0,0,0,1,0,0,0,2,1,0,1,0,American Ancestry
+0.0,1,2,0,2,0,0,1,0,0,0,2,1,0,0,American Ancestry
+0.0,0,2,0,0,0,1,1,0,0,1,0,0,0,1,American Ancestry
+0.0,0,2,1,0,0,1,1,0,0,0,1,1,0,1,American Ancestry
+1.0,2,0,0,0,0,0,0,0,1,0,2,0,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,2,1,1,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,2,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,0,0,1,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,1,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,1,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,2,0,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,1,1,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,2,0,0,0,East Asian Ancestry
+0.0,1,0,0,0,0,0,2,1,0,0,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,2,0,0,1,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,1,0,1,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,0,0,1,2,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,2,2,0,1,0,2,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,1,0,0,0,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,1,1,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,1,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,2,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,2,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,0,0,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,2,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,1,1,1,0,1,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,1,1,0,1,0,East Asian Ancestry
+0.0,0,0,0,1,0,2,0,0,0,0,1,1,0,0,American Ancestry
+0.0,0,2,1,0,0,2,0,1,0,0,0,0,1,1,American Ancestry
+0.0,1,1,0,1,0,1,0,1,0,1,2,1,0,0,American Ancestry
+0.0,0,1,1,0,0,2,0,0,1,0,0,0,1,0,American Ancestry
+0.0,0,2,1,0,0,1,1,0,0,0,0,0,0,1,American Ancestry
+0.0,0,2,2,1,0,1,0,0,0,0,1,0,1,0,American Ancestry
+0.0,0,2,0,1,1,1,1,1,0,1,0,0,1,1,American Ancestry
+0.0,0,1,1,1,0,0,0,0,0,0,0,1,0,1,American Ancestry
+0.0,0,1,0,0,0,1,1,2,0,1,1,0,0,0,American Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,1,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,0,1,0,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,1,1,0,1,0,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,2,2,1,1,0,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,1,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,1,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,0,1,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,2,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,0,1,0,East Asian Ancestry
+0.0,0,2,0,1,0,1,0,1,0,1,1,2,0,0,American Ancestry
+0.0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,American Ancestry
+0.0,1,0,2,1,1,0,1,0,1,0,0,0,0,1,American Ancestry
+0.0,1,1,1,0,0,0,1,1,0,0,1,0,0,0,American Ancestry
+0.0,2,0,1,0,1,0,0,0,0,0,1,0,0,0,American Ancestry
+0.0,0,2,1,1,0,1,0,0,0,1,2,1,0,0,American Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,American Ancestry
+0.0,0,2,0,2,2,1,0,0,0,0,0,0,0,0,American Ancestry
+0.0,0,2,1,0,0,1,0,0,0,0,1,1,1,0,American Ancestry
+0.0,1,2,0,0,0,1,1,1,0,1,1,0,1,0,American Ancestry
+0.0,1,1,0,0,2,1,1,1,0,0,1,0,0,1,American Ancestry
+0.0,0,2,1,0,0,1,0,0,0,0,0,2,0,1,American Ancestry
+0.0,0,2,1,0,1,2,0,0,0,0,1,0,0,0,American Ancestry
+0.0,1,1,1,0,0,0,0,1,0,0,0,0,0,1,American Ancestry
+0.0,1,1,1,0,0,1,0,1,0,0,1,1,1,0,American Ancestry
+0.0,0,2,1,1,0,2,2,1,0,0,1,0,1,0,American Ancestry
+0.0,0,2,0,0,0,0,0,1,0,0,0,1,0,1,American Ancestry
+0.0,0,0,0,2,0,2,1,0,1,0,0,0,0,0,American Ancestry
+0.0,0,2,1,0,0,2,1,0,0,0,0,1,2,1,American Ancestry
+0.0,1,1,0,1,0,0,0,0,0,0,2,0,1,1,American Ancestry
+0.0,0,2,1,0,1,0,0,1,2,1,1,1,1,0,American Ancestry
+0.0,0,2,0,1,1,0,1,0,0,1,1,2,1,0,American Ancestry
+0.0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,American Ancestry
+0.0,0,1,0,0,0,2,1,0,0,1,1,0,0,1,American Ancestry
+0.0,0,1,0,1,0,1,0,0,0,1,1,0,0,0,American Ancestry
+0.0,0,0,1,2,0,0,1,1,0,0,2,1,0,0,American Ancestry
+0.0,1,2,0,2,1,1,0,0,1,0,0,0,1,1,American Ancestry
+0.0,1,2,0,0,0,0,1,1,1,0,1,0,1,0,American Ancestry
+0.0,0,1,1,1,1,1,1,0,0,0,0,0,1,0,American Ancestry
+0.0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,American Ancestry
+0.0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,American Ancestry
+0.0,0,2,1,0,0,0,0,0,0,0,1,0,1,0,American Ancestry
+0.0,1,1,0,1,0,0,0,0,0,0,1,2,0,1,American Ancestry
+0.0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,American Ancestry
+0.0,0,0,1,1,0,2,1,0,0,0,1,0,0,0,American Ancestry
+0.0,0,2,1,0,0,2,2,1,0,0,0,0,0,0,American Ancestry
+0.0,0,2,1,2,0,0,2,0,0,0,1,0,0,0,American Ancestry
+0.0,1,1,1,1,1,0,2,0,0,0,0,0,0,0,American Ancestry
+0.0,2,0,0,0,2,0,0,1,1,0,2,0,1,0,American Ancestry
+0.0,0,0,2,1,0,0,1,1,0,0,1,0,0,1,American Ancestry
+0.0,1,1,0,0,0,1,0,1,0,0,1,1,0,0,American Ancestry
+0.0,0,1,2,0,0,2,0,0,0,1,0,1,2,0,American Ancestry
+0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,American Ancestry
+0.0,0,2,0,1,0,0,1,0,0,1,0,0,0,2,American Ancestry
+0.0,1,1,1,0,0,0,0,0,0,0,1,1,1,1,American Ancestry
+0.0,0,2,0,1,0,1,1,1,0,1,1,0,0,0,American Ancestry
+0.0,0,2,1,1,1,2,0,0,0,1,0,0,0,1,American Ancestry
+0.0,0,0,0,0,0,2,1,0,0,1,0,0,0,1,American Ancestry
+0.0,0,2,0,0,0,1,2,0,0,2,1,0,2,2,American Ancestry
+0.0,1,1,0,0,0,2,1,1,0,0,1,0,1,0,American Ancestry
+0.0,0,1,0,1,0,0,1,1,0,0,1,0,0,2,American Ancestry
+0.0,0,2,2,0,0,0,2,0,0,1,1,0,1,0,American Ancestry
+0.0,0,1,0,1,0,2,1,1,0,0,0,0,0,0,American Ancestry
+0.0,1,2,0,2,0,1,0,1,0,0,2,0,0,1,American Ancestry
+0.0,1,0,2,0,1,1,0,1,0,1,1,1,1,1,American Ancestry
+0.0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,American Ancestry
+0.0,0,1,1,0,0,0,0,1,0,0,1,1,1,0,American Ancestry
+0.0,1,2,0,0,0,0,0,0,1,1,2,0,0,0,American Ancestry
+0.0,1,1,0,1,0,0,1,1,0,0,2,2,0,0,American Ancestry
+0.0,1,1,1,1,0,0,1,0,0,1,1,0,0,1,American Ancestry
+0.0,0,1,1,0,0,1,1,0,0,1,2,0,0,0,American Ancestry
+0.0,0,2,0,0,0,1,0,0,0,1,0,2,0,1,American Ancestry
+0.0,2,2,1,0,0,1,0,1,0,0,2,0,0,0,American Ancestry
+0.0,0,1,0,1,0,0,1,1,0,1,0,1,1,0,American Ancestry
+0.0,1,2,0,1,0,1,1,1,0,1,1,1,0,0,American Ancestry
+0.0,0,1,1,0,1,1,1,1,0,1,0,0,1,2,American Ancestry
+0.0,0,0,0,0,1,1,1,0,0,1,2,1,1,1,American Ancestry
+0.0,0,1,0,0,0,1,2,0,0,0,1,1,0,0,American Ancestry
+0.0,1,1,0,0,0,0,0,0,0,0,2,1,0,1,American Ancestry
+0.0,1,0,0,1,0,2,1,1,0,1,0,0,0,0,American Ancestry
+0.0,1,1,1,0,1,0,0,1,0,1,0,0,0,1,American Ancestry
+0.0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,American Ancestry
+0.0,2,2,0,0,2,1,1,1,0,1,1,1,1,1,American Ancestry
+0.0,0,0,0,0,0,0,1,0,1,0,2,0,0,0,American Ancestry
+0.0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,American Ancestry
+0.0,1,0,0,1,0,1,0,1,0,1,2,0,0,1,American Ancestry
+0.0,0,0,0,0,0,2,1,1,0,1,0,0,0,1,American Ancestry
+0.0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,American Ancestry
+0.0,1,2,1,1,0,0,1,1,0,1,1,0,1,1,American Ancestry
+0.0,1,2,0,0,0,0,0,1,0,0,2,1,0,1,American Ancestry
+0.0,0,2,0,0,0,1,0,0,0,1,0,0,0,0,American Ancestry
+0.0,2,0,0,0,1,0,0,0,1,0,1,0,0,0,American Ancestry
+0.0,1,0,0,1,1,1,0,0,0,0,0,1,0,0,American Ancestry
+0.0,0,1,1,0,0,0,1,0,0,2,1,2,1,1,American Ancestry
+0.0,0,1,1,0,0,1,1,0,1,1,0,0,1,0,American Ancestry
+0.0,1,1,0,0,0,1,0,1,0,0,1,0,1,0,American Ancestry
+0.0,1,2,1,0,0,1,0,0,0,0,0,0,0,0,American Ancestry
+0.0,0,2,1,0,0,1,2,1,0,1,1,1,0,1,American Ancestry
+0.0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,American Ancestry
+0.0,0,1,1,1,0,1,1,0,0,1,1,1,0,0,American Ancestry
+0.0,1,1,1,1,0,1,1,0,0,0,2,0,0,1,American Ancestry
+0.0,1,2,2,0,0,1,1,0,1,0,0,1,1,0,American Ancestry
+0.0,0,1,0,0,0,1,1,1,0,2,1,0,0,0,American Ancestry
+0.0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,American Ancestry
+0.0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,American Ancestry
+0.0,1,2,0,1,0,1,1,0,0,1,0,0,0,0,American Ancestry
+0.0,0,2,2,0,0,2,0,0,0,0,1,0,0,1,American Ancestry
+0.0,0,1,1,1,0,1,1,2,0,0,1,0,0,0,American Ancestry
+0.0,0,1,0,0,0,0,0,0,0,0,1,2,1,0,American Ancestry
+0.0,0,1,0,0,0,0,0,0,0,2,0,1,0,2,American Ancestry
+0.0,0,1,1,2,1,1,0,0,1,2,0,1,0,0,American Ancestry
+0.0,1,1,0,2,1,0,0,0,0,0,0,1,0,1,American Ancestry
+0.0,1,2,0,0,0,1,0,1,0,0,1,1,0,0,American Ancestry
+0.0,1,2,0,2,0,0,1,0,0,0,0,1,1,0,American Ancestry
+0.0,0,1,0,0,0,1,1,0,1,0,0,0,1,0,American Ancestry
+0.0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,American Ancestry
+0.0,2,2,0,0,1,0,0,0,0,0,1,0,0,0,American Ancestry
+0.0,0,2,0,1,0,1,0,0,1,0,0,1,1,0,American Ancestry
+0.0,0,0,1,0,0,0,1,0,0,0,1,1,1,0,American Ancestry
+0.0,0,2,0,0,1,0,1,0,0,1,1,1,1,1,American Ancestry
+0.0,0,2,0,0,0,0,0,0,0,1,2,0,2,1,American Ancestry
+0.0,0,2,0,2,0,0,0,0,0,0,0,2,1,0,European Ancestry
+0.0,2,1,0,0,0,1,1,1,0,1,1,2,1,0,American Ancestry
+0.0,1,0,0,1,1,0,1,1,0,0,2,2,1,0,American Ancestry
+0.0,1,2,0,2,0,0,0,1,0,0,0,0,1,2,American Ancestry
+0.0,1,1,1,1,0,0,2,0,0,0,1,0,0,0,American Ancestry
+0.0,1,1,0,1,0,0,0,1,0,0,2,2,0,0,American Ancestry
+0.0,0,1,0,0,0,0,2,1,0,1,0,0,1,1,American Ancestry
+0.0,0,0,1,1,0,1,1,1,0,0,1,0,2,0,American Ancestry
+0.0,0,2,0,0,0,0,0,0,0,0,2,0,0,0,American Ancestry
+0.0,0,2,0,0,0,2,1,0,0,1,1,0,0,1,American Ancestry
+0.0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,American Ancestry
+0.0,1,2,0,1,0,0,1,0,0,0,2,0,0,0,American Ancestry
+0.0,0,2,2,1,0,1,0,0,0,0,2,1,0,1,American Ancestry
+0.0,0,0,1,1,0,1,0,2,0,0,1,0,0,1,American Ancestry
+0.0,0,1,1,0,1,0,1,0,1,1,0,2,0,0,American Ancestry
+0.0,2,2,0,1,0,0,1,1,1,0,0,1,0,0,American Ancestry
+0.0,1,1,0,2,0,1,2,1,0,0,1,0,2,0,American Ancestry
+0.0,1,2,1,0,0,1,0,1,0,0,0,0,1,0,American Ancestry
+0.0,1,0,0,0,0,0,0,1,1,0,1,1,0,0,American Ancestry
+0.0,1,2,2,1,0,0,0,0,0,1,2,0,0,0,American Ancestry
+0.0,0,2,0,0,0,1,1,0,0,1,1,0,1,1,American Ancestry
+0.0,1,1,1,1,0,1,1,0,0,1,1,0,1,0,American Ancestry
+0.0,2,2,2,1,1,0,1,2,0,0,1,1,0,1,American Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,1,1,0,1,American Ancestry
+0.0,0,1,1,1,1,0,2,1,0,1,2,0,0,1,American Ancestry
+0.0,0,2,1,1,0,0,0,0,0,1,0,1,1,0,American Ancestry
+0.0,1,2,2,0,0,1,0,0,0,1,2,0,0,0,American Ancestry
+0.0,1,1,0,1,2,2,0,1,1,0,1,1,0,0,American Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,2,1,0,0,American Ancestry
+0.0,2,0,0,0,0,0,1,0,0,1,2,0,0,1,American Ancestry
+0.0,1,0,0,1,0,0,1,0,0,1,0,2,0,1,American Ancestry
+0.0,0,1,1,1,1,0,1,0,0,1,0,0,1,0,American Ancestry
+0.0,0,1,0,0,1,0,1,0,0,1,2,0,0,1,American Ancestry
+0.0,1,2,0,1,1,0,0,0,1,0,1,0,0,0,American Ancestry
+0.0,0,1,0,0,0,0,1,0,0,0,1,0,1,1,American Ancestry
+0.0,0,2,1,0,0,1,2,1,0,1,1,0,1,0,American Ancestry
+0.0,0,1,1,0,0,1,0,0,0,1,1,1,1,0,American Ancestry
+0.0,2,2,0,1,1,0,0,0,0,1,2,0,1,0,American Ancestry
+0.0,0,1,0,0,0,0,0,1,0,0,0,2,1,0,American Ancestry
+0.0,0,2,0,0,0,1,1,1,0,1,0,0,0,0,American Ancestry
+0.0,0,2,0,1,0,1,1,1,1,0,2,0,0,0,American Ancestry
+0.0,0,1,1,0,0,0,2,1,0,0,1,0,2,1,American Ancestry
+0.0,0,2,1,2,0,0,1,1,0,1,0,0,2,0,American Ancestry
+0.0,1,2,0,1,0,1,0,0,0,0,1,0,1,1,American Ancestry
+0.0,1,1,1,0,1,1,0,1,0,0,1,0,0,1,American Ancestry
+0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,American Ancestry
+0.0,2,0,1,0,0,1,2,1,0,0,0,1,1,0,American Ancestry
+0.0,1,2,1,1,0,0,0,0,0,1,2,0,1,0,American Ancestry
+0.0,0,2,2,0,0,1,0,0,0,0,0,0,1,1,American Ancestry
+0.0,1,2,1,0,0,1,0,1,0,0,2,0,1,1,American Ancestry
+0.0,1,1,1,1,0,0,1,1,0,1,1,0,0,0,American Ancestry
+0.0,2,2,0,0,0,0,0,0,0,0,2,1,1,0,American Ancestry
+0.0,2,0,0,0,0,0,2,0,0,0,1,0,0,0,American Ancestry
+0.0,2,0,0,0,1,0,0,0,0,0,1,1,0,1,American Ancestry
+0.0,1,1,0,0,0,1,1,0,1,0,1,0,0,0,American Ancestry
+0.0,0,2,2,0,0,1,1,0,0,2,0,0,1,1,American Ancestry
+0.0,0,1,1,2,0,1,2,0,0,2,0,1,2,0,American Ancestry
+0.0,0,0,2,1,0,1,1,0,0,0,1,0,0,1,American Ancestry
+0.0,0,1,1,0,0,1,0,0,0,1,1,0,0,0,American Ancestry
+0.0,0,0,0,1,1,1,0,0,0,0,1,1,1,1,American Ancestry
+0.0,0,2,1,1,0,0,1,0,0,1,0,1,0,0,American Ancestry
+0.0,0,2,1,0,0,0,0,0,0,1,1,0,0,0,American Ancestry
+0.0,0,1,1,0,0,1,1,0,0,1,1,1,0,1,American Ancestry
+0.0,0,2,0,1,0,2,0,0,0,0,1,0,0,0,American Ancestry
+0.0,0,0,0,1,0,1,1,1,0,0,2,0,0,0,American Ancestry
+0.0,1,2,0,0,0,1,0,2,0,0,2,1,0,1,American Ancestry
+0.0,1,0,0,0,0,0,1,2,0,1,1,1,2,0,American Ancestry
+0.0,0,1,0,1,0,0,1,1,0,1,0,0,0,0,American Ancestry
+0.0,1,2,1,0,0,2,1,0,0,1,0,0,1,0,American Ancestry
+0.0,0,2,1,0,0,0,1,0,0,1,0,0,0,1,European Ancestry
+0.0,0,1,0,1,0,1,0,0,1,0,0,1,1,1,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,1,2,0,1,1,0,0,0,0,1,0,0,European Ancestry
+0.0,0,1,2,0,0,0,0,0,0,1,0,0,0,0,European Ancestry
+0.0,0,1,1,0,0,1,1,0,0,0,1,1,0,0,European Ancestry
+0.0,0,2,2,0,0,0,2,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,0,1,0,1,0,0,0,0,0,1,0,1,European Ancestry
+0.0,0,2,0,0,0,1,1,0,0,2,0,1,0,0,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,0,0,2,0,0,European Ancestry
+0.0,0,1,1,0,0,1,0,0,0,2,0,1,0,0,European Ancestry
+0.0,0,2,2,0,0,0,1,0,0,2,0,0,0,0,European Ancestry
+0.0,0,2,2,1,0,0,0,0,0,0,1,1,0,0,European Ancestry
+0.0,0,2,1,1,0,0,0,0,0,1,0,1,0,2,European Ancestry
+0.0,0,2,1,0,0,1,0,0,0,0,1,0,1,2,European Ancestry
+0.0,0,2,1,2,0,1,1,0,0,0,1,0,0,1,European Ancestry
+0.0,0,2,0,0,0,1,1,0,0,0,0,1,1,0,European Ancestry
+0.0,0,0,1,0,1,2,1,0,0,1,0,0,0,1,European Ancestry
+0.0,0,2,2,0,0,1,1,0,0,1,2,1,2,0,European Ancestry
+0.0,0,2,0,1,0,0,1,0,0,1,0,0,0,1,European Ancestry
+0.0,0,0,1,1,0,2,0,0,0,0,0,1,0,2,European Ancestry
+0.0,0,1,2,0,0,1,0,0,0,2,0,1,1,0,European Ancestry
+0.0,0,2,0,1,0,0,0,0,0,0,0,0,1,1,European Ancestry
+0.0,0,2,0,0,0,2,1,0,0,0,0,1,0,0,European Ancestry
+0.0,0,2,1,1,0,0,1,0,0,1,0,0,1,1,American Ancestry
+0.0,2,1,0,1,1,1,0,0,0,0,0,0,2,0,American Ancestry
+0.0,2,0,1,0,1,0,2,1,0,0,0,1,0,0,American Ancestry
+0.0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,American Ancestry
+0.0,0,0,0,0,0,1,0,0,0,0,2,0,1,0,American Ancestry
+0.0,2,1,1,1,0,0,1,1,0,0,1,0,1,0,American Ancestry
+0.0,1,1,0,0,0,0,0,2,0,0,1,2,1,0,American Ancestry
+0.0,0,1,0,1,0,0,1,1,0,1,1,0,1,0,American Ancestry
+0.0,1,0,1,1,0,1,0,1,0,1,1,1,1,0,American Ancestry
+0.0,0,0,1,0,0,1,0,0,1,0,1,1,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,0,0,2,0,0,0,0,0,0,1,0,0,0,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,2,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,1,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,1,0,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,1,1,0,2,East Asian Ancestry
+0.0,0,1,1,2,0,0,0,0,0,0,0,0,0,1,European Ancestry
+0.0,0,1,1,1,0,0,0,0,0,0,0,0,0,1,European Ancestry
+0.0,0,2,0,1,0,1,1,0,0,0,0,0,1,1,European Ancestry
+0.0,0,2,0,1,0,1,2,0,0,0,0,1,0,1,European Ancestry
+0.0,0,1,1,1,0,0,1,0,0,0,0,0,2,0,European Ancestry
+0.0,0,2,1,0,0,0,1,0,0,1,1,0,1,1,European Ancestry
+0.0,0,2,1,0,0,0,0,0,1,1,1,0,0,0,European Ancestry
+0.0,0,1,2,0,0,2,0,0,0,0,0,1,0,0,European Ancestry
+0.0,0,2,1,1,0,1,1,0,0,1,0,1,0,2,European Ancestry
+0.0,0,1,0,1,0,1,0,0,0,1,2,2,0,1,European Ancestry
+0.0,0,2,1,0,0,0,0,0,0,0,2,1,0,1,European Ancestry
+0.0,0,2,2,1,0,2,1,0,0,1,0,1,1,1,European Ancestry
+0.0,0,2,1,1,0,1,1,0,0,1,0,1,1,0,European Ancestry
+0.0,0,2,0,1,0,2,1,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,1,0,0,2,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,1,1,0,0,2,1,0,0,1,2,0,1,0,European Ancestry
+0.0,0,2,1,1,0,2,0,0,0,0,1,1,0,0,European Ancestry
+0.0,0,2,1,1,0,0,0,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,0,0,0,0,0,0,0,1,1,0,1,0,European Ancestry
+0.0,0,2,1,0,0,1,1,0,1,2,0,1,1,1,European Ancestry
+0.0,0,2,1,2,0,0,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,0,1,0,1,1,0,0,1,1,2,0,1,European Ancestry
+0.0,0,2,2,1,0,0,0,0,0,0,0,0,0,2,European Ancestry
+0.0,0,2,1,0,0,1,0,0,0,1,1,1,0,0,European Ancestry
+0.0,0,2,1,0,0,2,1,0,1,1,0,0,1,1,European Ancestry
+0.0,0,1,0,1,0,1,1,0,0,1,0,0,1,0,European Ancestry
+0.0,0,1,2,1,0,1,1,0,0,1,1,0,0,0,European Ancestry
+0.0,0,2,0,0,0,1,0,0,0,1,0,1,0,0,European Ancestry
+0.0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,European Ancestry
+0.0,0,2,2,0,0,1,1,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,1,0,0,1,1,0,0,0,1,1,0,0,European Ancestry
+0.0,0,2,0,0,0,1,1,0,0,0,0,1,0,1,European Ancestry
+0.0,0,1,2,0,0,1,0,0,0,2,0,0,0,0,European Ancestry
+0.0,0,1,1,1,0,1,2,0,0,0,1,1,0,1,European Ancestry
+0.0,0,1,1,1,0,0,1,0,0,1,0,1,0,1,European Ancestry
+0.0,0,2,1,1,0,0,0,0,0,0,1,1,0,0,European Ancestry
+0.0,0,1,0,1,0,1,0,0,0,2,2,1,0,0,European Ancestry
+0.0,0,2,0,1,0,0,1,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,2,2,0,0,2,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,0,0,0,0,0,0,0,0,1,0,0,1,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,0,2,0,0,0,European Ancestry
+0.0,0,1,1,2,0,2,0,0,0,1,0,0,1,1,European Ancestry
+0.0,0,2,1,0,1,0,0,0,0,0,0,1,0,0,European Ancestry
+0.0,0,2,1,0,0,1,0,0,0,1,1,2,1,1,European Ancestry
+0.0,0,1,2,1,0,2,0,0,0,1,0,0,0,0,European Ancestry
+0.0,0,1,2,0,0,1,0,0,0,0,1,0,0,0,European Ancestry
+0.0,0,1,0,0,0,0,0,0,0,2,0,1,1,1,European Ancestry
+0.0,0,1,0,1,0,0,0,0,0,1,0,0,2,1,European Ancestry
+0.0,0,2,0,1,0,0,0,0,0,0,1,0,1,0,European Ancestry
+0.0,0,2,2,0,0,2,0,0,0,1,1,1,1,2,European Ancestry
+0.0,0,2,2,0,0,1,0,0,0,0,0,0,1,1,European Ancestry
+0.0,0,2,0,1,0,1,2,0,0,2,1,0,0,1,European Ancestry
+0.0,0,2,1,1,0,0,0,0,0,1,2,0,0,0,European Ancestry
+0.0,0,1,1,0,0,0,1,0,1,1,1,1,0,0,European Ancestry
+0.0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,2,1,0,0,0,0,0,1,0,0,0,1,European Ancestry
+0.0,0,2,0,0,0,1,1,0,0,0,1,0,1,0,European Ancestry
+0.0,0,2,2,1,0,1,0,0,0,0,0,1,0,0,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,0,0,0,1,1,European Ancestry
+0.0,0,2,1,0,0,0,0,0,1,0,0,0,0,2,European Ancestry
+0.0,0,2,1,1,0,0,0,0,0,1,1,1,1,1,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,0,0,1,1,1,European Ancestry
+0.0,0,1,0,1,0,2,0,0,0,2,2,1,0,0,European Ancestry
+0.0,0,2,2,0,0,1,1,0,0,0,0,0,0,2,European Ancestry
+0.0,0,2,0,2,0,0,2,0,0,0,0,1,0,2,European Ancestry
+0.0,0,2,2,1,0,1,0,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,1,1,1,0,0,0,0,0,1,0,0,0,European Ancestry
+0.0,0,1,1,1,0,1,0,0,0,1,1,1,0,1,European Ancestry
+0.0,0,2,1,0,0,0,2,0,0,2,1,1,0,1,European Ancestry
+0.0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,2,0,0,1,1,0,1,0,0,0,2,0,European Ancestry
+0.0,0,2,0,2,0,1,0,0,1,0,1,1,0,1,European Ancestry
+0.0,0,2,2,2,0,2,0,0,0,1,0,0,0,0,European Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,1,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,1,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,2,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,2,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,1,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,1,2,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,1,1,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,2,0,0,2,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,1,1,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,1,2,2,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,1,1,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,1,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,1,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,1,2,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,1,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,1,1,1,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,0,2,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,2,1,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,0,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,1,1,2,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,2,2,1,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,2,0,0,1,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,0,1,2,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,1,0,1,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,2,0,1,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,0,2,1,1,2,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,0,0,1,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,1,1,0,0,2,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,1,0,2,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,0,1,0,1,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,2,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,2,1,1,1,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,0,1,1,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,1,0,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,1,2,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,2,0,0,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,1,0,0,0,1,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,2,2,1,1,0,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,1,0,1,1,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,1,1,1,1,1,1,East Asian Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,2,0,0,0,African Ancestry
+0.0,2,0,2,1,1,0,0,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,1,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,1,0,1,0,0,0,1,1,0,1,1,0,African Ancestry
+0.0,2,1,1,0,1,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,1,2,0,1,0,1,0,0,0,African Ancestry
+0.0,2,1,0,0,0,1,2,1,1,0,1,0,0,0,American Ancestry
+0.0,2,0,1,0,1,0,2,0,0,1,1,0,1,0,American Ancestry
+0.0,2,0,0,1,2,0,0,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,0,1,0,African Ancestry
+0.0,1,1,0,1,2,0,1,0,0,0,1,0,2,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,1,0,1,0,0,0,0,2,0,0,1,0,1,0,American Ancestry
+0.0,1,0,1,0,0,1,1,0,0,0,1,2,1,0,American Ancestry
+0.0,2,0,0,0,0,0,1,1,0,0,1,0,2,0,American Ancestry
+0.0,2,1,0,1,0,0,0,2,0,0,2,1,1,0,American Ancestry
+0.0,2,0,0,1,0,0,0,2,0,0,2,1,0,0,American Ancestry
+0.0,1,0,0,0,1,0,1,1,0,1,2,1,1,0,American Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,2,1,1,0,American Ancestry
+0.0,1,0,0,0,0,0,1,1,0,0,2,1,0,0,American Ancestry
+0.0,2,1,0,0,0,0,1,2,0,0,2,0,0,0,American Ancestry
+0.0,2,0,0,0,0,1,0,2,0,0,2,0,1,1,American Ancestry
+0.0,1,0,0,1,0,0,1,2,0,0,2,0,0,0,American Ancestry
+0.0,1,0,0,0,0,1,1,1,0,0,0,2,0,0,American Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,2,0,1,0,American Ancestry
+0.0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,American Ancestry
+0.0,2,0,0,0,1,0,0,2,0,0,2,1,0,2,American Ancestry
+0.0,2,0,0,0,0,1,1,2,0,0,0,1,0,0,American Ancestry
+1.0,2,0,0,0,0,0,0,2,1,0,1,0,1,0,American Ancestry
+0.0,2,0,0,0,0,0,1,1,0,0,1,1,0,0,American Ancestry
+0.0,2,0,1,0,0,1,1,1,0,1,0,1,0,1,American Ancestry
+0.0,1,1,0,0,0,0,1,1,0,0,1,1,0,1,American Ancestry
+0.0,2,1,0,0,0,0,1,2,0,0,2,0,1,0,American Ancestry
+0.0,2,0,0,0,0,0,2,2,0,0,2,0,1,0,American Ancestry
+0.0,2,0,0,0,0,0,1,1,0,0,1,1,0,0,American Ancestry
+0.0,1,0,0,0,0,0,0,2,0,0,2,1,0,0,American Ancestry
+0.0,2,0,0,0,2,1,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,1,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,1,1,0,0,American Ancestry
+0.0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,American Ancestry
+0.0,2,1,0,0,0,0,1,2,0,0,1,0,0,0,American Ancestry
+0.0,1,0,2,0,0,0,0,2,0,0,0,2,1,0,American Ancestry
+0.0,1,0,0,1,0,1,0,0,1,0,2,2,0,1,American Ancestry
+0.0,1,0,1,0,1,0,2,2,0,1,1,0,0,1,American Ancestry
+0.0,2,0,0,0,0,1,1,2,0,1,2,1,0,0,American Ancestry
+0.0,0,1,0,0,0,0,1,2,0,0,1,1,1,0,American Ancestry
+0.0,2,1,0,0,0,0,1,2,0,0,2,0,0,0,American Ancestry
+0.0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,American Ancestry
+0.0,2,0,2,0,0,0,1,2,0,1,1,0,0,0,American Ancestry
+0.0,2,0,0,0,0,0,0,1,0,0,2,1,1,0,American Ancestry
+0.0,2,0,0,1,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,1,0,0,1,2,0,0,0,0,0,0,0,2,0,African Ancestry
+0.0,2,2,1,0,1,0,0,0,0,0,1,0,0,0,African Ancestry
+0.0,1,0,0,1,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,1,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,1,2,0,1,American Ancestry
+0.0,2,0,0,1,0,0,1,1,0,0,1,0,2,0,American Ancestry
+0.0,2,1,1,0,0,0,0,1,0,0,2,2,0,0,American Ancestry
+0.0,2,0,0,0,0,0,2,2,0,1,2,0,0,0,American Ancestry
+0.0,2,0,1,1,0,0,0,2,0,0,1,1,0,0,American Ancestry
+0.0,1,2,0,0,2,0,0,1,0,1,2,1,0,0,American Ancestry
+0.0,2,0,0,0,0,0,1,0,0,0,1,0,0,0,American Ancestry
+0.0,2,1,0,0,1,1,1,0,0,0,0,1,0,0,African Ancestry
+0.0,2,0,1,0,2,0,0,0,1,0,0,1,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,1,0,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,2,1,1,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,0,0,1,2,0,East Asian Ancestry
+1.0,1,1,0,0,0,0,0,1,1,0,0,2,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,2,1,1,0,2,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,2,0,1,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,1,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,2,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,0,0,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,2,0,0,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,2,1,1,0,0,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,2,0,1,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,0,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,1,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,0,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,1,1,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,0,0,0,1,1,0,0,1,1,1,East Asian Ancestry
+0.0,2,1,0,0,0,0,1,1,0,2,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,0,1,0,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,1,0,0,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,1,1,1,1,2,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,2,0,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,1,0,0,0,1,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,1,0,0,2,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,1,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,1,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,1,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,0,1,2,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,1,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,1,0,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,2,1,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,1,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,0,1,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,1,0,0,0,0,East Asian Ancestry
+0.0,1,0,1,0,0,0,1,2,0,0,2,0,0,0,American Ancestry
+0.0,1,2,0,0,0,0,2,1,0,0,1,0,1,0,American Ancestry
+0.0,1,0,0,0,1,0,0,0,0,0,1,1,2,0,African Ancestry
+0.0,2,0,0,0,0,0,2,1,0,0,2,0,0,0,American Ancestry
+0.0,2,0,0,0,0,0,1,1,0,1,1,1,0,0,American Ancestry
+0.0,1,0,0,0,0,0,0,2,0,0,2,0,2,0,American Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,1,2,0,0,0,1,0,2,0,0,0,African Ancestry
+0.0,2,0,0,0,1,0,0,0,2,0,1,1,2,0,African Ancestry
+0.0,2,0,0,0,0,0,1,2,1,2,1,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,2,1,0,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,0,1,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,0,1,2,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,2,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,0,0,0,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,0,0,0,2,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,1,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,2,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,1,1,0,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,0,1,1,0,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,0,1,1,0,East Asian Ancestry
+2.0,2,0,0,0,0,0,0,2,1,0,0,2,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,2,1,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,0,0,1,0,East Asian Ancestry
+1.0,2,0,0,0,2,0,0,0,0,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,1,0,1,0,2,0,0,1,1,1,0,American Ancestry
+0.0,2,0,0,0,0,0,0,1,0,0,1,1,1,0,American Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,1,1,0,0,American Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,0,2,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,1,2,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,2,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,1,0,1,2,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,1,2,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,2,0,0,2,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,1,1,0,1,0,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,0,0,2,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,1,2,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,1,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,2,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,1,1,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,1,2,0,0,0,1,East Asian Ancestry
+0.0,0,2,2,1,0,0,2,0,1,0,0,0,1,1,European Ancestry
+0.0,0,2,0,0,1,1,0,0,0,1,0,1,2,2,European Ancestry
+0.0,0,1,0,0,0,2,1,0,0,1,1,1,1,0,European Ancestry
+0.0,0,1,0,2,0,1,1,0,0,0,1,1,0,0,European Ancestry
+0.0,0,1,1,1,0,2,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,1,1,0,0,1,0,0,1,1,1,0,1,European Ancestry
+0.0,0,1,1,0,0,1,1,0,1,0,0,0,0,0,European Ancestry
+0.0,0,1,2,1,0,0,1,0,0,0,1,1,1,1,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,1,0,1,1,1,European Ancestry
+0.0,0,1,0,0,0,2,0,0,0,1,0,2,0,1,European Ancestry
+0.0,0,2,2,0,0,1,0,0,0,1,1,0,1,1,European Ancestry
+0.0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,European Ancestry
+0.0,0,0,2,1,0,1,0,0,2,0,0,0,1,0,European Ancestry
+0.0,0,1,1,1,0,2,0,0,0,1,2,0,0,0,European Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,1,2,1,East Asian Ancestry
+0.0,1,1,0,0,0,0,0,2,0,0,1,0,2,0,American Ancestry
+0.0,1,0,1,0,0,1,0,2,0,0,2,0,1,0,American Ancestry
+0.0,2,1,0,0,2,0,0,0,2,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,1,0,1,0,0,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,2,0,1,0,American Ancestry
+0.0,1,0,0,1,0,0,0,2,0,0,1,0,0,1,American Ancestry
+0.0,1,1,0,0,0,0,0,2,0,0,1,2,0,0,American Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,2,2,1,0,American Ancestry
+0.0,1,0,0,0,1,0,1,2,1,1,1,0,0,0,American Ancestry
+0.0,2,0,0,0,0,1,0,2,0,0,2,0,0,0,American Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,2,1,0,0,American Ancestry
+0.0,1,0,0,1,0,0,2,2,1,1,1,0,0,0,American Ancestry
+0.0,2,0,0,1,0,0,1,1,0,0,2,1,1,0,American Ancestry
+0.0,1,1,0,1,0,0,0,2,0,0,1,1,2,0,American Ancestry
+0.0,2,0,0,1,0,0,1,2,0,0,2,0,1,0,American Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,1,0,0,African Ancestry
+0.0,1,0,0,1,2,0,1,0,1,0,0,2,1,0,African Ancestry
+0.0,0,0,0,0,2,0,1,0,1,0,1,1,0,0,African Ancestry
+0.0,1,1,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,1,1,0,1,0,0,1,1,0,0,1,1,1,0,American Ancestry
+0.0,1,0,0,0,0,0,1,1,0,0,2,0,0,0,American Ancestry
+0.0,1,0,0,0,0,0,1,1,0,0,2,1,0,0,American Ancestry
+0.0,1,1,1,0,0,0,0,2,0,0,0,0,0,0,American Ancestry
+0.0,1,1,0,0,0,1,1,2,0,1,1,0,0,0,American Ancestry
+0.0,1,0,0,0,0,0,0,2,0,0,2,1,2,0,American Ancestry
+0.0,1,1,1,0,0,0,1,1,0,1,1,2,2,0,American Ancestry
+0.0,2,0,0,1,0,1,1,2,0,0,2,1,1,0,American Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,1,0,1,2,0,2,0,0,1,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,1,0,0,0,0,0,0,2,0,1,1,1,0,0,American Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,1,0,0,1,0,1,1,1,1,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,1,1,0,2,1,0,0,1,0,African Ancestry
+0.0,2,0,0,0,1,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,1,0,1,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,2,1,0,0,2,0,0,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,1,0,0,1,0,1,1,1,0,African Ancestry
+0.0,0,0,0,0,2,0,0,0,2,2,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,1,0,1,1,0,1,1,1,0,1,1,0,0,1,American Ancestry
+0.0,1,0,0,0,0,1,0,2,0,0,2,1,1,0,American Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,0,0,2,2,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,0,1,0,1,0,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,2,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,0,2,0,1,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,1,2,1,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,1,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,1,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,1,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,2,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,1,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,0,1,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,2,0,0,1,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,1,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,1,2,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,0,2,2,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,1,1,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,1,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,1,1,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,1,0,0,0,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,0,2,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,2,0,1,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,1,2,1,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,1,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,1,1,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,1,1,2,0,1,East Asian Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,2,0,African Ancestry
+0.0,1,0,1,1,1,0,0,0,0,0,1,0,1,1,African Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,2,0,0,0,American Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,1,0,0,0,0,0,1,0,0,0,African Ancestry
+0.0,2,1,0,0,2,0,0,0,0,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,0,2,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,1,0,2,0,1,0,0,0,2,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,0,0,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,1,1,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,1,2,0,1,0,2,0,0,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,0,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,1,0,1,0,0,0,0,0,0,0,2,0,African Ancestry
+0.0,2,1,0,0,2,0,1,0,0,0,0,0,1,0,African Ancestry
+0.0,1,1,0,0,2,0,1,0,0,0,0,0,0,0,African Ancestry
+0.0,2,1,0,1,2,0,0,0,0,1,2,0,0,0,African Ancestry
+0.0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,African Ancestry
+0.0,1,0,0,2,2,0,0,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,1,0,1,0,0,0,0,1,1,0,African Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,South Asian Ancestry
+0.0,1,0,1,0,0,0,1,0,0,0,0,1,1,1,South Asian Ancestry
+0.0,0,0,1,0,0,0,1,0,1,0,1,0,0,0,South Asian Ancestry
+0.0,2,1,0,0,2,0,1,0,2,0,2,1,0,0,African Ancestry
+0.0,1,0,0,0,1,0,0,0,1,0,0,1,2,0,African Ancestry
+0.0,2,1,1,0,1,0,0,0,1,0,0,1,2,0,African Ancestry
+0.0,2,1,0,0,1,0,0,0,0,0,1,0,0,0,African Ancestry
+0.0,1,0,1,0,2,0,1,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,0,0,0,African Ancestry
+2.0,2,0,0,0,0,0,2,2,2,0,1,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,1,1,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,0,0,0,0,1,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,0,0,African Ancestry
+0.0,2,0,1,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,1,0,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,1,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,2,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,0,1,1,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,1,1,0,0,0,African Ancestry
+0.0,2,0,0,1,2,0,1,0,1,1,1,0,0,1,African Ancestry
+0.0,2,0,0,0,1,1,0,0,0,0,0,0,0,0,African Ancestry
+0.0,2,0,1,0,2,0,0,0,2,0,0,0,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,2,0,African Ancestry
+0.0,2,1,1,0,2,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,2,0,2,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,2,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,0,0,1,0,0,1,1,0,0,1,0,0,1,0,South Asian Ancestry
+0.0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,1,1,0,1,2,0,South Asian Ancestry
+0.0,0,0,1,1,0,0,2,0,0,1,1,1,0,0,South Asian Ancestry
+0.0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,1,2,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,2,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,2,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,2,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,0,2,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,0,0,0,0,1,2,0,1,0,1,South Asian Ancestry
+0.0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,1,1,0,2,0,South Asian Ancestry
+0.0,0,1,2,0,0,0,2,0,1,0,0,1,0,2,South Asian Ancestry
+0.0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,South Asian Ancestry
+0.0,1,0,2,1,0,0,1,0,0,2,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,1,0,1,1,0,0,1,2,0,1,1,South Asian Ancestry
+0.0,1,0,1,1,0,1,1,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,1,0,1,0,1,South Asian Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,0,0,2,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,1,0,0,0,0,0,African Ancestry
+0.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,1,1,0,0,0,2,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,1,0,0,2,0,0,2,0,0,0,1,1,0,0,South Asian Ancestry
+0.0,0,0,1,1,0,0,2,0,1,0,0,1,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,1,2,0,0,0,1,1,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,1,1,0,0,0,South Asian Ancestry
+0.0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,0,0,1,1,0,0,1,0,0,2,1,0,1,1,South Asian Ancestry
+0.0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,South Asian Ancestry
+0.0,0,1,0,0,0,1,2,0,0,0,1,1,0,0,South Asian Ancestry
+0.0,1,0,1,0,0,0,1,0,0,1,1,1,0,0,South Asian Ancestry
+0.0,1,0,1,0,0,1,0,0,0,0,1,1,1,0,South Asian Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,2,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,1,1,0,African Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,2,0,1,0,0,0,0,0,South Asian Ancestry
+0.0,2,0,1,0,0,0,1,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,0,0,1,0,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,1,0,1,1,0,0,0,0,0,0,1,0,1,1,South Asian Ancestry
+0.0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,2,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,2,0,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,1,0,0,0,African Ancestry
+0.0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,South Asian Ancestry
+0.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,1,1,0,0,0,0,0,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,1,1,0,0,2,0,0,1,1,1,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,South Asian Ancestry
+0.0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,1,1,0,1,1,1,0,0,0,South Asian Ancestry
+0.0,2,1,2,0,0,1,0,0,0,1,0,1,0,1,South Asian Ancestry
+0.0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,2,0,0,0,1,0,0,0,0,0,1,2,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,South Asian Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,2,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,2,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,1,0,0,2,0,0,0,1,0,2,0,1,0,African Ancestry
+0.0,2,0,0,1,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,0,0,0,1,2,0,0,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,1,0,2,0,0,0,2,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,2,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,2,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,0,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,2,0,0,0,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,2,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,2,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,2,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,2,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,0,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,African Ancestry
+0.0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,South Asian Ancestry
+0.0,1,1,0,0,0,0,2,1,0,1,0,0,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,1,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,South Asian Ancestry
+0.0,0,0,1,0,0,0,0,0,0,1,0,1,1,0,South Asian Ancestry
+0.0,1,0,2,0,0,1,2,0,1,2,0,0,0,0,South Asian Ancestry
+0.0,2,0,1,0,0,0,1,0,0,0,0,0,0,2,South Asian Ancestry
+0.0,1,0,1,0,0,0,2,0,0,0,0,0,1,2,South Asian Ancestry
+0.0,2,0,0,1,2,0,0,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,1,2,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,2,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,2,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,0,0,2,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,1,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,1,2,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,1,1,0,African Ancestry
+0.0,2,1,0,0,2,0,0,0,1,0,0,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,1,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,2,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,2,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,2,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,0,0,0,1,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,2,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,1,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,1,1,0,0,1,1,0,1,0,South Asian Ancestry
+0.0,1,0,1,2,0,1,1,0,0,0,0,1,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,South Asian Ancestry
+0.0,2,0,0,1,2,0,1,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,1,1,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,2,1,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,1,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,1,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,2,0,African Ancestry
+0.0,0,0,0,0,2,0,1,0,2,0,0,2,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,1,1,0,0,0,1,2,1,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,2,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,2,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,2,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,0,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,2,1,2,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,2,0,1,1,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,2,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,2,0,0,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,1,0,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,0,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,0,0,African Ancestry
+0.0,1,0,1,1,0,1,1,0,0,1,1,0,0,1,South Asian Ancestry
+0.0,0,1,0,0,0,0,0,0,0,0,1,0,2,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,2,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,0,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,African Ancestry
+0.0,2,1,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,1,0,0,2,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,2,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,1,1,0,0,2,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,2,2,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,2,1,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,2,0,0,1,0,0,1,1,0,1,0,1,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,1,1,1,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,1,0,1,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,1,0,0,1,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,1,2,0,0,0,1,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,0,0,1,0,0,1,0,0,0,0,0,0,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,2,0,1,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,1,0,0,1,1,0,0,1,1,1,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,2,0,0,1,0,0,1,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,1,0,0,1,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,2,0,1,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,2,1,0,1,0,0,1,0,1,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,0,0,1,1,0,1,0,0,0,0,1,0,0,1,South Asian Ancestry
+0.0,0,0,1,0,0,0,2,0,0,0,1,0,0,1,South Asian Ancestry
+0.0,1,0,1,0,0,0,1,0,0,1,0,1,1,0,South Asian Ancestry
+0.0,1,0,1,0,0,0,1,0,0,1,1,0,0,2,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,2,0,1,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,0,1,0,0,2,South Asian Ancestry
+0.0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,0,0,1,2,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,0,0,1,1,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,2,0,1,0,0,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,2,1,0,0,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,2,0,1,0,0,0,0,0,0,1,0,1,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,1,1,0,1,0,0,0,2,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,2,0,0,0,0,1,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,1,1,0,0,1,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,2,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,1,0,0,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,2,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,South Asian Ancestry
+0.0,0,1,0,0,0,0,0,0,1,0,0,0,1,2,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,2,1,0,0,0,0,0,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,South Asian Ancestry
+0.0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,South Asian Ancestry
+0.0,2,1,0,0,0,0,0,0,2,1,1,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,0,2,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,1,1,0,1,1,South Asian Ancestry
+0.0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,1,0,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,1,1,0,0,0,1,1,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,2,0,1,0,0,0,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,1,0,2,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,1,0,1,0,0,0,1,0,1,0,1,0,0,0,South Asian Ancestry
+0.0,2,0,0,1,0,0,0,0,1,1,0,0,0,0,South Asian Ancestry
+0.0,0,2,0,0,0,0,0,0,1,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,2,0,0,1,1,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,0,1,1,2,South Asian Ancestry
+0.0,1,0,0,0,0,0,2,0,1,0,1,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,0,0,1,0,0,0,2,0,1,2,0,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,1,1,0,South Asian Ancestry
+0.0,2,0,1,0,0,0,0,0,1,2,1,2,0,0,South Asian Ancestry
+0.0,0,0,0,1,0,0,2,0,1,1,1,0,0,0,South Asian Ancestry
+0.0,1,0,0,1,0,0,1,0,0,1,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,1,0,0,0,2,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,1,0,1,1,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,0,1,2,South Asian Ancestry
+0.0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,South Asian Ancestry
+0.0,2,0,0,1,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,1,2,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,1,1,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,0,0,1,0,1,South Asian Ancestry
+0.0,0,1,0,0,0,0,1,0,2,1,0,0,0,1,South Asian Ancestry
+0.0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,0,1,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,0,1,0,0,1,0,South Asian Ancestry
+0.0,1,1,0,0,0,0,0,0,0,1,0,0,0,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,0,0,1,1,1,South Asian Ancestry
+0.0,1,0,0,1,0,0,1,0,2,0,0,1,0,1,South Asian Ancestry
+0.0,2,0,0,0,0,1,1,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,1,0,0,1,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,2,0,0,1,0,1,2,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,2,0,1,0,1,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,1,1,1,0,0,South Asian Ancestry
+0.0,1,0,0,1,0,0,0,0,0,1,1,1,0,0,South Asian Ancestry
+0.0,0,1,0,1,0,0,1,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,South Asian Ancestry
+0.0,1,0,1,1,0,0,1,0,0,0,1,1,1,0,South Asian Ancestry
+0.0,2,0,1,0,0,0,0,0,0,0,1,1,1,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,1,2,0,0,0,0,1,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,1,2,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,0,1,0,0,2,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,1,0,0,1,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,South Asian Ancestry
+0.0,0,1,0,0,0,0,0,0,0,0,0,2,2,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,1,1,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,South Asian Ancestry
+0.0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,2,1,0,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,1,2,0,0,0,1,0,0,2,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,1,0,0,1,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,1,0,1,0,0,1,0,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,0,0,1,0,0,0,1,0,1,0,0,0,1,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,0,0,1,2,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,1,0,1,0,1,South Asian Ancestry
+0.0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,2,0,0,1,1,1,1,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,South Asian Ancestry
+0.0,2,1,0,0,0,0,2,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,1,0,0,0,0,0,0,0,0,0,2,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,2,0,1,0,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,1,0,0,1,1,1,South Asian Ancestry
+0.0,0,1,0,0,0,0,0,0,0,1,0,0,2,1,South Asian Ancestry
+0.0,1,0,0,1,0,0,1,0,1,1,0,1,0,1,South Asian Ancestry
+0.0,1,1,0,0,0,0,1,0,1,1,0,1,1,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,1,0,2,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,2,0,0,1,0,1,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,2,0,1,1,0,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,1,0,0,1,0,0,1,1,0,2,1,South Asian Ancestry
+0.0,0,0,1,0,0,0,0,0,0,1,0,0,1,0,South Asian Ancestry
+0.0,0,0,1,0,0,0,1,0,1,1,1,0,1,1,South Asian Ancestry
+0.0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,1,0,0,0,2,0,South Asian Ancestry
+0.0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,1,0,1,1,0,1,0,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,South Asian Ancestry
+0.0,1,1,0,0,0,0,2,0,0,1,0,1,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,1,0,0,1,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,1,0,1,1,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,1,0,0,1,0,0,1,0,2,0,0,0,1,0,South Asian Ancestry
+0.0,1,1,0,0,0,0,1,0,0,2,0,0,1,0,South Asian Ancestry
+0.0,2,1,0,0,0,0,1,0,0,0,0,0,2,2,South Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,0,0,1,1,1,1,South Asian Ancestry
+0.0,1,0,1,0,0,0,2,0,1,0,0,0,0,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,1,0,0,1,1,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,0,0,0,0,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,South Asian Ancestry
+0.0,2,0,0,1,0,0,1,0,0,1,1,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,1,1,0,1,1,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,2,0,1,0,0,South Asian Ancestry
+0.0,1,0,0,1,0,0,2,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,1,0,2,1,South Asian Ancestry
+0.0,0,0,1,0,0,0,2,0,0,0,0,1,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,1,0,1,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,1,0,0,0,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,1,0,0,0,1,0,South Asian Ancestry
+0.0,1,0,1,0,0,0,1,0,0,0,1,0,0,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,1,0,2,0,0,0,0,0,1,0,0,1,0,1,South Asian Ancestry
+0.0,0,1,1,0,0,0,0,0,1,1,1,1,1,0,South Asian Ancestry
+0.0,1,0,1,0,0,0,1,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,2,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,2,0,1,1,1,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,1,0,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,0,1,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,2,0,0,0,0,1,1,2,South Asian Ancestry
+0.0,2,0,0,0,0,0,2,1,0,1,1,0,0,0,South Asian Ancestry
+0.0,1,0,0,1,0,0,1,0,0,1,0,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,1,0,0,1,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,0,0,2,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,1,0,2,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,1,0,0,1,0,0,2,0,1,0,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,0,0,1,1,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,1,0,0,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,South Asian Ancestry
+0.0,2,1,0,0,0,0,1,0,1,1,1,1,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,1,0,1,1,0,South Asian Ancestry
+0.0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,1,1,0,0,0,2,South Asian Ancestry
+0.0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,0,0,1,1,0,0,0,0,0,1,0,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,1,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,1,0,0,0,2,1,South Asian Ancestry
+0.0,1,0,0,1,0,0,1,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,0,1,1,2,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,1,0,0,1,South Asian Ancestry
+0.0,2,0,0,1,0,0,0,1,0,0,0,1,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,1,0,1,0,0,0,2,0,0,0,2,0,1,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,1,0,0,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,2,0,1,0,0,0,1,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,1,0,0,0,0,0,1,South Asian Ancestry
+0.0,1,0,0,1,0,1,0,0,0,0,1,0,1,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,2,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,2,0,1,0,0,0,2,0,1,0,0,0,2,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,0,0,0,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,0,1,0,0,0,0,1,0,0,1,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,1,0,0,2,0,1,2,0,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,0,1,1,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,2,0,1,0,0,0,1,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,1,1,2,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,0,1,0,1,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,1,0,1,1,0,0,1,0,0,1,1,0,0,0,South Asian Ancestry
+0.0,2,2,0,0,0,0,1,0,0,2,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,2,0,0,1,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,1,0,0,1,0,0,0,0,0,1,0,0,0,2,South Asian Ancestry
+0.0,0,1,0,0,0,0,2,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,South Asian Ancestry
+0.0,0,2,1,2,0,0,2,0,0,1,1,0,0,1,European Ancestry
+0.0,0,2,1,2,0,1,1,0,0,0,0,0,0,1,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,0,0,1,1,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,2,0,0,0,0,2,2,0,0,European Ancestry
+0.0,0,2,2,1,0,2,1,0,0,1,1,0,0,1,European Ancestry
+0.0,0,2,0,1,0,0,1,0,0,1,1,1,0,1,European Ancestry
+0.0,0,2,1,1,0,0,0,0,0,1,1,1,0,1,European Ancestry
+0.0,0,2,2,1,0,2,1,0,0,1,1,0,1,1,European Ancestry
+0.0,0,2,2,2,0,1,0,0,1,0,1,1,1,0,European Ancestry
+0.0,0,2,2,1,0,0,0,0,0,1,0,0,2,0,European Ancestry
+0.0,0,2,2,1,0,1,1,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,1,1,0,1,2,0,0,0,0,1,0,0,European Ancestry
+0.0,0,2,2,2,0,0,1,0,0,0,0,1,0,2,European Ancestry
+0.0,0,2,1,1,0,1,0,0,1,1,0,2,0,0,European Ancestry
+0.0,0,2,2,2,0,0,1,0,0,0,1,0,0,1,European Ancestry
+0.0,0,2,2,2,0,2,2,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,2,1,0,1,0,0,0,0,0,0,1,1,European Ancestry
+0.0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,2,2,0,2,1,0,0,1,0,1,1,1,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,2,1,0,1,0,0,0,1,2,0,1,1,European Ancestry
+0.0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,2,0,0,0,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,0,1,1,0,1,European Ancestry
+0.0,0,2,2,1,0,0,1,0,0,1,1,0,1,1,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,1,1,0,1,0,0,0,0,1,European Ancestry
+0.0,0,2,2,1,0,0,2,0,0,0,0,0,0,1,European Ancestry
+0.0,0,2,1,1,0,0,0,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,0,1,1,1,1,European Ancestry
+0.0,0,2,1,1,0,1,1,0,0,1,1,0,0,0,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,2,1,0,1,0,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,0,0,0,0,1,1,0,0,0,European Ancestry
+0.0,0,2,2,2,0,2,1,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,1,0,1,1,2,European Ancestry
+0.0,0,2,2,2,0,1,0,0,1,0,1,0,1,1,European Ancestry
+0.0,0,2,2,1,0,0,0,0,0,1,1,0,2,0,European Ancestry
+0.0,0,2,0,1,0,0,1,0,0,1,0,1,1,0,European Ancestry
+0.0,0,2,2,2,0,1,1,0,0,0,0,1,0,0,European Ancestry
+0.0,0,2,2,1,0,0,0,0,0,0,1,0,0,1,European Ancestry
+0.0,0,2,1,1,0,1,1,0,0,1,1,0,1,0,European Ancestry
+0.0,0,2,1,2,0,0,0,0,1,0,1,0,0,1,European Ancestry
+0.0,0,2,2,1,0,2,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,2,1,0,1,1,0,0,0,1,1,0,1,European Ancestry
+0.0,0,2,2,2,0,0,1,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,1,0,0,1,2,1,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,0,1,1,1,0,European Ancestry
+0.0,0,2,0,1,0,1,0,0,0,1,0,0,0,1,European Ancestry
+0.0,0,2,1,2,0,1,1,0,0,0,0,1,0,2,European Ancestry
+0.0,0,2,0,1,0,2,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,2,2,0,1,1,0,0,1,0,1,0,1,European Ancestry
+0.0,0,1,1,2,0,0,1,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,1,1,0,0,0,0,0,1,0,1,0,0,European Ancestry
+0.0,0,2,2,1,0,2,1,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,2,2,0,1,1,0,0,0,0,1,0,1,European Ancestry
+0.0,0,2,2,1,0,1,1,0,0,1,0,1,0,1,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,2,0,0,0,1,European Ancestry
+0.0,0,2,2,1,0,1,0,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,0,0,0,1,1,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,2,1,1,0,0,European Ancestry
+0.0,0,2,2,2,0,1,1,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,1,2,0,2,1,0,0,0,1,0,0,1,European Ancestry
+0.0,0,2,1,1,0,0,0,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,0,1,0,0,0,1,1,0,0,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,0,0,0,0,1,European Ancestry
+0.0,0,2,0,2,0,0,1,0,1,1,0,0,1,0,European Ancestry
+0.0,0,2,1,2,0,0,2,0,0,1,0,0,0,1,European Ancestry
+0.0,0,2,2,2,0,1,1,0,0,0,0,2,0,1,European Ancestry
+0.0,0,1,1,1,0,2,0,0,0,1,0,0,1,1,European Ancestry
+0.0,0,2,1,2,0,0,0,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,2,1,0,1,0,0,0,1,2,0,1,0,European Ancestry
+0.0,0,2,1,1,0,2,1,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,0,2,0,2,0,0,0,1,0,2,1,1,European Ancestry
+0.0,0,2,2,2,0,0,0,0,1,1,1,1,0,1,European Ancestry
+0.0,0,2,1,2,0,1,1,0,0,1,0,2,1,0,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,2,2,0,2,1,0,0,2,0,0,0,1,European Ancestry
+0.0,0,2,2,2,0,1,0,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,2,1,0,1,1,0,0,1,2,0,0,2,European Ancestry
+0.0,0,2,2,2,0,0,1,0,0,0,1,0,0,1,European Ancestry
+0.0,0,2,1,2,0,0,0,0,0,0,0,1,0,0,European Ancestry
+0.0,0,2,2,2,0,2,0,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,2,1,0,2,0,0,0,0,1,1,0,0,European Ancestry
+0.0,0,2,2,1,0,2,1,0,0,2,0,1,0,0,European Ancestry
+0.0,0,2,0,2,0,2,0,0,0,1,1,0,0,1,European Ancestry
+0.0,0,2,2,1,0,0,0,0,0,0,0,1,1,0,European Ancestry
+0.0,0,1,2,2,0,0,1,0,0,0,1,0,0,1,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,0,0,1,0,0,European Ancestry
+0.0,0,1,1,1,0,1,0,0,0,0,1,1,0,1,European Ancestry
+0.0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,1,0,0,0,0,European Ancestry
+0.0,0,2,2,2,0,0,1,0,0,2,1,2,1,0,European Ancestry
+0.0,0,2,1,0,0,2,1,0,1,0,0,0,0,1,European Ancestry
+0.0,0,2,1,2,0,2,0,0,1,1,0,0,0,0,European Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,0,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,2,0,1,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,2,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,2,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,2,0,African Ancestry
+1.0,2,0,0,0,0,0,1,1,2,0,0,0,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,1,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,0,0,0,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,2,2,0,0,East Asian Ancestry
+0.0,2,1,0,0,0,0,0,2,0,1,1,0,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,0,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,0,1,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,1,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,1,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,1,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,0,2,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,1,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,2,0,0,East Asian Ancestry
+2.0,2,0,0,0,0,0,1,2,1,0,0,0,0,0,East Asian Ancestry
+1.0,2,1,0,0,0,0,1,2,1,0,0,2,0,1,East Asian Ancestry
+1.0,2,1,0,0,0,0,0,2,0,1,1,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,0,0,1,0,0,East Asian Ancestry
+0.0,1,0,0,0,0,0,0,2,1,0,0,2,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,0,1,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,1,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,1,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,1,1,0,2,East Asian Ancestry
+0.0,1,0,0,0,0,0,0,2,1,1,2,2,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,1,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,0,1,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,1,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,1,1,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,1,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,1,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,1,0,1,East Asian Ancestry
+2.0,2,0,0,0,0,0,0,2,2,0,0,0,0,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,1,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,1,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,1,2,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,1,1,2,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,1,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,1,0,2,0,1,East Asian Ancestry
+2.0,2,0,0,0,0,0,0,2,0,1,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,1,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,1,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,0,0,2,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,2,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,1,0,0,East Asian Ancestry
+0.0,1,0,0,0,0,0,0,2,2,1,0,1,1,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,0,0,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,1,0,0,0,0,East Asian Ancestry
+0.0,1,0,0,0,0,0,0,2,1,0,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,1,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,1,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,1,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,2,2,1,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,0,1,0,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,1,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,1,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,2,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,0,1,0,1,East Asian Ancestry
+2.0,2,0,0,0,0,0,0,2,1,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,0,0,0,East Asian Ancestry
+0.0,1,0,0,0,0,0,0,2,1,2,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,0,0,1,0,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,2,0,1,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,1,2,0,0,1,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,1,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,1,0,1,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,0,1,1,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,1,0,1,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,2,1,1,1,0,1,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,1,1,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,2,1,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,0,0,0,East Asian Ancestry
+1.0,1,0,0,0,0,0,1,2,2,0,1,1,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,1,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,1,1,1,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,1,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,0,1,0,1,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,1,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,1,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,0,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,2,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,2,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,1,0,1,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,2,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,2,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,1,0,African Ancestry
+1.0,2,0,0,0,0,0,0,1,0,0,0,0,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,0,1,0,0,0,2,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,2,1,1,1,1,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,1,0,1,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,0,0,1,East Asian Ancestry
+2.0,2,0,0,0,0,0,0,2,2,0,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,0,0,0,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,0,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,0,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,1,0,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,1,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,1,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,2,0,1,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,1,1,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,1,1,0,2,1,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,1,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,1,0,0,2,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,2,1,0,1,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,1,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,2,0,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,2,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,2,0,1,1,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,0,0,1,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,0,1,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,2,0,0,0,0,1,East Asian Ancestry
+0.0,1,0,0,0,0,0,0,1,1,0,1,2,0,0,East Asian Ancestry
+2.0,2,0,0,0,0,0,2,0,1,0,1,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,2,0,0,1,0,1,East Asian Ancestry
+2.0,2,0,0,0,0,0,0,2,1,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,0,1,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,0,0,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,0,0,1,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,1,0,1,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,1,1,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,2,1,0,0,0,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,0,0,1,0,2,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,1,1,1,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,1,0,1,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,0,1,1,1,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,1,1,0,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,2,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,2,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,0,1,1,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,1,2,0,1,0,1,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,0,1,0,1,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,1,0,1,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,0,1,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,0,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,0,0,0,1,East Asian Ancestry
+2.0,2,0,0,0,0,0,0,2,1,0,0,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,0,0,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,2,0,0,0,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,2,0,0,0,1,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,0,2,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,2,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,2,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,1,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,0,1,0,0,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,0,2,1,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,2,1,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,0,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,2,1,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,1,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+1.0,2,0,0,0,0,0,0,2,0,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,2,0,1,2,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,1,1,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,1,0,0,0,0,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,0,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,1,1,1,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,1,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,1,1,0,0,1,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,2,1,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,0,0,1,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,0,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,0,1,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,0,0,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,0,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,1,0,1,East Asian Ancestry
+2.0,2,0,0,0,0,0,0,2,1,0,1,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,0,0,0,0,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,2,1,0,0,1,0,0,East Asian Ancestry
+1.0,2,0,0,0,0,0,0,1,1,0,0,0,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,1,1,1,1,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,2,1,0,0,1,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,1,1,2,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,1,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,0,0,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,0,0,1,0,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,1,1,1,1,0,1,1,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,1,2,0,0,East Asian Ancestry
+0.0,2,0,0,0,0,0,0,2,1,0,0,0,0,1,East Asian Ancestry
+1.0,2,0,0,0,0,0,1,2,1,0,0,1,1,0,East Asian Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,1,1,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,1,0,0,2,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,2,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,2,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,2,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,0,2,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,1,2,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,2,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,2,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,1,1,1,1,0,African Ancestry
+0.0,0,0,0,0,2,0,1,0,0,0,0,2,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,2,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,2,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,1,0,2,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,2,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,1,0,0,0,1,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,1,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,1,1,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,2,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,1,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,2,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,2,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,2,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,2,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,2,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,1,0,0,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,0,0,0,1,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,1,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,0,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,1,2,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,2,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,0,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,1,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,1,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,0,0,1,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,2,0,2,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,1,2,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,2,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,0,1,0,African Ancestry
+0.0,1,0,0,0,2,0,1,0,1,0,0,2,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,1,0,1,0,African Ancestry
+0.0,2,1,0,1,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,0,2,0,1,0,0,1,0,0,1,0,0,0,0,American Ancestry
+0.0,1,2,1,1,1,0,0,1,0,0,1,0,0,0,American Ancestry
+0.0,0,1,1,0,0,0,0,0,0,0,1,0,0,2,American Ancestry
+0.0,0,1,0,0,0,0,1,1,0,0,1,1,0,1,American Ancestry
+0.0,1,1,0,0,0,1,0,0,1,0,0,1,0,0,American Ancestry
+0.0,0,1,0,0,0,0,1,0,0,1,1,1,0,1,American Ancestry
+0.0,0,0,0,0,0,1,0,2,0,0,1,1,0,1,American Ancestry
+0.0,0,2,0,1,0,0,0,2,0,1,1,1,0,1,American Ancestry
+0.0,1,1,1,0,0,0,1,1,0,1,1,1,0,0,American Ancestry
+0.0,2,0,1,0,0,0,0,0,0,0,0,2,0,0,American Ancestry
+0.0,1,1,0,0,0,1,1,1,0,0,1,0,0,0,American Ancestry
+0.0,0,0,1,1,0,0,0,0,0,0,1,1,0,0,American Ancestry
+0.0,1,1,0,1,0,1,0,0,0,1,1,0,2,0,American Ancestry
+0.0,1,0,1,0,0,0,1,1,0,0,1,0,0,0,American Ancestry
+0.0,1,2,1,0,0,1,0,0,0,0,2,1,1,0,American Ancestry
+0.0,0,2,1,2,0,0,0,0,0,1,1,1,1,0,American Ancestry
+0.0,1,2,1,0,0,0,0,1,0,0,1,1,1,0,American Ancestry
+0.0,0,1,1,0,0,1,1,0,0,0,2,1,0,0,American Ancestry
+0.0,1,2,2,1,0,0,1,0,0,0,1,2,0,0,American Ancestry
+0.0,2,0,1,0,1,0,0,0,0,0,0,1,0,0,African Ancestry
+0.0,2,1,0,0,0,0,1,0,2,0,1,0,0,0,African Ancestry
+0.0,1,0,0,1,1,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,1,1,0,0,2,0,2,0,0,1,0,1,0,0,African Ancestry
+0.0,2,0,0,1,1,0,0,0,2,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,2,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,1,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,2,1,0,0,0,1,0,1,0,0,0,1,0,African Ancestry
+0.0,1,1,0,2,0,0,0,1,0,0,0,2,2,0,American Ancestry
+0.0,2,2,0,0,0,1,1,1,0,0,1,0,0,0,American Ancestry
+0.0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,American Ancestry
+0.0,1,1,0,0,0,0,0,1,0,1,1,0,2,0,American Ancestry
+0.0,2,0,0,0,0,1,1,1,1,0,1,0,0,1,American Ancestry
+0.0,2,1,0,1,0,0,0,1,0,0,1,1,0,0,American Ancestry
+0.0,1,1,2,0,0,2,1,0,0,0,1,1,0,1,American Ancestry
+0.0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,American Ancestry
+0.0,2,0,0,0,0,0,0,2,1,1,1,2,0,0,American Ancestry
+0.0,2,0,0,0,0,0,1,2,0,0,1,2,0,1,American Ancestry
+0.0,2,0,0,0,0,0,0,2,0,1,0,1,0,0,American Ancestry
+0.0,2,0,0,0,0,0,0,2,0,0,1,1,0,0,American Ancestry
+0.0,1,0,0,1,0,0,1,0,0,0,1,1,0,1,American Ancestry
+0.0,2,0,0,0,0,0,1,1,0,0,2,0,1,0,American Ancestry
+0.0,2,0,0,0,0,0,1,1,0,0,2,0,1,0,American Ancestry
+0.0,2,1,0,0,0,0,0,2,0,0,1,1,1,0,American Ancestry
+0.0,0,0,1,0,0,0,0,2,0,0,0,1,1,1,American Ancestry
+0.0,1,1,1,2,0,0,1,1,0,1,1,2,0,0,American Ancestry
+0.0,2,0,1,0,0,1,0,1,0,0,1,0,0,0,American Ancestry
+0.0,0,2,1,0,0,0,1,2,0,2,1,1,0,1,American Ancestry
+0.0,1,2,0,0,0,2,1,1,0,0,0,1,1,0,American Ancestry
+0.0,1,0,0,0,0,1,1,2,0,0,1,1,1,0,American Ancestry
+0.0,1,0,0,0,1,0,1,0,1,0,2,1,1,0,American Ancestry
+0.0,1,0,0,0,0,0,0,2,0,0,2,1,0,0,American Ancestry
+0.0,1,0,1,0,1,0,2,2,0,1,2,0,1,1,American Ancestry
+0.0,0,0,0,0,0,1,2,1,1,0,1,1,0,1,American Ancestry
+0.0,1,1,1,0,0,0,0,1,0,0,2,0,1,0,American Ancestry
+0.0,2,1,1,0,0,2,1,0,0,0,1,1,1,0,American Ancestry
+0.0,1,1,1,0,1,0,1,1,0,1,1,0,2,0,American Ancestry
+0.0,1,1,1,0,0,0,1,2,1,0,1,0,1,0,American Ancestry
+0.0,0,1,0,2,0,0,0,1,1,0,2,1,1,0,American Ancestry
+0.0,1,0,1,1,0,1,1,2,0,0,0,0,0,0,American Ancestry
+0.0,0,2,0,0,0,0,1,1,0,0,0,0,0,0,American Ancestry
+0.0,1,0,2,1,0,0,0,0,0,0,1,0,0,0,American Ancestry
+0.0,2,1,0,2,0,0,2,0,0,1,1,0,0,1,American Ancestry
+0.0,0,2,0,0,0,1,0,0,0,0,1,0,0,0,American Ancestry
+0.0,0,1,2,1,0,1,0,0,0,1,2,0,0,1,American Ancestry
+0.0,2,1,0,0,0,0,0,2,0,0,2,2,0,0,American Ancestry
+1.0,1,0,0,0,0,1,1,2,0,0,0,0,0,0,American Ancestry
+0.0,1,0,1,0,0,1,1,2,0,0,1,0,0,2,American Ancestry
+0.0,2,1,0,0,0,0,0,2,0,0,1,1,0,0,American Ancestry
+0.0,2,1,0,2,0,0,1,0,0,0,1,1,0,0,American Ancestry
+0.0,0,1,1,0,0,0,1,2,0,0,0,0,0,1,American Ancestry
+0.0,0,1,0,0,0,0,0,1,0,1,2,0,1,0,American Ancestry
+0.0,1,1,1,0,0,0,0,1,1,0,1,0,0,0,American Ancestry
+0.0,1,1,2,0,1,0,1,0,0,1,0,1,0,0,African Ancestry
+0.0,2,0,2,0,2,0,0,0,1,0,1,0,1,1,African Ancestry
+0.0,2,0,0,0,1,0,1,0,0,0,1,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,1,1,0,African Ancestry
+0.0,1,1,1,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,2,1,0,0,2,0,1,0,0,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,1,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,0,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,1,0,1,1,0,0,0,1,0,0,0,1,1,African Ancestry
+0.0,2,1,0,0,2,0,1,0,1,0,2,0,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,1,0,0,1,0,African Ancestry
+0.0,2,0,0,0,1,0,0,0,2,0,0,0,1,0,African Ancestry
+0.0,1,1,0,1,1,1,2,0,1,2,0,0,1,0,African Ancestry
+0.0,1,1,0,1,2,0,1,0,0,0,0,0,0,0,African Ancestry
+0.0,1,0,0,1,1,1,1,0,2,0,1,1,1,1,African Ancestry
+0.0,1,0,1,0,2,0,0,0,1,0,1,1,1,0,African Ancestry
+0.0,2,0,1,0,2,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,1,0,0,1,0,1,0,1,0,0,2,1,0,African Ancestry
+0.0,2,1,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,1,0,0,1,1,0,0,1,1,0,1,0,1,0,African Ancestry
+0.0,2,1,1,0,2,1,0,0,0,0,0,0,1,0,African Ancestry
+0.0,1,1,0,1,1,0,1,0,1,0,1,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,1,1,0,0,0,0,African Ancestry
+0.0,2,0,0,0,1,0,0,0,1,1,0,0,2,0,African Ancestry
+0.0,1,1,0,0,2,0,0,0,0,0,1,1,1,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,2,0,0,1,0,0,African Ancestry
+0.0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,African Ancestry
+0.0,1,0,0,1,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,0,1,0,1,0,1,2,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,0,1,1,0,1,0,African Ancestry
+0.0,2,0,1,0,1,0,0,0,0,1,2,0,2,0,African Ancestry
+0.0,1,1,1,0,0,0,0,2,0,0,0,0,1,0,African Ancestry
+0.0,2,0,2,1,1,0,1,0,1,1,1,0,0,1,African Ancestry
+0.0,2,0,1,0,2,0,1,0,1,1,1,1,0,0,African Ancestry
+0.0,2,1,0,0,2,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,2,2,1,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,2,0,0,0,2,1,0,0,0,0,0,0,0,0,African Ancestry
+0.0,1,0,0,2,1,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,2,0,0,0,0,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,1,0,0,0,0,0,African Ancestry
+0.0,1,0,0,1,1,0,0,0,1,0,0,0,1,0,African Ancestry
+0.0,2,1,0,0,1,0,0,0,2,0,1,2,1,0,African Ancestry
+0.0,1,0,0,0,2,0,0,0,0,0,0,0,2,0,African Ancestry
+0.0,2,1,0,1,2,0,0,0,1,0,1,0,1,1,African Ancestry
+0.0,1,1,1,1,1,0,0,1,2,0,0,0,1,0,African Ancestry
+0.0,2,0,0,1,2,1,0,0,1,0,1,0,0,0,African Ancestry
+0.0,1,1,0,0,2,1,0,0,0,1,0,1,1,0,African Ancestry
+0.0,2,0,1,0,2,0,0,0,1,0,1,0,1,0,African Ancestry
+0.0,1,0,1,0,2,0,0,0,0,0,0,0,1,0,African Ancestry
+0.0,2,1,1,0,2,0,0,0,0,0,1,0,0,0,African Ancestry
+0.0,0,2,0,1,0,2,1,0,1,0,0,0,0,0,European Ancestry
+0.0,0,2,0,1,0,2,0,0,0,1,1,0,1,2,European Ancestry
+0.0,0,2,0,1,0,1,0,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,1,1,0,1,1,0,0,0,0,0,0,2,European Ancestry
+0.0,0,2,0,1,0,2,1,0,0,0,1,0,2,0,European Ancestry
+0.0,0,2,0,1,0,2,1,0,0,1,0,0,1,0,European Ancestry
+0.0,0,2,1,0,0,1,2,0,0,2,1,1,0,1,European Ancestry
+0.0,0,0,1,0,0,1,0,0,0,1,0,1,0,1,European Ancestry
+0.0,0,2,0,1,0,1,1,0,0,0,1,0,0,1,European Ancestry
+0.0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,0,1,0,1,0,0,0,1,1,0,1,1,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,0,0,1,0,1,European Ancestry
+0.0,0,2,0,0,0,0,0,0,0,0,2,0,1,0,European Ancestry
+0.0,0,2,0,0,0,1,2,0,0,0,1,2,0,0,European Ancestry
+0.0,0,2,0,0,0,1,1,0,0,2,2,0,0,0,European Ancestry
+0.0,0,2,0,1,0,1,1,0,0,1,0,0,1,1,European Ancestry
+0.0,0,2,0,1,0,1,0,0,0,0,0,0,0,1,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,1,0,0,2,1,European Ancestry
+0.0,0,2,0,0,0,1,1,0,1,1,0,0,0,0,European Ancestry
+0.0,0,2,1,1,0,1,0,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,1,0,0,1,1,0,0,0,2,0,0,1,European Ancestry
+0.0,0,1,0,1,0,1,0,0,0,0,1,1,0,0,European Ancestry
+0.0,0,2,0,1,0,0,1,0,0,0,1,1,0,0,European Ancestry
+0.0,0,2,0,0,0,1,0,0,0,0,1,1,0,0,European Ancestry
+0.0,0,2,0,0,0,1,0,0,0,0,0,2,0,1,European Ancestry
+0.0,0,1,0,0,0,0,0,0,0,1,1,0,0,1,European Ancestry
+0.0,0,2,0,1,0,0,0,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,0,1,0,0,0,0,0,0,2,1,0,1,European Ancestry
+0.0,0,2,0,1,0,2,0,0,0,0,0,1,0,0,European Ancestry
+0.0,0,2,0,2,0,1,1,0,0,1,0,1,1,2,European Ancestry
+0.0,0,2,0,1,0,2,1,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,1,0,0,2,0,0,0,1,0,1,0,0,European Ancestry
+0.0,0,2,0,0,0,0,0,0,0,1,0,0,2,1,European Ancestry
+0.0,0,2,0,0,0,2,0,0,0,1,0,0,1,1,European Ancestry
+0.0,0,2,0,1,0,1,1,0,0,0,0,0,1,1,European Ancestry
+0.0,0,2,1,2,0,1,0,0,0,0,1,1,0,1,European Ancestry
+0.0,0,2,0,0,0,1,0,0,0,0,1,0,2,0,European Ancestry
+0.0,0,2,0,0,0,1,2,0,0,1,1,0,0,1,European Ancestry
+0.0,0,2,0,1,0,2,0,0,0,0,0,0,1,1,European Ancestry
+0.0,0,2,0,1,0,1,0,0,0,1,1,1,1,1,European Ancestry
+0.0,0,2,0,1,0,2,1,0,0,1,0,0,0,1,European Ancestry
+0.0,0,2,2,1,0,2,1,0,1,1,0,0,1,0,European Ancestry
+0.0,0,2,0,2,0,1,0,0,0,0,1,1,1,0,European Ancestry
+0.0,0,2,0,2,0,1,1,0,0,0,1,0,1,0,European Ancestry
+0.0,0,2,0,0,0,1,1,0,0,1,0,1,0,2,European Ancestry
+0.0,0,2,1,1,0,0,1,0,1,0,0,0,0,2,European Ancestry
+0.0,0,2,0,1,0,0,0,0,1,0,2,0,0,1,European Ancestry
+0.0,0,2,1,1,0,2,1,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,European Ancestry
+0.0,0,2,0,0,0,1,1,0,0,1,0,1,0,0,European Ancestry
+0.0,0,2,0,1,0,0,0,0,0,0,1,0,0,1,European Ancestry
+0.0,0,2,0,2,0,0,1,0,0,0,1,0,2,0,European Ancestry
+0.0,0,2,0,1,0,1,0,0,0,0,0,0,1,2,European Ancestry
+0.0,0,2,0,2,0,0,0,0,0,0,1,0,0,0,European Ancestry
+0.0,1,2,0,2,0,2,0,0,0,0,0,2,0,0,European Ancestry
+0.0,0,1,0,0,0,1,0,0,0,1,2,0,0,0,European Ancestry
+0.0,0,2,0,1,0,2,0,0,1,1,0,2,0,1,European Ancestry
+0.0,0,2,0,1,0,2,1,0,0,2,0,0,1,0,European Ancestry
+0.0,0,2,0,1,0,2,0,0,0,0,0,1,0,0,European Ancestry
+0.0,0,2,0,1,0,1,1,0,1,0,1,0,0,2,European Ancestry
+0.0,0,2,0,1,0,0,0,0,0,1,1,0,0,1,European Ancestry
+0.0,0,2,1,0,1,1,2,0,0,0,0,2,1,0,European Ancestry
+0.0,0,2,0,0,0,0,1,0,0,1,0,0,1,2,European Ancestry
+0.0,0,2,0,1,0,1,2,0,0,0,0,0,0,0,European Ancestry
+0.0,0,2,0,2,0,1,0,0,0,1,1,2,1,0,European Ancestry
+0.0,0,2,0,0,0,0,0,0,0,0,0,1,0,1,European Ancestry
+0.0,0,2,0,1,0,2,1,0,0,2,1,0,0,0,European Ancestry
+0.0,0,2,0,1,0,1,0,0,1,0,1,0,0,0,European Ancestry
+0.0,0,2,0,1,0,1,1,0,0,0,1,1,0,1,European Ancestry
+0.0,0,2,0,2,0,1,0,0,0,0,0,1,2,1,European Ancestry
+0.0,0,2,0,0,0,0,1,0,1,0,0,0,0,0,European Ancestry
+0.0,0,2,0,1,0,1,0,0,0,1,1,1,0,0,European Ancestry
+0.0,0,2,0,1,0,1,1,0,1,1,0,0,1,1,European Ancestry
+0.0,0,2,0,2,0,1,1,0,0,1,1,0,0,0,European Ancestry
+0.0,0,2,0,1,0,1,0,0,1,0,0,1,1,1,European Ancestry
+0.0,0,1,0,1,0,2,0,0,0,1,1,1,1,0,European Ancestry
+0.0,0,2,0,2,0,2,0,0,0,1,1,0,1,1,European Ancestry
+0.0,0,2,2,2,0,0,0,0,0,1,0,1,1,1,European Ancestry
+0.0,0,1,0,0,0,2,1,0,0,1,0,0,1,0,European Ancestry
+0.0,0,2,0,0,0,0,0,0,0,0,1,0,2,0,European Ancestry
+0.0,0,2,0,2,0,0,0,0,0,1,1,0,1,2,European Ancestry
+0.0,0,2,0,0,0,2,1,0,0,0,0,0,1,0,European Ancestry
+0.0,0,2,0,1,0,1,1,0,0,1,0,1,0,1,European Ancestry
+0.0,0,2,0,0,0,2,1,0,0,1,0,1,0,0,European Ancestry
+0.0,0,2,0,0,0,1,1,0,0,1,0,0,1,0,European Ancestry
+0.0,0,2,0,1,0,2,0,0,0,1,0,0,0,1,European Ancestry
+0.0,0,2,0,0,1,1,1,0,0,1,1,0,1,0,European Ancestry
+0.0,0,2,0,1,0,2,0,0,0,1,1,0,0,0,European Ancestry
+0.0,0,2,0,2,0,0,0,0,0,1,0,0,1,0,European Ancestry
+0.0,0,2,0,1,0,1,1,0,0,1,1,0,1,0,European Ancestry
+0.0,0,2,0,0,0,1,0,0,0,1,0,1,0,1,European Ancestry
+0.0,0,2,0,1,0,2,0,0,0,0,1,2,0,1,European Ancestry
+0.0,0,2,1,1,0,2,1,0,0,0,1,0,1,0,European Ancestry
+0.0,0,2,0,1,0,1,0,0,0,0,1,0,0,1,European Ancestry
+0.0,0,2,0,0,0,1,0,0,0,0,1,0,1,0,European Ancestry
+0.0,0,2,0,0,0,0,0,0,0,2,0,0,1,0,European Ancestry
+0.0,0,2,1,1,0,1,0,0,1,0,0,0,1,0,European Ancestry
+0.0,0,2,0,2,0,1,1,0,0,0,1,2,0,1,European Ancestry
+0.0,0,2,0,1,0,2,0,0,0,0,0,1,1,1,European Ancestry
+0.0,0,2,0,2,0,1,0,0,0,0,0,0,0,1,European Ancestry
+0.0,0,2,0,1,0,1,2,0,0,0,0,1,1,0,European Ancestry
+0.0,0,2,0,1,0,0,1,0,0,2,1,1,1,2,European Ancestry
+0.0,0,2,0,1,0,1,0,0,0,1,1,0,0,2,European Ancestry
+0.0,0,2,0,1,0,0,0,0,0,0,1,1,1,0,European Ancestry
+0.0,0,2,0,0,0,1,0,0,0,0,0,0,1,1,European Ancestry
+0.0,0,2,0,1,0,1,1,0,0,1,1,1,0,1,European Ancestry
+0.0,0,2,0,2,0,1,0,0,0,0,1,0,1,0,European Ancestry
+0.0,0,1,1,1,0,0,1,0,1,0,1,0,0,0,South Asian Ancestry
+0.0,0,1,1,0,0,0,2,0,0,0,1,1,1,0,South Asian Ancestry
+0.0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,South Asian Ancestry
+0.0,0,0,1,0,0,1,0,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,South Asian Ancestry
+0.0,0,1,0,0,0,0,1,1,0,2,1,0,1,1,South Asian Ancestry
+0.0,0,0,0,1,0,0,1,0,0,0,2,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,2,0,2,South Asian Ancestry
+0.0,0,0,0,1,0,1,1,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,0,1,1,0,0,0,0,0,0,1,1,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,South Asian Ancestry
+0.0,0,1,1,1,0,0,2,0,1,1,0,2,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,1,0,0,1,0,0,0,1,0,1,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,South Asian Ancestry
+0.0,0,1,0,0,0,1,1,0,1,1,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,0,1,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,1,1,0,2,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,0,0,1,1,0,1,1,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,2,0,2,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,1,0,0,0,2,1,South Asian Ancestry
+0.0,0,0,0,1,0,0,1,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,1,0,1,1,0,0,0,0,0,0,1,2,1,0,South Asian Ancestry
+0.0,0,1,0,0,0,0,1,0,1,0,0,1,1,1,South Asian Ancestry
+0.0,0,0,0,1,0,1,0,0,1,1,0,0,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,1,0,1,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,1,0,1,1,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,1,1,0,0,0,0,2,1,0,South Asian Ancestry
+0.0,0,0,1,1,0,1,1,1,0,2,0,0,0,0,South Asian Ancestry
+0.0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,South Asian Ancestry
+0.0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,0,0,1,0,0,0,0,0,1,0,1,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,1,0,2,2,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,1,0,1,1,0,1,1,1,0,1,0,1,0,0,South Asian Ancestry
+0.0,0,1,0,0,0,1,1,0,0,0,1,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,2,0,2,0,South Asian Ancestry
+0.0,1,1,1,0,0,0,0,0,1,1,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,1,1,0,0,1,1,1,1,0,South Asian Ancestry
+0.0,0,1,1,1,0,0,0,0,0,0,0,0,0,2,South Asian Ancestry
+0.0,1,0,0,0,0,0,0,0,0,0,0,0,0,2,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,South Asian Ancestry
+0.0,0,0,1,1,0,0,1,0,0,1,1,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,1,0,0,0,0,0,0,2,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,1,0,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,1,1,1,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,2,0,2,2,1,0,0,0,South Asian Ancestry
+0.0,0,0,1,0,0,0,0,0,1,0,0,1,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,South Asian Ancestry
+0.0,1,0,1,0,0,0,1,0,0,0,0,1,0,1,South Asian Ancestry
+0.0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,South Asian Ancestry
+0.0,0,1,0,0,0,0,1,0,1,0,0,0,0,1,South Asian Ancestry
+0.0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,South Asian Ancestry
+0.0,0,0,0,1,0,1,1,0,0,0,0,1,1,1,South Asian Ancestry
+0.0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,South Asian Ancestry
+0.0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,1,0,0,0,0,0,1,0,0,1,0,0,0,1,South Asian Ancestry
+0.0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,South Asian Ancestry
+0.0,0,0,1,0,0,1,0,0,1,1,1,1,0,2,South Asian Ancestry
+0.0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,South Asian Ancestry
+0.0,0,1,0,0,0,1,1,0,0,0,0,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,South Asian Ancestry
+0.0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,1,0,0,0,0,0,0,0,0,1,2,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,South Asian Ancestry
+0.0,0,1,0,0,0,0,1,0,0,2,0,0,0,1,South Asian Ancestry
+0.0,0,0,1,0,0,0,1,0,1,0,1,0,1,0,South Asian Ancestry
+0.0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,1,1,1,2,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,South Asian Ancestry
+0.0,0,0,2,0,0,2,1,0,0,1,0,1,1,0,South Asian Ancestry
+0.0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,2,0,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,South Asian Ancestry
+0.0,0,0,1,0,0,0,1,0,0,1,1,2,1,2,South Asian Ancestry
+0.0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,South Asian Ancestry
+0.0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,South Asian Ancestry
+0.0,0,0,1,1,0,0,0,0,0,1,1,0,0,2,South Asian Ancestry
+0.0,0,0,0,0,0,0,0,0,1,0,2,0,0,1,South Asian Ancestry

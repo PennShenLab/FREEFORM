@@ -1,0 +1,328 @@
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['rs671'] = df_input['rs671']
+    df_output['rs1426654'] = df_input['rs1426654']
+    df_output['rs16891982'] = df_input['rs16891982']
+    df_output['rs4988235'] = df_input['rs4988235']
+    df_output['rs12913832'] = df_input['rs12913832']
+    df_output['rs2814778'] = df_input['rs2814778']
+    df_output['rs10498746'] = df_input['rs10498746']
+    df_output['rs3827760'] = df_input['rs3827760']
+    df_output['interaction_rs1426654_rs16891982'] = df_input['rs1426654'] * df_input['rs16891982']
+    df_output['interaction_rs671_rs10498746'] = df_input['rs671'] * df_input['rs10498746']
+    df_output['sum_rs10498746_rs3827760'] = df_input['rs10498746'] + df_input['rs3827760']
+    df_output['interaction_rs2814778_rs12913832'] = df_input['rs2814778'] * df_input['rs12913832']
+    df_output['interaction_rs1042602_rs1344011'] = df_input['rs1042602'] * df_input['rs1344011']
+    df_output['rs1426654_ge_1'] = df_input['rs1426654'].apply(lambda x: 1 if x >= 1 else 0)
+    df_output['rs12913832_ge_1'] = df_input['rs12913832'].apply(lambda x: 1 if x >= 1 else 0)
+    df_output['is_east_asian'] = df_input.apply(lambda row: 1 if row['rs671'] >= 1 and row['rs10498746'] >= 1 else 0, axis=1)
+    df_output['is_european'] = df_input.apply(lambda row: 1 if row['rs1426654'] >= 1 and row['rs16891982'] >= 1 else 0, axis=1)
+    df_output['is_african'] = df_input.apply(lambda row: 1 if row['rs2814778'] >= 1 and row['rs12913832'] <= 1 else 0, axis=1)
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['rs12913832 * rs16891982'] = df_input['rs12913832'] * df_input['rs16891982']
+    df_output['rs671 + rs10498746'] = df_input['rs671'] + df_input['rs10498746']
+    df_output['rs2814778 + rs1878685'] = df_input['rs2814778'] + df_input['rs1878685']
+    df_output['rs1426654 * rs16891982 * rs4988235'] = df_input['rs1426654'] * df_input['rs16891982'] * df_input['rs4988235']
+    df_output['rs1426654 + rs16891982'] = df_input['rs1426654'] + df_input['rs16891982']
+    df_output['rs1390723 + rs3814381'] = df_input['rs1390723'] + df_input['rs3814381']
+    df_output['rs12913832 AND rs16891982'] = df_input['rs12913832'] & df_input['rs16891982']
+    df_output['rs2814778 == 2 AND rs1878685 == 1'] = (df_input['rs2814778'] == 2) & (df_input['rs1878685'] == 1)
+    df_output['rs671 == 1 AND rs10498746 >= 1'] = (df_input['rs671'] == 1) & (df_input['rs10498746'] >= 1)
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['rs1426654'] = df_input['rs1426654']
+    df_output['rs16891982'] = df_input['rs16891982']
+    df_output['rs4988235'] = df_input['rs4988235']
+    df_output['European_marker'] = (df_input['rs1426654'] >= 1).astype(int) + (df_input['rs16891982'] >= 1).astype(int) + (df_input['rs4988235'] >= 1).astype(int)
+    df_output['African_marker'] = (df_input['rs2814778'] >= 1).astype(int)
+    df_output['interaction_rs12913832_rs16891982'] = df_input['rs12913832'] * df_input['rs16891982']
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['feat_eu_1'] = df_input['rs12913832'] * df_input['rs16891982']
+    df_output['feat_eu_2'] = df_input['rs16891982'] + df_input['rs4988235']
+    df_output['feat_af_1'] = df_input['rs2814778'].apply(lambda x: 1 if x == 2 else 0)
+    df_output['feat_af_2'] = df_input['rs2814778'] + df_input['rs1426654']
+    df_output['feat_ea_1'] = df_input['rs671'] * df_input['rs1426654']
+    df_output['feat_am_1'] = df_input['rs4988235'] + df_input['rs16891982']
+    df_output['feat_am_2'] = df_input['rs10498746'] + df_input['rs3827760']
+    df_output['feat_sa_1'] = df_input['rs1426654'] * df_input['rs1042602']
+    df_output['feat_sa_2'] = df_input['rs12913832'] + df_input['rs10498746']
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['interaction_skin_pigmentation'] = df_input['rs1426654'] * df_input['rs16891982']
+    df_output['east_asian_score'] = df_input['rs671'] + df_input['rs3827760']
+    df_output['african_score'] = df_input['rs2814778']
+    df_output['lactase_persistence'] = df_input['rs4988235']
+    df_output['eye_hair_european_score'] = df_input['rs12913832'] * df_input['rs1426654']
+    df_output['american_score'] = df_input['rs1426654'] * df_input['rs16891982']
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['rs1426654'] = df_input['rs1426654']
+    df_output['rs16891982'] = df_input['rs16891982']
+    df_output['interaction_rs1426654_rs16891982'] = df_input['rs1426654'] * df_input['rs16891982']
+    df_output['interaction_rs12913832_rs1426654'] = df_input['rs12913832'] * df_input['rs1426654']
+    df_output['interaction_rs671_rs10498746'] = (df_input['rs671'] == 1) & (df_input['rs10498746'] == 1)
+    df_output['sum_european_snps'] = df_input['rs1426654'] + df_input['rs16891982'] + df_input['rs12913832'] + df_input['rs4988235']
+    df_output['sum_east_asian_snps'] = df_input['rs671'] + df_input['rs10498746'] + df_input['rs3827760']
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['interaction_rs12913832_rs16891982'] = df_input['rs12913832'] * df_input['rs16891982']
+    df_output['interaction_rs671_rs3827760'] = df_input['rs671'] * df_input['rs3827760']
+    df_output['combined_rs1426654_rs2814778'] = df_input['rs1426654'] + df_input['rs2814778']
+    df_output['lactase_persistence_rs4988235'] = df_input['rs4988235'].apply(lambda x: 1 if x == 1 else 0)
+    df_output['multiplicative_marker_rs1426654_rs1042602'] = df_input['rs1426654'] * df_input['rs1042602']
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['interaction_rs12913832_rs1426654'] = df_input['rs12913832'] * df_input['rs1426654']
+    df_output['interaction_rs4988235_rs1426654'] = df_input['rs4988235'] * df_input['rs1426654']
+    df_output['east_asian_indicator'] = ((df_input['rs671'] == 2) & (df_input['rs3827760'] == 2)).astype(int)
+    df_output['african_indicator'] = (df_input['rs2814778'] == 2).astype(int)
+    df_output['pigmentation_sum'] = df_input[['rs1426654', 'rs16891982', 'rs12913832', 'rs1042602', 'rs1390723']].sum(axis=1)
+    df_output['american_combination'] = df_input['rs16891982'] * df_input['rs10498746']
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['interaction_rs12913832_rs16891982'] = df_input['rs12913832'] * df_input['rs16891982']
+    df_output['interaction_rs671_rs3827760'] = df_input['rs671'] * df_input['rs3827760']
+    df_output['interaction_rs1426654_rs16891982'] = df_input['rs1426654'] * df_input['rs16891982']
+    df_output['interaction_rs2814778_rs1426654'] = df_input['rs2814778'] * df_input['rs1426654']
+    df_output['interaction_rs4988235_rs12913832'] = df_input['rs4988235'] * df_input['rs12913832']
+    df_output['interaction_rs12913832_rs2814778'] = df_input['rs12913832'] * df_input['rs2814778']
+    df_output['sum_rs1426654_rs16891982_rs12913832'] = df_input['rs1426654'] + df_input['rs16891982'] + df_input['rs12913832']
+    df_output['sum_rs671_rs3827760'] = df_input['rs671'] + df_input['rs3827760']
+    df_output['sum_rs2814778_rs1426654'] = df_input['rs2814778'] + df_input['rs1426654']
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['engineered_feature_1'] = df_input['rs12913832'] * df_input['rs16891982']
+    df_output['engineered_feature_2'] = df_input['rs4988235'].apply(lambda x: 1 if x >= 1 else 0)
+    df_output['engineered_feature_3'] = df_input['rs2814778'].apply(lambda x: 1 if x >= 1 else 0)
+    df_output['engineered_feature_4'] = (df_input['rs1426654'] == 0) * (df_input['rs12913832'] != 2)
+    df_output['engineered_feature_5'] = df_input['rs671'] * df_input['rs3827760']
+    df_output['engineered_feature_6'] = df_input['rs1426654'] * df_input['rs10498746']
+    df_output['engineered_feature_7'] = (df_input['rs1426654'] == 1) * df_input['rs2192416']
+    df_output['engineered_feature_8'] = df_input['rs12913832'] * df_input['rs4988235']
+    df_output['engineered_feature_9'] = df_input['rs3814381'] * df_input['rs1878685']
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['interaction_hair_skin'] = df_input['rs12913832'] * df_input['rs1426654']
+    df_output['interaction_skin_light'] = df_input['rs1426654'] * df_input['rs16891982']
+    df_output['interaction_lactase_skin'] = df_input['rs1426654'] * df_input['rs4988235']
+    df_output['interaction_alcohol_pigment'] = df_input['rs671'] * df_input['rs1426654']
+    df_output['interaction_european_triplet'] = df_input['rs12913832'] * df_input['rs1426654'] * df_input['rs16891982']
+    df_output['interaction_tree_african_nonAmerican'] = (df_input['rs2814778'] == 2) * (df_input['rs1426654'] <= 1)
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['rs671'] = df_input['rs671']
+    df_output['rs1426654'] = df_input['rs1426654']
+    df_output['rs16891982'] = df_input['rs16891982']
+    df_output['rs4988235'] = df_input['rs4988235']
+    df_output['rs12913832'] = df_input['rs12913832']
+    df_output['rs2814778'] = df_input['rs2814778']
+    df_output['rs1042602'] = df_input['rs1042602']
+    df_output['rs10498746'] = df_input['rs10498746']
+    df_output['rs3827760'] = df_input['rs3827760']
+    df_output['rs2192416'] = df_input['rs2192416']
+    df_output['rs1390723'] = df_input['rs1390723']
+    df_output['rs3814381'] = df_input['rs3814381']
+    df_output['rs2476746'] = df_input['rs2476746']
+    df_output['rs1878685'] = df_input['rs1878685']
+    df_output['rs1344011'] = df_input['rs1344011']
+    
+    df_output['interaction_rs1426654_rs16891982'] = df_input['rs1426654'] * df_input['rs16891982']
+    df_output['interaction_rs12913832_rs16891982'] = df_input['rs12913832'] * df_input['rs16891982']
+    df_output['interaction_rs4988235_rs12913832'] = df_input['rs4988235'] * df_input['rs12913832']
+    df_output['interaction_rs10498746_rs3827760'] = df_input['rs10498746'] * df_input['rs3827760']
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['rs1426654_light_skin'] = df_input['rs1426654'].apply(lambda x: 1 if x >= 1 else 0)
+    df_output['rs2814778_african_marker'] = df_input['rs2814778'].apply(lambda x: 1 if x == 2 else 0)
+    df_output['interaction_rs1426654_rs16891982'] = df_input['rs1426654'] * df_input['rs16891982']
+    df_output['interaction_rs671_rs3827760'] = df_input['rs671'] * df_input['rs3827760']
+    df_output['high_rs1426654_and_rs16891982'] = ((df_input['rs1426654'] >= 1) & (df_input['rs16891982'] >= 1)).astype(int)
+    df_output['rs2814778_and_rs1042602_dark_skin'] = ((df_input['rs2814778'] == 2) & (df_input['rs1042602'] >= 1)).astype(int)
+    df_output['pigmentation_signature'] = df_input['rs1426654'] + df_input['rs16891982'] + df_input['rs1042602'] + df_input['rs10498746']
+    df_output['european_signature'] = df_input['rs1426654'] + df_input['rs16891982'] + df_input['rs4988235'] + df_input['rs12913832']
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['interaction_rs1426654_rs16891982'] = df_input['rs1426654'] * df_input['rs16891982']
+    df_output['interaction_rs12913832_rs4988235'] = df_input['rs12913832'] * df_input['rs4988235']
+    df_output['interaction_rs3827760_rs671'] = df_input['rs3827760'] * df_input['rs671']
+    df_output['Sum_SNP_1'] = df_input['rs1426654'] + df_input['rs12913832'] + df_input['rs4988235']
+    df_output['East_Asian_Indicator'] = df_input['rs671'].apply(lambda x: 1 if x > 0 else 0)
+    df_output['Lactose_Tolerant_Indicator'] = df_input['rs4988235'].apply(lambda x: 1 if x > 0 else 0)
+    df_output['African_Indicator'] = df_input['rs2814778'].apply(lambda x: 1 if x == 2 else 0)
+    df_output['East_Asian_Feature'] = df_input['rs3827760'].apply(lambda x: 1 if x > 0 else 0)
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['rs1426654_0_or_1'] = df_input['rs1426654'].apply(lambda x: 1 if x in [0,1] else 0)
+    df_output['interaction_rs12913832_rs16891982'] = df_input['rs12913832'] * df_input['rs16891982']
+    df_output['interaction_rs671_rs3827760'] = df_input['rs671'] * df_input['rs3827760']
+    df_output['rs1426654_is_0_AND_rs2814778_is_2'] = df_input.apply(lambda row: 1 if row['rs1426654'] == 0 and row['rs2814778'] == 2 else 0, axis=1)
+    df_output['rs16891982_is_2_AND_rs12913832_is_2'] = df_input.apply(lambda row: 1 if row['rs16891982'] == 2 and row['rs12913832'] == 2 else 0, axis=1)
+    df_output['sum_rs4988235_rs2192416'] = df_input['rs4988235'] + df_input['rs2192416']
+    df_output['sum_rs10498746_rs1426654_rs16891982'] = df_input['rs10498746'] + df_input['rs1426654'] + df_input['rs16891982']
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['rs671 (ALDH2)'] = df_input['rs671']
+    df_output['rs1426654 (SLC24A5)'] = df_input['rs1426654']
+    df_output['rs16891982 (SLC45A2)'] = df_input['rs16891982']
+    df_output['rs4988235 (LCT)'] = df_input['rs4988235']
+    df_output['rs12913832 (HERC2/OCA2)'] = df_input['rs12913832']
+    df_output['rs2814778 (DARC)'] = df_input['rs2814778']
+    df_output['rs1042602 (TYR)'] = df_input['rs1042602']
+    df_output['rs10498746 (ADH1B)'] = df_input['rs10498746']
+    df_output['rs3827760 (EDAR)'] = df_input['rs3827760']
+    df_output['interaction_european'] = df_input['rs1426654'] * df_input['rs16891982']
+    df_output['interaction_east_asian'] = df_input['rs671'] * df_input['rs3827760']
+    df_output['interaction_pigmentation'] = df_input['rs1426654'] + df_input['rs16891982'] + df_input['rs1042602'] + df_input['rs10498746'] + df_input['rs12913832']
+    df_output['ancestry_score'] = df_input['rs1426654'] + df_input['rs16891982'] - df_input['rs2814778']
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['east_asian'] = df_input['rs671'] + df_input['rs3827760']
+    df_output['african'] = df_input['rs2814778']
+    df_output['interaction_rs1426654_rs16891982'] = df_input['rs1426654'] * df_input['rs16891982']
+    df_output['interaction_rs12913832_rs4988235'] = df_input['rs12913832'] * df_input['rs4988235']
+    df_output['complex_interaction'] = df_input['rs3814381'] + df_input['rs2192416'] + df_input['rs1390723']
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['binary_rs1426654'] = df_input['rs1426654'].apply(lambda x: 1 if x == 2 else 0)
+    df_output['binary_rs2814778'] = df_input['rs2814778'].apply(lambda x: 1 if x == 2 else 0)
+    df_output['interaction_rs12913832_rs1426654'] = df_input['rs12913832'] * df_input['rs1426654']
+    df_output['interaction_rs16891982_rs12913832'] = df_input['rs16891982'] * df_input['rs12913832']
+    df_output['rs1426654_ge1'] = df_input['rs1426654'].apply(lambda x: 1 if x >= 1 else 0)
+    df_output['rs4988235_rs1426654'] = df_input['rs4988235'] * df_input['rs1426654']
+    df_output['tree_interaction_1'] = df_input.apply(lambda row: 1 if (row['rs1426654'] == 2 and row['rs16891982'] == 2) else 0, axis=1)
+    df_output['tree_interaction_2'] = df_input.apply(lambda row: 1 if (row['rs1042602'] == 2 and row['rs1426654'] == 1) else 0, axis=1)
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['rs1426654 >= 2'] = df_input['rs1426654'].apply(lambda x: 1 if x >= 2 else 0)
+    df_output['rs16891982 >= 1'] = df_input['rs16891982'].apply(lambda x: 1 if x >= 1 else 0)
+    df_output['rs12913832 + rs2814778'] = df_input['rs12913832'] + df_input['rs2814778']
+    df_output['rs1426654 * rs16891982 * rs12913832'] = df_input['rs1426654'] * df_input['rs16891982'] * df_input['rs12913832']
+    df_output['(rs1426654 >= 2) AND (rs16891982 >= 2)'] = ((df_input['rs1426654'] >= 2) & (df_input['rs16891982'] >= 2)).astype(int)
+    df_output['(rs2814778 = 2)'] = (df_input['rs2814778'] == 2).astype(int)
+    df_output['(rs1426654 * rs2827740)'] = df_input['rs1426654'] * df_input['rs3827760']
+    df_output['rs12913832 + rs1042602'] = df_input['rs12913832'] + df_input['rs1042602']
+    
+    return df_output
+
+---VERSION---
+
+def extracting_engineered_features(df_input):
+    df_output = pd.DataFrame()
+    df_output['rs671'] = df_input['rs671']
+    df_output['rs1426654'] = df_input['rs1426654']
+    df_output['rs16891982'] = df_input['rs16891982']
+    df_output['rs4988235'] = df_input['rs4988235']
+    df_output['rs12913832'] = df_input['rs12913832']
+    df_output['rs2814778'] = df_input['rs2814778']
+    df_output['rs1042602'] = df_input['rs1042602']
+    df_output['rs10498746'] = df_input['rs10498746']
+    df_output['rs3827760'] = df_input['rs3827760']
+    df_output['rs2192416'] = df_input['rs2192416']
+    df_output['rs1390723'] = df_input['rs1390723']
+    df_output['rs3814381'] = df_input['rs3814381']
+    df_output['rs2476746'] = df_input['rs2476746']
+    df_output['rs1878685'] = df_input['rs1878685']
+    df_output['rs1344011'] = df_input['rs1344011']
+    
+    df_output['African_indicator'] = df_input['rs2814778'].apply(lambda x: 1 if x >= 2 else 0)
+    df_output['South_Asian_indicator'] = df_input.apply(lambda row: 1 if row['rs1426654'] <= 1 and row['rs12913832'] <= 1 else 0, axis=1)
+    
+    df_output['interaction_rs1426654_rs12913832'] = df_input['rs1426654'] * df_input['rs12913832']
+    df_output['interaction_rs1426654_rs16891982'] = df_input['rs1426654'] * df_input['rs16891982']
+    df_output['triple_interaction'] = df_input['rs1426654'] + df_input['rs16891982'] + df_input['rs12913832']
+    df_output['American_related_interaction'] = df_input['rs16891982'] * df_input['rs4988235']
+    df_output['East_Asian_indicator'] = df_input.apply(lambda row: 1 if row['rs671'] == 1 or (row['rs3814381'] >= 1 and row['rs1426654'] == 2) else 0, axis=1)
+    
+    return df_output

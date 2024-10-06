@@ -1,0 +1,33 @@
+Provide me a python code for function, given description below.
+
+Function name: [NAME]
+
+Input: Dataframe df_input
+
+Input Features:
+[FEATURES]
+
+Output: Dataframe df_output. Create a new dataframe df_output. Each column in df_output refers whether the corresponding column, specificed by the condition, in df_input follows the condition (1) or not (0). Be sure that the function code well matches with its feature type (i.e., numerical, categorical). Only write features specified by a condition. Make sure that the function includes all [NUM_OF_CONDITIONS] specified conditions. If a condition repeats the uasage of a feature but is a distinct condition make sure to keep it but under a different name e.g. FEATURE1_X
+
+Conditions:
+[CONDITIONS]
+
+Example Code: 
+def extracting_features(df_input):
+    df_output = pd.Dataframe()
+    df_output['FEATURE1'] = df_input['FEATURE1'].apply(lambda x: 1 if x in [CONDITION 1] else 0)
+    df_output['FEATURE2'] = df_input['FEATURE2'].apply(lambda x: 1 if x in [CONDITION 2] else 0)
+    df_output['FEATURE3'] = df_input['FEATURE3'].apply(lambda x: 1 if x in [CONDITION 3] else 0)
+    df_output['FEATURE4'] = df_input['FEATURE4'].apply(lambda x: 1 if x in [CONDITION 4] else 0)
+    df_output['FEATURE5'] = df_input['FEATURE5'].apply(lambda x: 1 if x in [CONDITION 5] else 0)
+    df_output['FEATURE6'] = df_input['FEATURE6'].apply(lambda x: 1 if x in [CONDITION 6] else 0)
+    df_output['FEATURE7'] = df_input['FEATURE7'].apply(lambda x: 1 if x in [CONDITION 7] else 0)
+    df_output['FEATURE8'] = df_input['FEATURE8'].apply(lambda x: 1 if [CONDITION 8] else 0)
+    df_output['FEATURE9'] = df_input['FEATURE9'].apply(lambda x: 1 if [CONDITION 9] else 0)
+    df_output['FEATURE10'] = df_input['FEATURE10'].apply(lambda x: 1 if [CONDITION 10] else 0)
+    df_output['FEATURE3_AND_FEATURE9'] = df_input.apply(lambda row: 1 if row['FEATURE3'] in [1] and row['FEATURE9'] in [0] else 0, axis=1)
+    df_output['FEATURE4_AND_FEATURE5'] = df_input.apply(lambda row: 1 if row['FEATURE4'] in [1] and row['FEATURE5'] in [0] else 0, axis=1)
+    
+    return df_output
+
+Wrap only the function part with <start> and <end>, and do not add any comments, descriptions, and package importing lines in the code.

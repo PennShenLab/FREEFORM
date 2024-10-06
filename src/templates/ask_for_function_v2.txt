@@ -1,0 +1,28 @@
+Provide me a python code for function, given description below.
+
+Function name: [NAME]
+
+Input: Dataframe df_input
+
+Input Features:
+[FEATURES]
+
+Output: Dataframe df_output. Create a new dataframe df_output. Each column in df_output refers to either the original feature or an engineered feature. Make sure to correctly follow the description of each feature. 
+
+Engineered Features:
+[CONDITIONS]
+
+Example Code: 
+def extracting_features(df_input):
+    df_output = pd.Dataframe()
+    df_output['NEW_FEATURE_1'] = df_input['FEATURE_1']
+    df_output['NEW_FEATURE_2'] = df_input['FEATURE_2']
+    df_output['NEW_FEATURE_3'] = df_input['FEATURE_3'].apply(lambda x: 1 if x in [1,2] else 0)
+    df_output['NEW_FEATURE_4'] = df_input['FEATURE_4'].apply(lambda x: 1 if x in [0,1] else 0)
+    df_output['NEW_FEATURE_5'] = df_input.apply(lambda row: 1 if row['FEATURE_3'] >= 0 and row['FEATURE_9'] in >= 1 else 0, axis=1)
+    df_output['NEW_FEATURE_6'] = df_input.apply(lambda row: 1 if row['FEATURE_4'] in [1] and row['FEATURE_8'] in [0] else 0, axis=1)
+     df_output['NEW_FEATURE_7'] = df_input.apply(lambda row: row['FEATURE_4'] * row['FEATURE_5'], axis=1)
+    
+    return df_output
+
+Wrap only the function part with <start> and <end>, and do not add any comments, descriptions, and package importing lines in the code.

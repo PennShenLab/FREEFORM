@@ -1,0 +1,33 @@
+Provide me a python code for function, given description below.
+
+Function name: [NAME]
+
+Input: Dataframe df_input
+
+Input Features:
+[FEATURES]
+
+Output: Dataframe df_output. Create a new dataframe df_output. Each column in df_output refers whether the corresponding column, specificed by the condition, in df_input follows the condition (1) or not (0). Be sure that the function code well matches with its feature type (i.e., numerical, categorical). Only write features specified by a condition. Make sure that the function includes all [NUM_OF_CONDITIONS] specified conditions.
+
+Conditions:
+[CONDITIONS]
+
+Example Code: 
+def extracting_features(df_input):
+    df_output = pd.Dataframe()
+    df_output['SNP1'] = df_input['SNP1'].apply(lambda x: 1 if x in [CONDITION 1] else 0)
+    df_output['SNP2'] = df_input['SNP2'].apply(lambda x: 1 if x in [CONDITION 2] else 0)
+    df_output['SNP3'] = df_input['SNP3'].apply(lambda x: 1 if x in [CONDITION 3] else 0)
+    df_output['SNP4'] = df_input['SNP4'].apply(lambda x: 1 if x in [CONDITION 4] else 0)
+    df_output['SNP5'] = df_input['SNP5'].apply(lambda x: 1 if x in [CONDITION 5] else 0)
+    df_output['SNP6'] = df_input['SNP6'].apply(lambda x: 1 if x in [CONDITION 6] else 0)
+    df_output['SNP7'] = df_input['SNP7'].apply(lambda x: 1 if x in [CONDITION 7] else 0)
+    df_output['SNP8'] = df_input['SNP8'].apply(lambda x: 1 if [CONDITION 8] else 0)
+    df_output['SNP9'] = df_input['SNP9'].apply(lambda x: 1 if [CONDITION 9] else 0)
+    df_output['SNP10'] = df_input['SNP10'].apply(lambda x: 1 if [CONDITION 10] else 0)
+    df_output['SNP3_AND_SNP9'] = df_input.apply(lambda row: 1 if row['SNP3'] in [1] and row['SNP9'] in [0] else 0, axis=1)
+    df_output['SNP4_AND_SNP5'] = df_input.apply(lambda row: 1 if row['SNP4'] in [1] and row['SNP5'] in [0] else 0, axis=1)
+    
+    return df_output
+
+Wrap only the function part with <start> and <end>, and do not add any comments, descriptions, and package importing lines in the code.

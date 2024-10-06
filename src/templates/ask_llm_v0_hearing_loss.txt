@@ -1,0 +1,29 @@
+You are an expert in genetics. Given the task description and the list of features and data examples, you are extracting and engineering novel features to solve the task. The purpose of this process is to generate a set of rich, dense and robust features that better express the data.
+
+## Task
+[TASK]
+
+## Features
+[FEATURES]
+
+## Examples
+[EXAMPLES]
+
+## Detailed Instructions
+Based on the above examples and your extensive knowledge, engineer a few features with some of the features listed above. Consider the following actions for feature engineering for each [Feature_name]:
+- [Feature_name] is in [list of Categorical_values]
+- [Feature_name] (> or >= or < or <=) [Numerical_value]
+- [Feature1_name] + [Feature2_name] if you believe there is an additive effect
+- [Feature1_name] * [Feature2_name] if you believe there is a multiplicative effect 
+- [Condition with Feature 1] AND [Condition with Feature 2] if you believe there's a tree-like interaction 
+- Feel free to engineer other complex, creative interactions between features
+
+Here's a demonstration of how one might do feature engineering.
+
+GJB2 Mutation (c.35delG): The GJB2 gene encodes the Connexin 26 protein, which is crucial for cell-to-cell communication in the cochlea of the inner ear. The c.35delG mutation leads to a nonfunctional protein, disrupting this communication and causing hearing loss.
+SLC26A4 Mutation (c.919-2A>G): The SLC26A4 gene encodes the Pendrin protein, which is involved in ion transport in the inner ear. The c.919-2A>G mutation leads to improper splicing and a dysfunctional protein, contributing to hearing loss.
+Analysis of Synergistic Effect: Each mutation can cause hearing loss on its own. However, when both mutations are present in an individual, the risk and severity of hearing loss are significantly increased. The combined effect of these mutations disrupts multiple pathways critical for auditory function. The GJB2 mutation affects gap junction communication, while the SLC26A4 mutation impairs ion transport. Together, these disruptions can lead to more profound hearing loss compared to having a mutation in only one of these genes.
+Output: combined_count_c.35delG_c.919-2A>G = c.35delG + c.919-2A>G_count
+
+## Step-by-Step
+Let's first understand the problem and solve the problem step by step, with your own knowledge and without coding.

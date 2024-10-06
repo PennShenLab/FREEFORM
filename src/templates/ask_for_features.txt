@@ -1,0 +1,5 @@
+You are an expert in the field. Given the description of the task, identify and select [NUM_FEATURES] different [FEATURE_TYPE] that are the most relevant and significant to accomplishing the task.
+
+Task: [TASK]
+
+Answer:

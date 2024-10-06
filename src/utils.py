@@ -2,18 +2,11 @@
 DISCLAIMER:
 This code is inspired from the open-source project FeatLLM developed by Sungwon Han.
 You can find the original repository at: https://github.com/Sungwon-Han/FeatLLM.
-
-Many of the functions and methodologies implemented here are derived from or inspired by the work in FeatLLM.
-All credit goes to the original authors for their invaluable contributions to this project.
-Modifications and extensions to the original codebase have been made to tailor it to specific and additional use cases and requirements.
 """
-
-# Utility function for getting data & prompting & query
 import warnings
 import requests
 import os
 import random
-
 from tqdm import tqdm
 from torch.optim import Adam
 from sklearn.model_selection import StratifiedKFold
@@ -44,24 +37,15 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import roc_auc_score, accuracy_score, f1_score, precision_recall_fscore_support
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import  GridSearchCV
-from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from xgboost import XGBClassifier
 from tabpfn import TabPFNClassifier
-from caafe import CAAFEClassifier # Automated Feature Engineering for tabular datasets
-
 
 TASK_DICT = {
-    'ancestry_aims15_rsID': "What is the subject's genomic ancestry? European, South Asian, East Asian, African, or American?",
-    'ancestry_pc1top15_rsID': "What is the subject's genomic ancestry? European, South Asian, East Asian, African, or American?",
-    'ancestry_pyramid_llm_select_rsID': "What is the subject's genomic ancestry? European, South Asian, East Asian, African, or American?",
-    'hearing_loss_aims15': "Does the subject have hereditary hearing loss? In regards to the SNP variants, no mutations being found for the SNP are indicated by 0, heterozygous mutations by 1, and homozygous mutations by 2. In regards to the final phenotype, hearing loss, 1 indiciates the presence of hearing loss and 0 indicates none.",
-    'hearing_loss_aims15_modified': "Does the subject have hereditary hearing loss? In regards to the SNP variants, no mutations being found for the SNP are indicated by 0, heterozygous mutations by 1, and homozygous mutations by 2.",
-    'hearing_loss_pyramid_llm_select': "Does the subject have hereditary hearing loss? With regards to SNP variants, no mutations being found for the SNP are indicated by 0, heterozygous mutations by 1, and homozygous mutations by 2.",
-    'hearing_loss_pyramid_llm_select_modified': "Does the subject have hereditary hearing loss? With regards to SNP variants, no mutations being found for the SNP are indicated by 0, heterozygous mutations by 1, and homozygous mutations by 2."
+    'ancestry_15_features': "What is the subject's genomic ancestry? European, South Asian, East Asian, African, or American?",
+    'hearing_loss_15_features': "Does the subject have hereditary hearing loss? With regards to SNP variants, no mutations being found for the SNP are indicated by 0, heterozygous mutations by 1, and homozygous mutations by 2.",
 }
-
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 os.environ["TOGETHER_API_KEY"] = TOGETHER_API_KEY
 client = OpenAI()
@@ -88,7 +72,7 @@ def get_dataset(data_name, shot, seed, test_size_split = 0.5, preloaded_df=None)
             df.loc[:, df.columns != 'y'] = df.loc[:, df.columns != 'y'].astype(int)
             default_target_attribute = 'y'
     else: 
-        if "aims15" in data_name:
+        if "aims_15" in data_name:
             default_target_attribute = 'y'
         else:
             default_target_attribute = 'superpopulation_name'
@@ -110,26 +94,6 @@ def get_dataset(data_name, shot, seed, test_size_split = 0.5, preloaded_df=None)
         stratify=y
     )
     
-    # if 'hearing_loss' in data_name: 
-    #     df_test = pd.read_csv('../data/hearing_loss_test_modified.csv').dropna()
-    #     mask = (df_test != ' ').all(axis=1)
-    #     df_test = df_test[mask]
-    #     df_test.loc[:, df_test.columns != 'y'] = df_test.loc[:, df_test.columns != 'y'].astype(int)
-    #     y_test = df_test['y']
-    #     features_of_training_data = df.columns
-    #     X_test = df_test[features_of_training_data].drop(['y'],axis=1)
-    # elif 'ancestry' in data_name:
-    #     df_test = pd.read_csv('../data/ancestry_all_aims_test.csv').dropna()
-    #     if "aims15" in data_name:
-    #         default_target_attribute = 'y'
-    #     else:
-    #         default_target_attribute = 'superpopulation_name'
-    #     df_test[df_test.columns[df_test.columns != default_target_attribute]] = df_test.loc[:, df_test.columns != default_target_attribute].astype(int)
-    #     df_test = df_test.astype({col: 'int' for col in df_test.select_dtypes(include=['float64']).columns})
-    #     y_test = df_test[default_target_attribute]
-    #     features_of_training_data = df.columns
-    #     X_test = df_test[features_of_training_data].drop([default_target_attribute],axis=1)
-        
     # assert(shot <= 128) # We only consider the low-shot regimes here
     X_new_train = X_train.copy()
     X_new_train[default_target_attribute] = y_train
@@ -433,15 +397,6 @@ def get_prompt_for_asking(data_name, df_all, df_x, df_y, label_list,
             is_cat_sel = np.array(is_cat)[sel_cat_idx]
             
             for cidx, cname in enumerate(selected_column):
-                # if is_cat_sel[cidx] == True:
-                #     clist = df_all[cname].unique().tolist()
-                #     if len(clist) > 20:
-                #         clist_str = f"{clist[0]}, {clist[1]}, ..., {clist[-1]}"
-                #     else:
-                #         clist_str = ", ".join(map(str, clist))
-                #     desc = meta_data[cname] if cname in meta_data.keys() else ""
-                #     feature_name_list.append(f"- {cname}: {desc} (categorical variable with categories [{clist_str}])")
-                # else:
                 desc = meta_data[cname] if cname in meta_data.keys() else ""
                 if 'hearing_loss' or 'aims' or 'ancestry' in data_name:
                     if int(prompt_version[1]) <= 4:
@@ -487,7 +442,7 @@ def get_prompt_for_asking(data_name, df_all, df_x, df_y, label_list,
         
     return template_list, feature_desc
 
-def get_prompt_for_generating_function_simple(parsed_rule, feature_desc, file_name):
+def get_prompt_for_generating_function(parsed_rule, feature_desc, file_name):
     with open(file_name, "r") as f:
         prompt_type_str = f.read()
     
@@ -504,25 +459,6 @@ def get_prompt_for_generating_function_simple(parsed_rule, feature_desc, file_na
         
     return template_list
 
-def get_prompt_for_generating_function(parsed_rule, feature_desc, file_name,num_of_conditions):
-    with open(file_name, "r") as f:
-        prompt_type_str = f.read()
-    
-    template_list = []
-    for class_id, each_rule in parsed_rule.items():
-        function_name = f'extracting_features_{class_id}'
-        rule_str = '\n'.join([f'- {k}' for k in each_rule])
-    
-        fill_in_dict = {
-            "[NAME]": function_name, 
-            "[CONDITIONS]": rule_str,
-            "[FEATURES]": feature_desc,
-            "[NUM_OF_CONDITIONS]": str(num_of_conditions)
-        }
-        template = fill_in_templates(fill_in_dict, prompt_type_str)
-        template_list.append(template)
-        
-    return template_list
 
 def convert_to_binary_vectors_simple(fct_strs_all, fct_names, X_train, X_test, num_of_features = 10, strict_num_of_features = False, include_original_features= False):
     X_train_all_dict = {}
@@ -557,61 +493,6 @@ def convert_to_binary_vectors_simple(fct_strs_all, fct_names, X_train, X_test, n
             except Exception:
                 continue
             
-    return executable_list, X_train_all_dict, X_test_all_dict
-
-"""Added more error checking.
-"""
-
-def convert_to_binary_vectors(fct_strs_all, fct_names, label_list, X_train, X_test, num_of_features = 10, strict_num_of_features = False):
-    X_train_all_dict = {}
-    X_test_all_dict = {}
-    executable_list = [] # Save the parsed functions that are properly working for both train/test sets
-    for i in range(len(fct_strs_all)): # len(fct_strs_all) == # of trials for ensemble
-        X_train_dict, X_test_dict = {}, {}
-        for label in label_list:
-            X_train_dict[label] = {}
-            X_test_dict[label] = {}
-
-        # Match function names, storing their index, with each answer class (seems repetitive but perhaps differs across each ensemble)
-        # This is so that we can get a 
-        fct_idx_dict = {}
-        for idx, name in enumerate(fct_names[i]):
-            for label in label_list:
-                label_name = '_'.join(str(label).split(' '))
-                if label_name.lower() in name.lower():
-                    fct_idx_dict[label] = idx
-        # If the number of sets of inferred rules are not the same as the number of answer classes, remove the current trial
-        if len(fct_idx_dict) != len(label_list):
-            # Diagnostic print statements to pinpoint which function is failing
-            print(fct_idx_dict)
-            print(label_list)
-            print(label_name)
-            print(name)
-            print(f"Skipping trial {i}: Mismatch in function indices and labels.")
-            continue
-
-        try:
-            for label in label_list:
-                # Diagnostic print statements to pinpoint which function is failing
-                fct_idx = fct_idx_dict[label]
-                exec(fct_strs_all[i][fct_idx].strip('` "'))
-                X_train_each = locals()[fct_names[i][fct_idx]](X_train).astype('int').to_numpy()
-                X_test_each = locals()[fct_names[i][fct_idx]](X_test).astype('int').to_numpy()
-                assert(X_train_each.shape[1] == X_test_each.shape[1])
-                assert(X_train_each.shape[0] == X_train.shape[0])
-                if strict_num_of_features:
-                    assert(X_train_each.shape[1] == num_of_features)
-                X_train_dict[label] = torch.tensor(X_train_each).float()
-                X_test_dict[label] = torch.tensor(X_test_each).float()
-            X_train_all_dict[i] = X_train_dict
-            X_test_all_dict[i] = X_test_dict
-            executable_list.append(i)
-        except Exception as e: # If error occurred during the function call, remove the current trial
-            print(f"""Iteration {i}, Error in convert_to_binary_vectors: {e}
-                  Is the # of columns in X_train equal to X_test after applying the functions? {X_train_each.shape[1] == X_test_each.shape[1]}
-                  Is the # of rows the same after applying the functions? {X_train_each.shape[0] == X_train.shape[0]}
-                  How many conditional features after applying the functions? {X_train_each.shape[1]}""")
-            continue
     return executable_list, X_train_all_dict, X_test_all_dict
 
 def combine_parsed_rules(list1, list2):
@@ -651,317 +532,21 @@ def diagnose(fct, X_train, num_conditions, condition_tolerance = 2):
         print(e)
         return True, e
 
-def self_critique_functions_simple(parsed_rules, feature_desc, fct_strs_all, X_train, _NUM_OF_CONDITIONS, _NUM_OF_CONDITIONS_FOR_INTERACTIONS, _REWRITING_FUNCTION_MODEL, condition_tolerance=2):    
+def self_critique_functions(parsed_rules, feature_desc, fct_strs_all, X_train, _NUM_OF_CONDITIONS, _NUM_OF_CONDITIONS_FOR_INTERACTIONS, _REWRITING_FUNCTION_MODEL, condition_tolerance=2):    
     critique_fct_strs_all = []
     for i, fct_strs in enumerate(fct_strs_all):
         has_error, error_message = diagnose(fct_strs, X_train, _NUM_OF_CONDITIONS + _NUM_OF_CONDITIONS_FOR_INTERACTIONS, condition_tolerance=condition_tolerance)
         if has_error:
             print("Function string to critique:", fct_strs)  # Debugging statement
-            instructions_for_query_i = get_prompt_for_generating_function_simple(parsed_rules[i], 
+            instructions_for_query_i = get_prompt_for_generating_function(parsed_rules[i], 
                                                                     feature_desc,
                                                                     './templates/ask_for_function.txt')
             context = f"""The function is supposed to follow these instructions:\n\n'''{instructions_for_query_i}'''\n\nHowever, the following function was flagged for the following error: '{error_message}'! Fix this error and output just the fixed function. Wrap only the function part with <start> and <end>, and do not add any comments, descriptions, and package importing lines in the code. Here's the function you need to fix:\n\n"""
-            # print(context)
             critique_results = query_gpt([context + fct_strs], max_tokens=2500, temperature=0, model=_REWRITING_FUNCTION_MODEL)
-            # Extract critiqued function strings
-            # critique_fct_strs = [fct_txt.split('<start>')[1].split('<end>')[0].strip() for fct_txt in critique_results]
-            # print(critique_results[0])
             critique_fct_strs_all.append(next(iter(critique_results)).split('<start>')[1].split('<end>')[0].strip())
-            #critique_fct_strs_all.append(next(iter(critique_results)))
         else:
             critique_fct_strs_all.append(fct_strs)
     return critique_fct_strs_all
-
-# fct_strs is the list of functions for a particular "query" in the ensemble
-# legcay prompt: """Does the following function create a dataframe with {_NUM_OF_CONDITIONS} features? If so, just truncate or extend the original code until it outputs the right number of features. Does the function suffer from 'The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().' issues? If so, fix them."""
-
-def self_critique_functions(parsed_rules, feature_desc, fct_strs_all, X_train, _NUM_OF_CONDITIONS, _NUM_OF_CONDITIONS_FOR_INTERACTIONS, _REWRITING_FUNCTION_MODEL, condition_tolerance=2):    
-    critique_fct_strs_all = []
-    for i, fct_strs in enumerate(fct_strs_all):
-        fct_strs_critiqued = []
-        for j, fct in enumerate(fct_strs):
-            has_error, error_message = diagnose(fct, X_train, _NUM_OF_CONDITIONS + _NUM_OF_CONDITIONS_FOR_INTERACTIONS, condition_tolerance=condition_tolerance)
-            if has_error:
-                print("Function string to critique:", fct)  # Debugging statement
-                instructions_for_query_i = get_prompt_for_generating_function(parsed_rules[i], 
-                                                                        feature_desc,
-                                                                        './templates/ask_for_function.txt',
-                                                                        num_of_conditions=_NUM_OF_CONDITIONS_FOR_INTERACTIONS + _NUM_OF_CONDITIONS)
-                context = f"""The function is supposed to follow these instructions:\n\n'''{instructions_for_query_i[j]}'''\n\nHowever, the following function was flagged for the following error: '{error_message}'! Fix this error and output just the fixed function. Wrap only the function part with <start> and <end>, and do not add any comments, descriptions, and package importing lines in the code. Here's the function you need to fix:\n\n"""
-                # print(context)
-                critique_results = query_gpt([context + fct], max_tokens=2500, temperature=0, model=_REWRITING_FUNCTION_MODEL)
-                # Extract critiqued function strings
-                # critique_fct_strs = [fct_txt.split('<start>')[1].split('<end>')[0].strip() for fct_txt in critique_results]
-                # print(critique_results[0])
-                fct_strs_critiqued.append(next(iter(critique_results)).split('<start>')[1].split('<end>')[0].strip())
-                #fct_strs_critiqued.append(next(iter(critique_results)))
-            else:
-                fct_strs_critiqued.append(fct)
-        critique_fct_strs_all.append(fct_strs_critiqued)
-    return critique_fct_strs_all
-
-def print_metrics(metrics):
-    print("\nEvaluation Metrics:")
-    print("------------------------------------------------------")
-    i = 1
-    for metric, value in metrics.items():
-        print(f"{metric:45}: {value:.4f}")
-        i += 1
-        if i % 3 == 0:
-            print("------------------------------------------------------")
-
-def write_metrics(saved_file_name, metrics):
-    with open(saved_file_name, 'w') as f:
-        f.write("Evaluation Metrics:\n")
-        f.write("------------------------------------------------------\n")
-        i = 1
-        for metric, value in metrics.items():
-            f.write(f"{metric:45}: {value:.4f}\n")
-            i += 1
-            if i % 3 == 0:
-                f.write("------------------------------------------------------\n")
-                        
-            
-##### FUNCTION FOR RUNNING SCRIPT ######
-    
-def call_interactions_with_split(_DATA, _NUM_QUERY,_SHOT,_SEED, _MODEL,_FUNCTION_MODEL, _NUM_OF_CONDITIONS, _NUM_OF_CONDITIONS_FOR_INTERACTIONS,_CONDITION_PROMPT_VERSION, _INTERACTION_PROMPT_VERSION, _METADATA_VERSION, _NOTE, _RECORD_LOGS, condition_tolerance,
-                                 df, X_train, X_test, y_train, y_test, target_attr, label_list, is_cat, X_all):
-    _DIVIDER = "\n\n---DIVIDER---\n\n"
-    _VERSION = "\n\n---VERSION---\n\n"
-    
-    ask_file_name = f'./templates/ask_llm_interactions_{_INTERACTION_PROMPT_VERSION}_no_examples.txt'
-    meta_data_name = f"../data/{_DATA}-metadata-{_METADATA_VERSION}.json"
-    templates, feature_desc = get_prompt_for_asking(
-        _DATA, X_all, X_train, y_train, label_list, target_attr, ask_file_name, 
-        meta_data_name, is_cat, 
-        num_query=_NUM_QUERY, 
-        num_conditions=int(_NUM_OF_CONDITIONS_FOR_INTERACTIONS/2), 
-        interactions=True
-    )
-    rule_file_name = f'./rules/{_DATA}/{_SHOT}_shot/rule-zero-shot-ic{int(_NUM_OF_CONDITIONS_FOR_INTERACTIONS/2)}{_INTERACTION_PROMPT_VERSION}-{_MODEL}-q{_NUM_QUERY}-{_SEED}{_NOTE}.out'
-    if os.path.isfile(rule_file_name) == False:
-        results_interactions = query_gpt(templates, max_tokens=2500, temperature=0.5, model = _MODEL)
-        if _RECORD_LOGS:
-            with open(rule_file_name, 'w') as f:
-                total_rules = _DIVIDER.join(results_interactions)
-                f.write(total_rules)
-    else:
-        with open(rule_file_name, 'r') as f:
-            total_rules_str = f.read().strip()
-            results_interactions = total_rules_str.split(_DIVIDER)
-            print('loading already calculated zero-shot rules...')
-            
-    # Repeat with few-shot learning
-    ask_file_name = f'./templates/ask_llm_interactions_{_INTERACTION_PROMPT_VERSION}_only_examples.txt'
-    meta_data_name = f"../data/{_DATA}-metadata.json"
-    templates, feature_desc = get_prompt_for_asking(
-        _DATA, X_all, X_train, y_train, label_list, target_attr, ask_file_name, 
-        meta_data_name, is_cat, 
-        num_query=_NUM_QUERY, 
-        num_conditions=_NUM_OF_CONDITIONS_FOR_INTERACTIONS-int(_NUM_OF_CONDITIONS_FOR_INTERACTIONS/2), 
-        interactions=True
-    )
-    rule_file_name = f'./rules/{_DATA}/{_SHOT}_shot/rule-few-shot-s{_SHOT}-ic{_NUM_OF_CONDITIONS_FOR_INTERACTIONS-int(_NUM_OF_CONDITIONS_FOR_INTERACTIONS/2)}{_INTERACTION_PROMPT_VERSION}-{_MODEL}-q{_NUM_QUERY}-{_SEED}{_NOTE}.out'
-    if os.path.isfile(rule_file_name) == False:
-        results_interactions_only_examples = query_gpt(templates, max_tokens=2500, temperature=0.5, model = _MODEL)
-        if _RECORD_LOGS:
-            with open(rule_file_name, 'w') as f:
-                total_rules = _DIVIDER.join(results_interactions_only_examples)
-                f.write(total_rules)
-    else:
-        with open(rule_file_name, 'r') as f:
-            total_rules_str = f.read().strip()
-            results_interactions_only_examples = total_rules_str.split(_DIVIDER)
-            print('loading already calculated few-shot rules...')
-    return results_interactions, results_interactions_only_examples
-
-def run_script_over_seeds(_DATA, _NUM_QUERY,_SHOTS,_SEEDS, _MODEL,_FUNCTION_MODEL, _NUM_OF_CONDITIONS, _NUM_OF_CONDITIONS_FOR_INTERACTIONS,_CONDITION_PROMPT_VERSION, _INTERACTION_PROMPT_VERSION, _METADATA_VERSION, _NOTE="", _RECORD_LOGS=True, condition_tolerance=2):
-    _REWRITING_FUNCTION_MODEL = "gpt-4-1106-preview"
-    if "gpt" in _MODEL:
-        _LLM_FILE = 'ask_llm'
-        _MAX_TOKENS = 2500
-    else: 
-        _LLM_FILE = 'ask_llm_llama'
-        _MAX_TOKENS = 2000
-    avg_auc = {}
-    avg_acc = {}
-    for _SHOT in _SHOTS:
-        print(f"-----{_SHOT}-Shot-----")
-        auc_seeds = []
-        acc_seeds = []
-        for _SEED in _SEEDS:
-            set_seed(_SEED)
-            
-            # Get Data by Seed
-            df, X_train, X_test, y_train, y_test, target_attr, label_list, is_cat = get_dataset(_DATA, _SHOT, _SEED)
-            X_all = df.drop(target_attr, axis=1)
-            
-            # Get Conditions
-            ask_file_name = f'./templates/{_LLM_FILE}_{_CONDITION_PROMPT_VERSION}.txt'
-            meta_data_name = f"../data/{_DATA}-metadata-{_METADATA_VERSION}.json"
-            templates, feature_desc = get_prompt_for_asking(
-                _DATA, X_all, X_train, y_train, label_list, target_attr, ask_file_name, 
-                meta_data_name, is_cat, num_query=_NUM_QUERY, num_conditions=_NUM_OF_CONDITIONS
-            )
-            _DIVIDER = "\n\n---DIVIDER---\n\n"
-            _VERSION = "\n\n---VERSION---\n\n"
-            rule_file_name = f'./rules/{_DATA}/{_SHOT}_shot/rule-s{_SHOT}-c{_NUM_OF_CONDITIONS}{_CONDITION_PROMPT_VERSION}-{_MODEL}-q{_NUM_QUERY}-{_SEED}{_NOTE}.out'
-            if os.path.isfile(rule_file_name) == False:
-                results = query_gpt(templates, max_tokens=_MAX_TOKENS, temperature=0.5, model = _MODEL)
-                if _RECORD_LOGS:
-                    with open(rule_file_name, 'w') as f:
-                        total_rules = _DIVIDER.join(results)
-                        f.write(total_rules)
-            else:
-                with open(rule_file_name, 'r') as f:
-                    print('loading already calculated rules...')
-                    total_rules_str = f.read().strip()
-                    results = total_rules_str.split(_DIVIDER)
-                    
-            # Parse rules from output  
-            parsed_rules = parse_rules(results, label_list)
-            
-            # Get Interaction Conditions
-            if _NUM_OF_CONDITIONS_FOR_INTERACTIONS > 0:
-                if int(_INTERACTION_PROMPT_VERSION[1]) >= 3: 
-                    results_interactions, results_interactions_only_examples = call_interactions_with_split(_DATA, _NUM_QUERY,_SHOT,_SEED, _MODEL,_FUNCTION_MODEL, _NUM_OF_CONDITIONS, _NUM_OF_CONDITIONS_FOR_INTERACTIONS,_CONDITION_PROMPT_VERSION, _INTERACTION_PROMPT_VERSION, _METADATA_VERSION, _NOTE, _RECORD_LOGS, condition_tolerance,
-                                 df, X_train, X_test, y_train, y_test, target_attr, label_list, is_cat, X_all)
-                    
-                    # Parse rules from output
-                    parsed_rules_interactions = parse_rules(results_interactions, label_list, truncation_index=6, interactions=True)
-                    parsed_rules_interactions_only_examples = parse_rules(results_interactions_only_examples, label_list, truncation_index=6, interactions=True)
-                    parsed_rules = combine_parsed_rules(parsed_rules, parsed_rules_interactions)
-                    parsed_rules = combine_parsed_rules(parsed_rules, parsed_rules_interactions_only_examples)
-                    
-                elif _INTERACTION_PROMPT_VERSION == 'v2': 
-                    ask_file_name = f'./templates/ask_llm_interactions_{_INTERACTION_PROMPT_VERSION}.txt'
-                    meta_data_name = f"./data/{_DATA}-metadata-{_METADATA_VERSION}.json"
-                    templates, feature_desc = get_prompt_for_asking(
-                        _DATA, X_all, X_train, y_train, label_list, target_attr, ask_file_name, 
-                        meta_data_name, is_cat, 
-                        num_query=_NUM_QUERY, 
-                        num_conditions=_NUM_OF_CONDITIONS_FOR_INTERACTIONS, 
-                        interactions=True
-                    )
-                    rule_file_name = f'./rules/{_DATA}/{_SHOT}_shot/rule-s{_SHOT}-ic{_NUM_OF_CONDITIONS_FOR_INTERACTIONS}{_INTERACTION_PROMPT_VERSION}-{_MODEL}-q{_NUM_QUERY}-{_SEED}{_NOTE}.out'
-                    if os.path.isfile(rule_file_name) == False:
-                        results_interactions = query_gpt(templates, max_tokens=_MAX_TOKENS, temperature=0.5, model = _MODEL)
-                        if _RECORD_LOGS:
-                            with open(rule_file_name, 'w') as f:
-                                total_rules = _DIVIDER.join(results_interactions)
-                                f.write(total_rules)
-                    else:
-                        with open(rule_file_name, 'r') as f:
-                            total_rules_str = f.read().strip()
-                            results_interactions = total_rules_str.split(_DIVIDER)
-                            print('loading already calculated interaction rules...')
-                            
-                    # Parse rules from output
-                    parsed_rules_interactions = parse_rules(results_interactions, label_list, truncation_index=6, interactions=True)
-                    parsed_rules = combine_parsed_rules(parsed_rules, parsed_rules_interactions)
-                    
-            # Parse rules into functions 
-            saved_file_name = f'./rules/{_DATA}/{_SHOT}_shot/function-s{_SHOT}-c{_NUM_OF_CONDITIONS}{_CONDITION_PROMPT_VERSION}-ic{_NUM_OF_CONDITIONS_FOR_INTERACTIONS}{_INTERACTION_PROMPT_VERSION}-{_MODEL}-{_FUNCTION_MODEL}-q{_NUM_QUERY}-{_SEED}{_NOTE}.out'    
-            _DIVIDER = "\n\n---DIVIDER---\n\n"
-            _VERSION = "\n\n---VERSION---\n\n"
-            if os.path.isfile(saved_file_name) == False:
-                function_file_name = './templates/ask_for_function.txt'
-                fct_strs_all = []
-                for parsed_rule in tqdm(parsed_rules):
-                    fct_templates = get_prompt_for_generating_function(
-                        parsed_rule, feature_desc, function_file_name, _NUM_OF_CONDITIONS + _NUM_OF_CONDITIONS_FOR_INTERACTIONS
-                    )
-                    fct_results = query_gpt(fct_templates, max_tokens=_MAX_TOKENS, temperature=0, model = _FUNCTION_MODEL)
-                    fct_strs = [fct_txt.split('<start>')[1].split('<end>')[0].strip() for fct_txt in fct_results]
-                    fct_strs_all.append(fct_strs)
-                if _RECORD_LOGS:
-                    with open(saved_file_name, 'w') as f:
-                        total_str = _VERSION.join([_DIVIDER.join(x) for x in fct_strs_all])
-                        f.write(total_str)
-            else:
-                with open(saved_file_name, 'r') as f:
-                    total_str = f.read().strip()
-                    fct_strs_all = [x.split(_DIVIDER) for x in total_str.split(_VERSION)]
-                    print('loading already written functions...')
-
-            # Double-check Function Writing
-            critique_fct_strs_all = self_critique_functions(parsed_rules, feature_desc, fct_strs_all, X_train, _NUM_OF_CONDITIONS, _NUM_OF_CONDITIONS_FOR_INTERACTIONS, _REWRITING_FUNCTION_MODEL, condition_tolerance=condition_tolerance)
-                
-            if _RECORD_LOGS:
-                with open(saved_file_name, 'w') as f:
-                    total_str = _VERSION.join([_DIVIDER.join(x) for x in critique_fct_strs_all])
-                    f.write(total_str)
-
-            fct_names = []
-            fct_strs_final = []
-            for fct_str_pair in critique_fct_strs_all:
-                fct_pair_name = []
-                # TODO: why does == 0 happen?
-                if len(fct_str_pair) == 0 or 'def' not in fct_str_pair[0]:
-                    continue
-
-                for fct_str in fct_str_pair:
-                    fct_pair_name.append(fct_str.split('def')[1].split('(')[0].strip())
-                fct_names.append(fct_pair_name)
-                fct_strs_final.append(fct_str_pair)
-            
-            mask = X_test.notna().all(axis=1)
-
-            # Dropping weird NAs
-            X_test = X_test[mask]
-            y_test = y_test[mask]
-            
-            # Turn Functions into Python Executable Functions
-            executable_list, X_train_all_dict, X_test_all_dict = convert_to_binary_vectors(fct_strs_final, 
-                                                                                     fct_names, 
-                                                                                     label_list, 
-                                                                                     X_train, 
-                                                                                     X_test, 
-                                                                                     num_of_features=_NUM_OF_CONDITIONS+_NUM_OF_CONDITIONS_FOR_INTERACTIONS*2)
-
-            # Evaluation
-            test_outputs_all = []
-            multiclass = True if len(label_list) > 2 else False
-            y_train_num = np.array([label_list.index(k) for k in y_train])
-            y_test_num = np.array([label_list.index(k) for k in y_test])
-            print('------- accuracies for each model ---------')
-            for i in executable_list:
-                X_train_now = list(X_train_all_dict[i].values())
-                X_test_now = list(X_test_all_dict[i].values())
-                
-                # Train
-                trained_model = train(X_train_now, label_list, _SHOT, y_train_num)
-                print("Average number of conditions for each class in query",i,": ",sum(p.numel() for p in trained_model.parameters())/5)
-                
-                # Evaluate
-                test_outputs = trained_model(X_test_now).detach().cpu()
-                test_outputs = F.softmax(test_outputs, dim=1).detach()
-                metrics = evaluate(test_outputs.numpy(), y_test_num, multiclass=multiclass)
-                print("Accuracy:", metrics['Accuracy'])
-                print("AUC:", metrics['AUC'])
-                test_outputs_all.append(test_outputs)
-            test_outputs_all = np.stack(test_outputs_all, axis=0)
-            ensembled_probs = test_outputs_all.mean(0)
-            #result_auc, result_accuracy = evaluate(ensembled_probs, y_test_num, multiclass=multiclass)
-            print('------- ensembled model analysis -------')
-            
-            # Record Ensembled Metrics
-            metrics = evaluate(ensembled_probs, y_test_num, multiclass=multiclass, class_level_analysis=True, label_list = label_list)
-            print_metrics(metrics)
-            saved_file_name = f'./logs/{_DATA}/{_SHOT}_shot/evaluation-s{_SHOT}-c{_NUM_OF_CONDITIONS}{_CONDITION_PROMPT_VERSION}-ic{_NUM_OF_CONDITIONS_FOR_INTERACTIONS}{_INTERACTION_PROMPT_VERSION}-{_MODEL}-{_FUNCTION_MODEL}-{_NUM_QUERY}-{(len(executable_list))}-{_SEED}{_NOTE}.out'
-            if _RECORD_LOGS:
-                write_metrics(saved_file_name, metrics)
-                
-            acc_seeds.append(metrics['Accuracy'])
-            auc_seeds.append(metrics['AUC'])
-        avg_acc[_SHOT] = f'{acc_seeds} -> {sum(acc_seeds)/len(acc_seeds)}'
-        avg_auc[_SHOT] = f'{auc_seeds} -> {sum(auc_seeds)/len(auc_seeds)}'
-    print('---------------- finished ---------------\n\n')
-    print(avg_acc)
-    print(avg_auc)
-
-
-##### This is for our method
 
 def evaluate_models_on_transformed_data(X_train_all_dict, X_test_all_dict, y_train_num, y_test_num, label_list, multiclass=False):
     # Initialize dictionaries to store models for each method
@@ -1184,7 +769,7 @@ def evaluate_our_method(_DATA, _NUM_QUERY,_SHOT,_SEEDS, _MODEL,_FUNCTION_MODEL, 
             fct_strs_all = []
             for parsed_rule in tqdm(parsed_rules):
                 print(parsed_rule)
-                fct_template = get_prompt_for_generating_function_simple(
+                fct_template = get_prompt_for_generating_function(
                     parsed_rule, feature_desc, function_file_name
                 )
                 print(fct_template)
@@ -1200,7 +785,7 @@ def evaluate_our_method(_DATA, _NUM_QUERY,_SHOT,_SEEDS, _MODEL,_FUNCTION_MODEL, 
         
         print(f"------------------------Self-Fix Function------------------------")
         if not skip_critique:
-            critique_fct_strs_all = self_critique_functions_simple(parsed_rules, feature_desc, fct_strs_all, X_train, 15, 5, _REWRITING_FUNCTION_MODEL, condition_tolerance=condition_tolerance)
+            critique_fct_strs_all = self_critique_functions(parsed_rules, feature_desc, fct_strs_all, X_train, 15, 5, _REWRITING_FUNCTION_MODEL, condition_tolerance=condition_tolerance)
             if _RECORD_LOGS:
                 with open(saved_file_name, 'w') as f:
                     total_str = _VERSION.join([x for x in critique_fct_strs_all])
@@ -1414,80 +999,6 @@ def plot_f1_scores_across_shots(file_paths):
     plt.grid(True)
     plt.show()
 
-
-#### FeatLLM Code
-
-class simple_model(nn.Module):
-    def __init__(self, X):
-        super(simple_model, self).__init__()
-        self.weights = nn.ParameterList([nn.Parameter(torch.ones(x_each.shape[1] , 1) / x_each.shape[1]) for x_each in X])
-        
-    def forward(self, x):
-        x_total_score = []
-        for idx, x_each in enumerate(x):
-            x_score = x_each @ self.weights[idx]
-            x_total_score.append(x_score)
-        x_total_score = torch.cat(x_total_score, dim=-1)
-        return x_total_score
-    
-def train(X_train_now, label_list, shot, y_train_num):
-    criterion = nn.CrossEntropyLoss()                
-    if shot // len(label_list) == 1:
-        model = simple_model(X_train_now)
-        opt = Adam(model.parameters(), lr=1e-2)
-        for _ in range(5000):                    
-            opt.zero_grad()
-            outputs = model(X_train_now)
-            preds = outputs.argmax(dim=1).numpy()
-            acc = (np.array(y_train_num) == preds).sum() / len(preds)
-            if acc == 1:
-                break
-            loss = criterion(outputs, torch.tensor(y_train_num))
-            loss.backward()
-            opt.step()
-    else:
-        if shot // len(label_list) <= 2:
-            n_splits = 2
-        else:
-            n_splits = 4
-
-        kfold = StratifiedKFold(n_splits=n_splits, shuffle=True)
-        model_list = []
-        for fold, (train_ids, valid_ids) in enumerate(kfold.split(X_train_now[0], y_train_num)):
-            model = simple_model(X_train_now)
-            opt = Adam(model.parameters(), lr=1e-2)
-            X_train_now_fold = [x_train_now[train_ids] for x_train_now in X_train_now]
-            X_valid_now_fold = [x_train_now[valid_ids] for x_train_now in X_train_now]
-            y_train_fold = y_train_num[train_ids]
-            y_valid_fold = y_train_num[valid_ids]
-            max_acc = -1
-            for i in range(2500):                    
-                opt.zero_grad()
-                outputs = model(X_train_now_fold)
-                loss = criterion(outputs, torch.tensor(y_train_fold))
-                # if i % 500 == 0:
-                #     print(f'{i}: {loss.item()}')
-                loss.backward()
-                opt.step()
-
-                valid_outputs = model(X_valid_now_fold)
-                preds = valid_outputs.argmax(dim=1).numpy()
-                acc = (np.array(y_valid_fold) == preds).sum() / len(preds)
-                if max_acc < acc:
-                    max_acc = acc 
-                    final_model = copy.deepcopy(model)
-                    if max_acc >= 1:
-                        break
-            model_list.append(final_model)
-
-        sdict = model_list[0].state_dict()
-        for key in sdict:
-            sdict[key] = torch.stack([model.state_dict()[key] for model in model_list], dim=0).mean(dim=0)
-
-        model = simple_model(X_train_now)
-        model.load_state_dict(sdict)
-    return model
-
 ###### LEGACY FUNCTIONS ########
 
 def get_snp_gene(rsid):
@@ -1553,155 +1064,3 @@ def clean_rsid_csv(_DATA):
     with open(f'../data/{_DATA}.json', 'w') as f:
         f.write(json_data)
     df.to_csv(f"../data/{_DATA}.csv", index=False)
-    
-
-""" *Was used in notebooks*
-This only checks if 10 features are properly generated for each ancestry. 
-This doesn't check if all ensembles exist, or if all ancestries exist for each ensemble.
-"""
-def check_X_train_all_dict(X_train_all_dict):
-    length = len(X_train_all_dict[next(iter(X_train_all_dict))]['African Ancestry'])
-    for ensemble in X_train_all_dict:
-        for X_ancestry in X_train_all_dict[ensemble]:
-            try:
-                assert(len(X_train_all_dict[ensemble][X_ancestry]) == length)
-            except Exception:
-                print("let's try again")
-                saved_file_name = f'./rules/function-{_DATA}-{_SHOT}-{_SEED}-{_MODEL}-{_NUM_QUERY}.out'    
-                function_file_name = './templates/ask_for_function.txt'
-                fct_strs_all = []
-                for parsed_rule in tqdm(parsed_rules):
-                    fct_templates = utils.get_prompt_for_generating_function(
-                        parsed_rule, feature_desc, function_file_name
-                    )
-                    fct_results = utils.query_gpt(fct_templates, max_tokens=2500, temperature=0, model = _MODEL)
-                    fct_strs = [fct_txt.split('<start>')[1].split('<end>')[0].strip() for fct_txt in fct_results]
-                    fct_strs_all.append(fct_strs)
-
-                with open(saved_file_name, 'w') as f:
-                    total_str = _VERSION.join([_DIVIDER.join(x) for x in fct_strs_all])
-                    f.write(total_str)
-                fct_names = []
-                fct_strs_final = []
-                for fct_str_pair in fct_strs_all:
-                    fct_pair_name = []
-                    if 'def' not in fct_str_pair[0]:
-                        continue
-
-                    for fct_str in fct_str_pair:
-                        fct_pair_name.append(fct_str.split('def')[1].split('(')[0].strip())
-                    fct_names.append(fct_pair_name)
-                    fct_strs_final.append(fct_str_pair)
-                return
-            
-def extract_ancestry(text):
-    # Regular expression pattern to match ancestry headers (case-insensitive)
-    pattern0 = re.compile(r'"(.+? Ancestry)"', re.IGNORECASE)
-    pattern1 = re.compile(r' (.+? Ancestry)', re.IGNORECASE)
-    pattern2 = re.compile(r'\*\*(.+? Ancestry)', re.IGNORECASE)
-    pattern3 = re.compile(r'([a-zA-Z]+ Ancestry)\*\*', re.IGNORECASE)
-    
-    # Find all matches in the text
-    matches0 = pattern0.findall(text)
-    matches1 = pattern1.findall(text)
-    matches2 = pattern2.findall(text)
-    matches3 = pattern3.findall(text)
-
-    # Return the first match found or indicate if no matches are found
-    if matches0:
-        return matches0[0]
-    elif matches1:
-        return matches1[0]
-    elif matches2:
-        return matches2[0]
-    elif matches3:
-        return matches3[0]
-    else:
-        print(text)
-        assert(1==0)
-                
-def evaluate_feature_engineering_old(data_name, shots, seeds, method_name):
-    results = {}
-    
-    for shot in shots:
-        print(f"Evaluating {method_name} for {shot}-shot")
-        results[shot] = {'accuracy': [], 'auc': [], 'f1': []}
-        
-        for seed in seeds:
-            set_seed(seed)
-            
-            # Assume get_dataset retrieves your data according to the shot and seed
-            df, X_train, X_test, y_train, y_test, target_attr, label_list, is_cat = get_dataset(data_name, shot, seed)
-            
-            # Turn all labels numeric
-            label_encoder = LabelEncoder()
-            y_train = label_encoder.fit_transform(y_train)
-            y_test = label_encoder.transform(y_test)
-            
-            # Set up parameter grids for grid search
-            if method_name == "lr":
-                model = LogisticRegression(max_iter=1000)
-                param_grid = {
-                    'C': [1e-4,1e-3,1e-2, 1e-1, 1, 10,100],
-                    'penalty': ['l1','l2'],
-                    'solver': ['saga']
-                }
-            elif method_name == "rf":
-                model = RandomForestClassifier(random_state=seed)
-                param_grid = {
-                    'n_estimators': [100, 250],
-                    'max_depth': [None, 10, 20, 30],
-                    'min_samples_split': [2, 5, 10]
-                }
-            elif method_name == "xgboost":
-                model = XGBClassifier(eval_metric='mlogloss')
-                param_grid = {
-                    'n_estimators': [50, 100, 200],
-                    'max_depth': [3, 5, 7],
-                    'learning_rate': [0.01, 0.1, 0.2],
-                    'subsample': [0.8, 1.0]
-                }
-            elif method_name == "tabpfn":
-                model = TabPFNClassifier(device='cpu', N_ensemble_configurations=32)
-                param_grid = None  # TabPFN does not use traditional hyperparameters
-            else:
-                raise ValueError("Unknown method")
-
-            # Perform grid search if applicable
-            if param_grid is not None:
-                grid_search = GridSearchCV(model, param_grid, scoring='accuracy', cv=2 if shot == 10 or shot == 4 else 4, n_jobs=4)
-                grid_search.fit(X_train, y_train)
-                best_model = grid_search.best_estimator_
-                # best_model=model
-            else:
-                best_model = model
-            
-            best_model.fit(X_train, y_train)
-            
-            if method_name == "tabpfn":
-                y_pred, y_pred_probs = best_model.predict(X_test, return_winning_probability=True)
-                accuracy = accuracy_score(y_test, y_pred)
-                f1 = f1_score(y_test, y_pred, average='weighted')
-                if len(np.unique(y_train)) == 2:
-                    auc = roc_auc_score(y_test, y_pred_probs)
-                else:
-                    # Calculate the OvR ROC AUC
-                    classes = np.unique(y_train)
-                    auc = calculate_ovr_roc_auc(y_test, y_pred, y_pred_probs, classes)
-                    
-            else:
-                y_pred = best_model.predict(X_test)
-                y_pred_probs = best_model.predict_proba(X_test)
-                accuracy = accuracy_score(y_test, y_pred)
-                f1 = f1_score(y_test, y_pred, average='weighted')
-        
-                if len(np.unique(y_train)) == 2:  # Binary classification
-                    auc = roc_auc_score(y_test, y_pred_probs[:, 1])
-                else:  # Multi-class classification
-                    auc = roc_auc_score(y_test, y_pred_probs, multi_class='ovr')
-
-            results[shot]['accuracy'].append(accuracy)
-            results[shot]['auc'].append(auc)
-            results[shot]['f1'].append(f1)
-    
-    return results

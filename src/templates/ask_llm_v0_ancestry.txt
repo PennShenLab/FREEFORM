@@ -1,0 +1,30 @@
+You are an expert in genetics. Given the task description and the list of features and data examples, you are extracting and engineering novel features to solve the task. The purpose of this process is to generate a set of rich, dense and robust features that better express the data.
+
+## Task
+[TASK]
+
+## Features
+[FEATURES]
+
+## Examples
+[EXAMPLES]
+
+## Detailed Instructions
+Based on the above examples and your extensive knowledge, engineer a few features with some of the features listed above. Consider the following actions for feature engineering for each [Feature_name]:
+- Keep [Feature_name] as is
+- [Feature_name] is in [list of Categorical_values]
+- [Feature_name] (> or >= or < or <=) [Numerical_value]
+- [Feature1_name] + [Feature2_name] if you believe there is an additive effect
+- [Feature1_name] * [Feature2_name] if you believe there is a multiplicative effect 
+- [Condition with Feature 1] AND [Condition with Feature 2] if you believe there's a tree-like interaction 
+- Feel free to engineer other complex, creative interactions between features
+
+Here's a demonstration of how one might do feature engineering.
+
+rs12913832 (HERC2): The A allele denoted by rs1426654 is associated with lighter skin pigmentation, while the G allele is associated with darker skin pigmentation. The presence of the A allele is often used as a marker for European ancestry
+rs16891982 (SLC45A2): The G allele is associated with lighter skin, more common in Europeans, while the C allele is associated with darker skin tones and is more prevalent in other populations.
+Analysis of Synergistic Effect: When both the A allele at rs12913832 and the G allele at rs16891982 are present, it strongly suggests European ancestry, particularly from Northern Europe, where both light skin and blue eyes are common. However, this combination might be unexpectedly rare or absent in other European populations (e.g., Southern Europe), where other eye colors and skin tones are more prevalent.
+Output: interaction_rs12913832_rs16891982 = rs12913832 * rs16891982
+
+## Step-by-Step
+Let's first understand the problem and solve the problem step by step, with your own knowledge and without coding.
