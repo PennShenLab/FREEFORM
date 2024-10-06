@@ -1,4 +1,4 @@
-name: clinfo2
+name: freeform
 channels:
   - conda-forge
   - defaults

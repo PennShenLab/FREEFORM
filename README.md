@@ -10,7 +10,8 @@ Predicting phenotypes with complex genetic bases based on a small, interpretable
 ### 📝 Requiremnets
 The algorithm is implemented in Python. To install the related packages, use
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
+conda activate freeform
 ```
 
 ### 🔨 Usage
