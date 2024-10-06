@@ -20,11 +20,10 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import accuracy_score, roc_auc_score, f1_score
 from sklearn.preprocessing import LabelEncoder
-from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.model_selection import GridSearchCV
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.svm import SVC
 from sklearn.inspection import permutation_importance
-from sklearn.linear_model import LogisticRegression, LogisticRegressionCV, LassoCV, LassoLarsCV, Lasso
+from sklearn.linear_model import LogisticRegression, LassoCV, LassoLarsCV, Lasso
 
 _LLM_SELECTION_METHODS = ["llm_select", "iterative", "pyramid", "pyramid_two","iterative_self_consistency"]
 

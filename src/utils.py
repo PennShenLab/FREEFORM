@@ -8,13 +8,7 @@ import requests
 import os
 import random
 from tqdm import tqdm
-from torch.optim import Adam
-from sklearn.model_selection import StratifiedKFold
-import torch
-import torch.nn as nn
-import torch.nn.functional as F
 import pandas as pd
-import copy
 import re
 from openai import OpenAI
 import sys
@@ -30,17 +24,13 @@ import json
 import pandas as pd
 import os
 from tabulate import tabulate
-import torch.nn as nn
 import numpy as np
 from tqdm import tqdm
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import roc_auc_score, accuracy_score, f1_score, precision_recall_fscore_support
-from sklearn.preprocessing import LabelEncoder
-from sklearn.model_selection import  GridSearchCV
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from xgboost import XGBClassifier
-from tabpfn import TabPFNClassifier
 
 TASK_DICT = {
     'ancestry_15_features': "What is the subject's genomic ancestry? European, South Asian, East Asian, African, or American?",
