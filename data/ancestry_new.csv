@@ -1,0 +1,2505 @@
+,rs671,rs3827760,rs1426654,rs2814778,rs4988235,rs12913832,rs16891982,rs4420638,rs3077,rs2476746,rs7543435,rs3811040,rs1540181,rs3811445,rs10493096,superpopulation_name
+0,0.0,0,0,0,2,2,2,0,1,1,1,2,1,0,0,European Ancestry
+1,0.0,0,0,0,2,2,2,1,0,0,2,1,0,0,0,European Ancestry
+2,0.0,0,0,0,2,2,1,0,1,1,0,1,1,0,0,European Ancestry
+3,0.0,0,0,0,1,2,2,0,1,1,2,1,1,2,1,European Ancestry
+4,0.0,0,0,0,0,2,2,1,0,0,1,1,0,0,2,European Ancestry
+5,0.0,0,0,0,2,2,2,0,0,0,0,1,0,1,0,European Ancestry
+6,0.0,0,0,0,2,2,2,1,1,1,1,1,0,0,1,European Ancestry
+7,0.0,0,0,0,2,2,2,0,1,0,1,2,0,0,1,European Ancestry
+8,0.0,0,0,0,2,2,2,0,1,0,0,0,0,0,0,European Ancestry
+9,0.0,0,0,0,0,1,2,0,0,1,2,2,1,1,1,European Ancestry
+10,0.0,0,0,0,1,2,2,0,0,0,1,1,0,1,0,European Ancestry
+11,0.0,0,0,0,2,2,2,1,1,1,2,0,1,2,0,European Ancestry
+12,0.0,0,0,0,1,2,2,0,1,0,2,1,1,0,0,European Ancestry
+13,0.0,0,0,0,2,2,2,0,0,0,1,0,0,0,0,European Ancestry
+14,0.0,0,0,0,2,2,2,1,0,0,1,1,1,0,1,European Ancestry
+15,0.0,0,0,0,2,0,2,0,1,1,2,1,2,0,1,European Ancestry
+16,0.0,0,0,0,1,2,2,1,2,0,1,1,0,1,0,European Ancestry
+17,0.0,0,0,0,1,1,2,0,0,0,1,1,0,2,0,European Ancestry
+18,0.0,0,0,0,0,2,2,0,1,0,1,1,1,1,1,European Ancestry
+19,0.0,0,0,0,2,2,1,0,0,0,2,1,1,2,1,European Ancestry
+20,0.0,0,0,0,2,2,2,0,0,2,0,0,0,1,1,European Ancestry
+21,0.0,0,0,0,2,1,2,0,0,1,1,2,0,0,0,European Ancestry
+22,0.0,0,0,0,2,2,2,0,0,0,2,1,1,1,0,European Ancestry
+23,0.0,0,0,0,2,2,2,1,0,1,1,1,0,2,0,European Ancestry
+24,0.0,0,0,0,1,2,2,0,1,0,1,0,0,1,0,European Ancestry
+25,0.0,0,0,0,1,2,2,1,1,0,0,1,0,0,0,European Ancestry
+26,0.0,0,0,0,2,1,2,1,0,1,0,0,1,1,1,European Ancestry
+27,0.0,0,0,0,2,2,2,0,1,1,0,1,1,0,0,European Ancestry
+28,0.0,0,0,0,2,1,2,0,0,0,1,1,1,1,0,European Ancestry
+29,0.0,0,0,0,2,2,1,0,1,1,1,1,0,2,1,European Ancestry
+30,0.0,0,0,0,1,1,2,0,0,0,0,1,0,1,0,European Ancestry
+31,0.0,0,0,0,0,2,2,0,2,0,1,2,0,1,1,European Ancestry
+32,0.0,0,0,0,2,2,2,1,1,0,1,1,0,1,0,European Ancestry
+33,0.0,0,0,0,2,2,2,0,0,1,2,0,2,1,0,European Ancestry
+34,0.0,0,0,0,2,1,2,0,0,0,1,1,1,2,1,European Ancestry
+35,0.0,0,0,0,1,2,2,2,0,0,1,1,0,1,0,European Ancestry
+36,0.0,0,0,0,2,2,2,0,1,0,1,2,0,1,0,European Ancestry
+37,0.0,0,0,0,1,2,2,0,2,1,0,0,0,1,1,European Ancestry
+38,0.0,0,0,0,1,2,2,0,1,0,2,0,0,1,0,European Ancestry
+39,0.0,0,0,0,2,2,2,0,0,0,2,2,0,0,1,European Ancestry
+40,0.0,0,0,0,0,2,2,0,0,0,1,1,0,1,0,European Ancestry
+41,0.0,0,0,0,1,2,2,0,0,0,2,0,0,1,0,European Ancestry
+42,0.0,0,0,0,1,2,2,0,1,1,1,1,1,1,0,European Ancestry
+43,0.0,0,0,0,1,1,2,1,1,1,1,2,0,2,0,European Ancestry
+44,0.0,0,0,0,2,2,2,0,0,0,1,1,1,2,1,European Ancestry
+45,0.0,0,0,0,1,1,2,0,0,0,2,1,0,1,0,European Ancestry
+46,0.0,0,0,0,1,2,2,1,1,0,2,1,0,1,1,European Ancestry
+47,0.0,0,0,0,1,1,2,1,1,0,2,2,1,2,0,European Ancestry
+48,0.0,0,0,0,2,1,2,0,0,0,1,0,1,1,0,European Ancestry
+49,0.0,0,0,0,2,2,2,0,1,0,2,0,0,1,0,European Ancestry
+50,0.0,0,0,0,1,2,2,1,1,0,1,0,0,1,1,European Ancestry
+51,0.0,0,0,0,1,1,2,0,0,1,1,2,0,2,0,European Ancestry
+52,0.0,0,0,0,1,1,2,0,1,1,0,2,0,0,0,European Ancestry
+53,0.0,0,0,0,1,2,2,1,0,0,1,1,2,1,0,European Ancestry
+54,0.0,0,0,0,1,2,2,1,0,0,1,1,1,0,1,European Ancestry
+55,0.0,0,0,0,2,1,2,2,0,1,1,1,2,1,0,European Ancestry
+56,0.0,0,0,0,1,2,2,1,0,2,2,0,0,1,0,European Ancestry
+57,0.0,0,0,0,1,1,2,1,0,0,1,0,0,0,0,European Ancestry
+58,0.0,1,0,0,1,1,2,0,0,1,0,2,0,1,0,European Ancestry
+59,0.0,0,0,0,1,2,2,1,0,1,1,2,1,1,0,European Ancestry
+60,0.0,0,0,0,1,2,2,0,0,0,1,0,0,0,0,European Ancestry
+61,0.0,0,0,0,1,2,2,2,0,1,1,1,1,1,0,European Ancestry
+62,0.0,0,0,0,1,2,2,0,0,0,2,2,1,0,0,European Ancestry
+63,0.0,0,0,0,1,2,2,0,0,0,2,2,1,0,1,European Ancestry
+64,0.0,0,0,0,1,2,1,0,0,2,2,1,0,1,1,European Ancestry
+65,0.0,0,0,0,1,2,2,0,0,0,1,1,1,2,0,European Ancestry
+66,0.0,0,0,0,1,1,2,1,0,2,0,1,0,1,0,European Ancestry
+67,0.0,0,0,0,0,2,2,0,0,2,2,1,0,1,0,European Ancestry
+68,0.0,0,0,0,0,2,2,0,0,1,0,1,0,1,0,European Ancestry
+69,0.0,0,0,0,1,2,2,0,0,0,2,0,1,1,0,European Ancestry
+70,0.0,0,0,0,1,2,2,2,0,1,1,0,1,2,0,European Ancestry
+71,0.0,0,0,0,0,2,1,1,0,0,2,1,0,0,0,European Ancestry
+72,0.0,0,0,0,1,2,2,1,0,0,1,2,0,0,0,European Ancestry
+73,0.0,0,0,0,2,1,2,0,0,1,2,1,1,1,0,European Ancestry
+74,0.0,0,0,0,2,2,2,0,0,1,1,1,0,1,1,European Ancestry
+75,0.0,0,0,0,2,1,2,2,1,0,2,2,2,0,1,European Ancestry
+76,0.0,0,0,0,1,1,2,0,0,0,1,2,0,0,0,European Ancestry
+77,0.0,0,0,0,2,2,2,1,0,1,1,1,1,1,0,European Ancestry
+78,0.0,0,0,0,2,2,2,0,0,0,1,2,1,0,0,European Ancestry
+79,0.0,0,0,0,2,2,2,0,0,0,1,2,2,1,0,European Ancestry
+80,0.0,0,0,0,1,2,2,0,1,0,1,1,0,0,0,European Ancestry
+81,0.0,0,0,0,2,0,2,0,0,1,1,2,1,2,0,European Ancestry
+82,0.0,0,0,0,0,2,2,0,0,1,2,2,1,0,0,European Ancestry
+83,0.0,0,0,0,2,2,2,0,0,1,1,1,0,0,0,European Ancestry
+84,0.0,0,0,0,2,2,2,0,0,0,0,1,1,2,0,European Ancestry
+85,0.0,0,0,0,1,2,2,0,2,0,0,0,0,0,0,European Ancestry
+86,0.0,0,0,0,1,2,2,0,0,0,1,1,0,0,0,European Ancestry
+87,0.0,0,0,0,2,1,2,1,0,0,1,1,2,0,0,European Ancestry
+88,0.0,0,0,0,2,2,2,0,0,1,0,2,2,2,1,European Ancestry
+89,0.0,0,0,0,2,1,2,0,0,0,0,0,1,2,0,European Ancestry
+90,0.0,0,0,0,2,1,2,0,1,1,1,1,0,1,1,European Ancestry
+91,0.0,0,0,0,2,1,2,0,1,2,0,2,0,1,1,European Ancestry
+92,0.0,0,0,0,1,2,2,1,0,0,0,2,1,1,0,European Ancestry
+93,0.0,0,0,0,1,1,1,0,0,0,1,1,0,2,0,European Ancestry
+94,0.0,0,0,0,2,2,2,1,0,2,0,0,1,0,0,European Ancestry
+95,0.0,0,0,0,1,2,2,1,0,1,0,1,0,1,0,European Ancestry
+96,0.0,0,0,0,1,1,2,0,0,0,0,1,2,1,1,European Ancestry
+97,0.0,0,0,0,2,1,2,1,0,0,0,2,1,1,1,European Ancestry
+98,0.0,0,0,0,0,0,2,1,2,1,0,1,0,1,0,European Ancestry
+99,0.0,0,0,0,1,2,2,1,1,0,2,2,0,1,1,European Ancestry
+100,0.0,0,0,0,1,2,2,0,1,0,0,2,0,1,1,European Ancestry
+101,0.0,0,0,0,2,2,2,0,0,0,1,1,0,2,1,European Ancestry
+102,0.0,0,0,0,2,1,2,0,1,0,2,2,0,2,0,European Ancestry
+103,0.0,0,0,0,1,1,2,0,0,2,1,1,0,1,0,European Ancestry
+104,0.0,0,0,0,2,1,2,0,0,1,1,1,1,1,0,European Ancestry
+105,0.0,0,0,0,1,2,2,1,0,0,0,1,0,1,0,European Ancestry
+106,0.0,1,0,0,1,2,2,1,0,1,1,1,1,1,0,European Ancestry
+107,0.0,1,1,0,1,2,2,0,0,2,0,1,0,1,2,European Ancestry
+108,0.0,0,0,0,1,2,2,1,1,1,1,1,0,0,1,European Ancestry
+109,0.0,0,0,0,0,2,2,0,0,1,2,1,1,1,0,European Ancestry
+110,0.0,0,0,0,2,2,2,1,1,0,0,1,0,0,0,European Ancestry
+111,0.0,0,0,0,1,2,2,0,0,0,1,1,0,0,1,European Ancestry
+112,0.0,0,0,0,1,2,2,0,0,0,1,2,1,0,0,European Ancestry
+113,0.0,0,0,0,2,2,2,1,0,2,2,1,1,1,1,European Ancestry
+114,0.0,1,0,0,2,2,2,0,0,2,1,1,0,0,0,European Ancestry
+115,0.0,0,0,0,1,2,2,0,1,0,1,1,1,0,0,European Ancestry
+116,0.0,0,0,0,0,2,2,0,0,1,1,1,0,1,0,European Ancestry
+117,0.0,0,0,0,2,2,2,0,0,1,2,1,0,0,1,European Ancestry
+118,0.0,0,0,0,1,1,2,2,1,0,0,0,0,0,0,European Ancestry
+119,0.0,0,0,0,2,2,2,0,0,0,0,1,1,1,1,European Ancestry
+120,0.0,0,0,0,1,2,1,1,0,0,0,2,0,1,1,European Ancestry
+121,0.0,0,0,0,2,2,2,1,0,1,2,2,0,2,0,European Ancestry
+122,0.0,0,0,0,2,2,2,0,0,1,1,2,0,0,1,European Ancestry
+123,0.0,0,0,0,2,2,1,0,0,0,1,1,0,1,0,European Ancestry
+124,0.0,0,0,0,1,2,2,2,0,0,1,1,0,2,2,European Ancestry
+125,0.0,0,0,0,2,2,2,1,0,1,2,2,0,0,0,European Ancestry
+126,0.0,1,0,0,2,2,2,0,1,1,2,0,0,2,1,European Ancestry
+127,0.0,0,1,0,1,2,2,0,0,0,1,1,0,1,0,European Ancestry
+128,0.0,0,0,0,2,2,2,0,0,0,2,0,1,1,0,European Ancestry
+129,0.0,0,0,0,0,2,2,1,0,0,0,0,1,2,0,European Ancestry
+130,0.0,0,0,0,1,2,2,0,0,1,2,1,0,1,1,European Ancestry
+131,0.0,0,0,0,2,2,2,1,0,1,2,2,1,1,1,European Ancestry
+132,0.0,0,0,0,1,2,2,0,0,0,0,0,0,1,0,European Ancestry
+133,0.0,0,0,0,2,2,2,0,0,1,1,1,1,1,1,European Ancestry
+134,0.0,0,0,0,2,2,2,1,0,1,1,0,1,1,1,European Ancestry
+135,0.0,1,0,0,1,1,2,2,0,0,1,1,0,0,0,European Ancestry
+136,0.0,0,0,0,1,1,2,0,0,1,1,2,0,0,1,European Ancestry
+137,0.0,0,0,0,2,1,2,0,0,1,2,0,1,1,0,European Ancestry
+138,0.0,0,0,0,2,2,2,0,1,1,0,1,0,1,0,European Ancestry
+139,0.0,0,0,0,1,1,2,0,0,0,2,2,1,1,0,European Ancestry
+140,0.0,0,0,0,1,2,2,1,0,0,2,1,2,1,0,European Ancestry
+141,0.0,0,0,0,1,2,2,1,1,2,1,2,1,1,1,European Ancestry
+142,0.0,0,0,0,0,2,2,0,0,0,0,1,0,0,2,European Ancestry
+143,0.0,0,0,0,0,2,2,1,1,0,1,2,1,0,0,European Ancestry
+144,0.0,0,0,0,0,2,2,0,0,0,2,1,1,0,0,European Ancestry
+145,0.0,0,0,0,2,1,2,0,0,0,0,1,0,2,1,European Ancestry
+146,0.0,0,0,0,0,2,2,0,0,0,1,0,0,1,0,European Ancestry
+147,0.0,0,0,0,1,2,2,0,0,0,1,1,0,1,0,European Ancestry
+148,0.0,0,0,0,1,2,1,1,0,1,0,0,2,0,0,European Ancestry
+149,0.0,1,0,0,1,1,1,0,1,0,1,0,0,2,0,European Ancestry
+150,0.0,0,0,0,1,2,2,0,1,0,0,2,0,1,0,European Ancestry
+151,0.0,0,0,0,2,2,2,0,0,0,2,1,0,2,0,European Ancestry
+152,0.0,0,0,0,2,2,2,1,0,2,1,1,1,1,0,European Ancestry
+153,0.0,0,0,0,2,2,2,0,1,1,1,1,1,1,0,European Ancestry
+154,0.0,0,0,0,0,2,2,0,0,0,2,1,0,2,0,European Ancestry
+155,0.0,0,0,0,1,2,1,0,0,1,1,0,1,2,0,European Ancestry
+156,0.0,0,0,0,1,2,2,2,0,1,2,2,1,1,0,European Ancestry
+157,0.0,0,0,0,1,2,2,1,0,0,0,1,0,0,0,European Ancestry
+158,0.0,0,0,0,2,2,2,1,1,1,1,2,0,1,1,European Ancestry
+159,0.0,0,0,0,2,2,2,0,0,1,2,1,1,1,0,European Ancestry
+160,0.0,0,0,0,2,2,2,2,0,1,0,1,1,1,1,European Ancestry
+161,0.0,1,0,0,1,2,2,1,0,0,1,1,2,0,1,European Ancestry
+162,0.0,0,0,0,1,2,2,1,1,1,1,1,0,0,1,European Ancestry
+163,0.0,0,0,0,1,2,2,1,0,1,2,2,1,0,1,European Ancestry
+164,0.0,0,0,0,2,1,2,1,0,0,1,1,0,0,0,European Ancestry
+165,0.0,0,0,0,2,1,2,0,0,1,1,1,0,1,0,European Ancestry
+166,0.0,1,0,0,0,2,2,0,0,0,2,0,0,2,0,European Ancestry
+167,0.0,0,0,0,1,2,2,1,0,1,1,2,1,2,1,European Ancestry
+168,0.0,0,0,0,1,2,2,1,0,1,0,1,2,0,0,European Ancestry
+169,0.0,0,0,0,2,1,2,1,0,2,2,2,0,0,0,European Ancestry
+170,0.0,0,0,0,1,2,2,0,0,1,1,1,0,1,1,European Ancestry
+171,0.0,0,0,0,1,2,1,1,0,0,1,1,0,1,0,European Ancestry
+172,0.0,1,0,0,2,2,2,0,0,1,2,1,1,1,0,European Ancestry
+173,0.0,0,0,0,2,1,2,0,0,0,1,0,1,1,0,European Ancestry
+174,0.0,0,0,0,2,2,2,1,0,0,2,1,1,0,0,European Ancestry
+175,0.0,0,0,0,1,2,2,0,0,1,1,2,1,2,0,European Ancestry
+176,0.0,0,0,0,1,2,2,0,0,0,1,2,2,2,1,European Ancestry
+177,0.0,0,0,0,1,1,2,0,0,2,0,1,1,0,0,European Ancestry
+178,0.0,0,0,0,2,2,2,0,0,0,2,0,1,2,1,European Ancestry
+179,0.0,0,0,0,0,2,2,1,0,0,2,1,2,1,0,European Ancestry
+180,0.0,0,0,0,1,2,2,2,0,0,2,1,1,1,0,European Ancestry
+181,0.0,0,0,0,1,2,2,0,0,0,1,2,1,0,0,European Ancestry
+182,0.0,1,0,0,0,2,2,1,0,0,2,1,1,1,0,European Ancestry
+183,0.0,0,0,0,1,2,2,0,0,0,1,1,0,2,0,European Ancestry
+184,0.0,0,0,0,1,2,2,1,0,0,1,0,0,1,0,European Ancestry
+185,1.0,2,2,0,0,0,0,1,2,1,2,0,0,0,1,East Asian Ancestry
+186,0.0,2,2,0,0,0,0,1,2,0,1,1,1,1,0,East Asian Ancestry
+187,0.0,2,2,0,0,0,0,0,2,0,2,1,0,2,0,East Asian Ancestry
+188,0.0,1,2,0,0,0,0,0,1,0,2,2,0,0,0,East Asian Ancestry
+189,1.0,2,2,0,0,0,0,0,1,0,2,2,1,1,0,East Asian Ancestry
+190,0.0,2,2,0,0,0,0,0,2,1,0,0,0,2,0,East Asian Ancestry
+191,1.0,2,2,0,0,0,0,0,2,1,1,1,0,0,0,East Asian Ancestry
+192,2.0,2,2,0,0,0,0,0,2,1,0,1,0,2,0,East Asian Ancestry
+193,1.0,2,2,0,0,0,0,0,2,0,2,2,0,1,0,East Asian Ancestry
+194,2.0,2,2,0,0,0,0,1,2,0,1,1,1,2,0,East Asian Ancestry
+195,2.0,1,2,0,0,0,0,0,0,2,2,0,1,1,0,East Asian Ancestry
+196,0.0,2,2,0,0,0,0,0,2,1,2,1,0,1,0,East Asian Ancestry
+197,0.0,2,2,0,0,0,0,0,1,1,2,2,1,0,0,East Asian Ancestry
+198,0.0,2,2,0,0,0,0,1,1,2,0,2,0,2,0,East Asian Ancestry
+199,1.0,2,2,0,0,0,0,0,0,1,1,1,1,1,0,East Asian Ancestry
+200,0.0,2,2,0,0,0,0,0,1,1,2,1,0,2,0,East Asian Ancestry
+201,0.0,2,2,0,0,0,0,1,2,0,1,2,0,1,0,East Asian Ancestry
+202,0.0,1,2,0,0,0,0,0,2,1,2,1,1,1,0,East Asian Ancestry
+203,0.0,2,2,0,0,0,0,0,2,1,1,2,0,0,0,East Asian Ancestry
+204,1.0,2,2,0,0,0,0,0,0,0,1,1,1,1,0,East Asian Ancestry
+205,0.0,2,1,0,0,0,0,1,2,0,0,1,0,1,0,East Asian Ancestry
+206,0.0,1,2,0,0,0,0,0,1,1,0,1,0,0,0,East Asian Ancestry
+207,1.0,2,2,0,0,0,0,0,1,0,1,0,1,1,0,East Asian Ancestry
+208,1.0,2,2,0,0,0,0,0,1,1,2,2,0,1,0,East Asian Ancestry
+209,1.0,0,2,0,0,0,0,0,2,1,0,1,0,0,0,East Asian Ancestry
+210,0.0,2,2,0,0,0,0,0,1,0,2,2,1,0,0,East Asian Ancestry
+211,0.0,2,2,0,0,0,0,0,2,0,1,2,0,1,0,East Asian Ancestry
+212,0.0,2,2,0,0,0,0,0,1,1,0,2,2,2,0,East Asian Ancestry
+213,1.0,2,2,0,0,0,0,1,2,0,2,2,0,2,0,East Asian Ancestry
+214,0.0,2,2,0,0,0,0,0,2,2,1,2,0,0,0,East Asian Ancestry
+215,1.0,1,2,0,0,0,0,0,2,0,2,2,0,1,0,East Asian Ancestry
+216,0.0,2,2,0,0,0,0,0,2,1,0,2,1,1,0,East Asian Ancestry
+217,0.0,1,2,0,0,0,1,0,1,2,2,1,0,2,0,East Asian Ancestry
+218,0.0,2,2,0,0,0,0,0,1,1,0,2,0,0,0,East Asian Ancestry
+219,0.0,2,2,0,0,0,0,0,2,0,0,2,0,1,0,East Asian Ancestry
+220,1.0,2,2,0,0,0,0,0,2,1,0,1,0,1,0,East Asian Ancestry
+221,2.0,2,2,0,0,0,0,0,2,2,2,2,0,1,0,East Asian Ancestry
+222,2.0,2,2,0,0,0,0,0,2,0,2,0,0,0,0,East Asian Ancestry
+223,1.0,2,2,0,0,0,0,0,1,0,2,2,0,2,0,East Asian Ancestry
+224,0.0,2,2,0,0,0,0,1,1,2,1,1,0,0,0,East Asian Ancestry
+225,2.0,2,2,0,0,0,0,0,2,1,0,2,0,0,0,East Asian Ancestry
+226,0.0,2,2,0,0,0,0,1,2,1,0,0,1,0,0,East Asian Ancestry
+227,0.0,0,0,0,0,0,1,0,0,0,2,1,0,1,0,American Ancestry
+228,0.0,0,0,0,0,0,1,0,1,0,0,1,1,1,0,American Ancestry
+229,0.0,1,0,0,0,0,1,2,1,0,1,1,0,0,0,American Ancestry
+230,1.0,2,2,0,0,0,0,0,2,0,1,1,0,2,0,East Asian Ancestry
+231,0.0,2,2,0,0,0,0,0,2,0,2,2,0,0,0,East Asian Ancestry
+232,1.0,2,2,0,0,0,0,0,1,1,1,2,0,0,0,East Asian Ancestry
+233,1.0,2,2,0,0,0,0,0,2,0,1,1,0,2,0,East Asian Ancestry
+234,0.0,1,2,0,0,0,0,0,2,1,1,1,1,1,0,East Asian Ancestry
+235,1.0,2,2,0,0,0,0,0,1,0,2,2,0,1,0,East Asian Ancestry
+236,2.0,1,2,0,0,0,0,0,2,1,1,1,1,1,0,East Asian Ancestry
+237,1.0,2,2,0,0,0,0,1,1,0,0,2,0,0,0,East Asian Ancestry
+238,2.0,1,2,0,0,0,0,0,1,0,2,1,1,1,0,East Asian Ancestry
+239,1.0,2,2,0,0,0,0,0,2,1,1,2,1,0,0,East Asian Ancestry
+240,1.0,2,2,0,0,0,0,0,0,1,2,2,0,1,0,East Asian Ancestry
+241,1.0,2,2,0,0,0,0,0,0,0,0,2,1,0,0,East Asian Ancestry
+242,1.0,2,2,0,0,1,0,0,1,0,1,1,1,1,0,East Asian Ancestry
+243,2.0,2,2,0,0,0,0,0,1,1,1,2,0,0,0,East Asian Ancestry
+244,1.0,2,2,0,0,0,0,0,1,0,1,2,1,1,0,East Asian Ancestry
+245,0.0,2,2,0,0,0,0,0,1,0,1,1,0,1,0,East Asian Ancestry
+246,1.0,2,2,0,0,0,0,0,1,0,1,1,0,0,0,East Asian Ancestry
+247,0.0,2,2,0,0,0,0,1,1,0,1,2,1,1,0,East Asian Ancestry
+248,0.0,2,2,0,0,0,0,1,1,0,1,2,2,0,0,East Asian Ancestry
+249,0.0,1,1,0,0,0,0,0,2,1,2,2,0,1,0,East Asian Ancestry
+250,1.0,2,2,0,0,0,0,1,1,0,1,2,1,1,0,East Asian Ancestry
+251,0.0,2,1,0,0,0,0,0,2,0,2,1,0,0,0,East Asian Ancestry
+252,1.0,2,2,0,0,0,0,0,2,0,2,0,0,1,0,East Asian Ancestry
+253,1.0,2,2,0,0,0,0,0,2,1,2,0,0,0,0,East Asian Ancestry
+254,0.0,2,2,0,0,0,0,0,1,0,1,0,0,0,0,East Asian Ancestry
+255,1.0,2,2,0,0,0,0,0,1,0,1,1,0,0,0,East Asian Ancestry
+256,0.0,2,2,0,0,0,0,0,1,0,2,0,1,0,0,East Asian Ancestry
+257,0.0,2,2,0,0,0,0,0,1,1,2,2,0,1,0,East Asian Ancestry
+258,1.0,2,2,0,0,0,0,1,1,0,1,1,0,2,0,East Asian Ancestry
+259,0.0,2,2,0,0,0,0,0,2,0,1,0,0,0,0,East Asian Ancestry
+260,0.0,2,2,0,0,0,0,0,1,0,1,1,1,1,0,East Asian Ancestry
+261,0.0,2,2,0,0,0,0,0,1,1,2,1,1,1,0,East Asian Ancestry
+262,1.0,2,2,0,0,0,0,1,2,2,2,1,0,2,0,East Asian Ancestry
+263,1.0,2,2,0,0,0,0,0,2,0,1,2,0,1,0,East Asian Ancestry
+264,0.0,2,2,0,0,0,0,0,1,1,1,1,0,1,0,East Asian Ancestry
+265,0.0,0,1,0,0,0,2,0,0,0,2,0,1,0,1,American Ancestry
+266,0.0,0,1,0,0,2,2,1,1,1,1,1,1,0,2,American Ancestry
+267,0.0,0,0,0,0,0,2,1,0,0,1,0,0,0,1,American Ancestry
+268,0.0,0,0,0,1,0,2,0,1,1,0,0,0,0,1,American Ancestry
+269,1.0,0,2,0,0,0,0,0,2,0,1,1,0,0,0,East Asian Ancestry
+270,1.0,2,2,0,0,0,0,0,2,1,1,1,1,1,0,East Asian Ancestry
+271,0.0,2,2,0,0,0,0,1,2,0,1,1,1,1,0,East Asian Ancestry
+272,0.0,2,2,0,0,0,0,0,1,0,1,1,0,1,0,East Asian Ancestry
+273,0.0,1,2,0,0,0,0,0,2,0,1,2,0,0,0,East Asian Ancestry
+274,0.0,2,2,0,0,0,0,0,2,1,0,2,1,0,0,East Asian Ancestry
+275,0.0,2,2,0,0,0,0,0,1,1,2,2,1,1,0,East Asian Ancestry
+276,0.0,2,2,0,0,0,0,0,1,0,1,1,1,0,0,East Asian Ancestry
+277,1.0,2,2,0,0,0,0,0,1,1,0,2,0,2,0,East Asian Ancestry
+278,0.0,2,2,0,0,0,0,0,1,0,1,1,1,2,0,East Asian Ancestry
+279,0.0,1,1,0,0,0,0,0,1,0,1,1,0,2,0,East Asian Ancestry
+280,0.0,2,2,0,0,0,0,0,2,1,1,2,0,0,0,East Asian Ancestry
+281,0.0,1,2,0,0,0,0,0,2,1,2,2,0,1,0,East Asian Ancestry
+282,1.0,2,2,0,0,0,0,0,1,2,2,2,0,1,0,East Asian Ancestry
+283,0.0,2,2,0,0,0,0,0,1,1,1,2,0,1,0,East Asian Ancestry
+284,1.0,2,2,0,0,0,0,0,2,2,1,2,1,1,0,East Asian Ancestry
+285,0.0,1,2,0,0,0,0,1,2,1,0,2,1,1,0,East Asian Ancestry
+286,1.0,1,2,0,0,0,0,0,2,0,2,1,0,2,0,East Asian Ancestry
+287,0.0,2,2,0,0,0,0,0,1,1,1,2,1,1,0,East Asian Ancestry
+288,0.0,2,2,0,0,0,0,0,0,1,0,1,1,2,0,East Asian Ancestry
+289,0.0,2,2,0,0,0,0,0,1,0,1,1,0,1,0,East Asian Ancestry
+290,0.0,2,2,0,0,0,0,0,2,0,1,2,0,2,0,East Asian Ancestry
+291,0.0,2,2,0,0,0,0,0,2,1,2,2,0,1,0,East Asian Ancestry
+292,1.0,2,2,0,0,0,0,0,2,1,1,2,1,0,0,East Asian Ancestry
+293,0.0,2,2,0,0,0,0,0,2,2,1,2,1,0,0,East Asian Ancestry
+294,0.0,2,2,0,0,0,0,0,2,0,2,1,0,1,0,East Asian Ancestry
+295,0.0,1,2,0,0,0,0,0,1,1,0,2,1,2,0,East Asian Ancestry
+296,1.0,2,2,0,0,0,0,0,2,0,2,2,0,1,0,East Asian Ancestry
+297,0.0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,American Ancestry
+298,0.0,1,0,0,1,0,2,0,1,0,0,0,0,0,0,American Ancestry
+299,0.0,1,1,0,0,1,1,0,1,1,0,2,0,1,0,American Ancestry
+300,0.0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,American Ancestry
+301,0.0,0,0,0,1,0,2,0,0,0,1,1,1,0,0,American Ancestry
+302,0.0,0,0,0,2,1,2,0,0,0,2,1,0,0,0,American Ancestry
+303,0.0,1,0,1,0,1,2,0,1,0,2,0,0,1,1,American Ancestry
+304,0.0,0,0,0,1,1,1,0,2,1,0,0,1,1,0,American Ancestry
+305,0.0,2,0,0,0,0,1,0,2,0,1,0,0,0,2,American Ancestry
+306,0.0,2,2,0,0,0,0,0,1,1,2,1,0,2,0,East Asian Ancestry
+307,0.0,1,2,0,0,0,0,0,1,1,1,2,1,1,0,East Asian Ancestry
+308,0.0,2,2,0,0,0,0,1,2,0,1,1,0,1,0,East Asian Ancestry
+309,0.0,2,2,0,0,0,0,0,2,0,1,0,1,1,0,East Asian Ancestry
+310,0.0,2,2,0,0,0,0,0,1,0,1,2,1,1,0,East Asian Ancestry
+311,0.0,1,2,0,0,0,0,1,1,0,2,1,0,2,0,East Asian Ancestry
+312,1.0,2,2,0,0,0,0,0,0,0,2,2,0,2,0,East Asian Ancestry
+313,0.0,2,2,0,0,0,0,0,2,1,0,1,0,1,0,East Asian Ancestry
+314,0.0,2,2,0,0,0,0,0,2,1,0,1,2,1,0,East Asian Ancestry
+315,0.0,2,2,0,0,0,0,0,2,0,2,1,0,2,0,East Asian Ancestry
+316,0.0,1,2,0,0,0,0,0,2,1,1,1,0,2,0,East Asian Ancestry
+317,0.0,1,2,0,0,0,0,0,2,1,1,1,2,1,0,East Asian Ancestry
+318,0.0,2,2,0,0,0,0,0,1,0,2,1,1,2,0,East Asian Ancestry
+319,0.0,1,2,0,0,0,0,0,2,0,2,2,0,1,0,East Asian Ancestry
+320,0.0,2,2,0,0,0,0,0,2,0,1,1,2,2,0,East Asian Ancestry
+321,0.0,1,0,0,0,1,2,1,0,2,1,1,1,0,1,American Ancestry
+322,0.0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,American Ancestry
+323,0.0,0,1,1,2,1,0,0,1,0,1,2,2,1,1,American Ancestry
+324,0.0,1,1,0,1,0,1,0,0,0,1,1,1,1,1,American Ancestry
+325,0.0,0,2,1,1,0,0,0,1,0,0,1,0,0,0,American Ancestry
+326,0.0,0,0,0,1,1,2,0,2,1,2,0,0,0,0,American Ancestry
+327,0.0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,American Ancestry
+328,0.0,0,0,2,0,2,2,0,0,0,0,0,1,0,0,American Ancestry
+329,0.0,0,0,0,1,0,2,0,1,1,2,0,0,1,2,American Ancestry
+330,0.0,1,1,0,0,0,2,0,1,0,1,2,0,0,1,American Ancestry
+331,0.0,1,1,2,0,0,1,0,1,0,1,1,0,1,2,American Ancestry
+332,0.0,0,0,0,1,0,2,0,1,2,0,2,0,1,0,American Ancestry
+333,0.0,0,0,1,1,0,2,1,0,0,0,2,1,1,1,American Ancestry
+334,0.0,1,1,0,1,0,1,0,0,0,1,2,1,1,0,American Ancestry
+335,0.0,1,1,0,1,0,1,1,0,1,1,0,1,1,2,American Ancestry
+336,0.0,1,0,0,1,1,2,0,1,0,1,1,0,0,1,American Ancestry
+337,0.0,1,0,0,0,0,2,0,1,1,1,2,0,2,0,American Ancestry
+338,0.0,0,0,0,0,2,0,0,1,0,2,1,0,2,0,American Ancestry
+339,0.0,0,0,0,1,0,2,0,2,1,1,1,0,0,1,American Ancestry
+340,0.0,0,1,0,0,1,1,1,1,0,1,0,0,0,0,American Ancestry
+341,0.0,1,0,1,1,0,2,0,0,1,0,0,0,1,0,American Ancestry
+342,0.0,0,0,1,0,1,2,0,0,2,1,1,1,0,0,American Ancestry
+343,0.0,1,1,0,0,0,0,0,1,0,0,1,1,1,0,American Ancestry
+344,0.0,0,0,0,0,0,1,0,1,0,2,1,0,1,1,American Ancestry
+345,0.0,0,0,0,0,1,1,0,0,0,0,2,0,0,1,American Ancestry
+346,0.0,1,0,0,1,2,0,0,1,1,2,0,0,1,1,American Ancestry
+347,0.0,0,1,1,0,2,2,1,0,0,0,2,1,1,0,American Ancestry
+348,0.0,1,1,0,0,0,2,0,0,0,1,1,0,2,1,American Ancestry
+349,0.0,0,0,1,1,1,1,0,2,0,1,0,2,2,0,American Ancestry
+350,0.0,0,1,0,0,0,1,0,1,1,2,1,1,1,0,American Ancestry
+351,0.0,0,0,0,0,1,1,0,0,0,1,0,1,0,0,American Ancestry
+352,0.0,0,0,0,1,0,2,0,1,0,0,1,1,2,1,American Ancestry
+353,0.0,0,1,0,0,1,1,0,0,2,0,1,1,0,0,American Ancestry
+354,0.0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,American Ancestry
+355,0.0,0,0,0,1,1,0,1,0,0,0,1,0,1,2,American Ancestry
+356,0.0,1,0,0,1,0,2,0,2,0,1,1,1,1,1,American Ancestry
+357,0.0,0,0,0,1,2,2,1,0,0,1,2,1,0,1,American Ancestry
+358,0.0,0,1,1,1,1,1,0,2,0,1,2,0,1,0,American Ancestry
+359,0.0,1,2,2,0,0,0,0,1,0,0,1,0,1,1,American Ancestry
+360,0.0,1,0,0,2,1,0,0,0,0,0,2,1,0,0,American Ancestry
+361,0.0,1,1,0,0,0,1,0,0,1,2,2,0,0,0,American Ancestry
+362,0.0,0,0,0,2,0,1,1,1,1,1,2,1,1,1,American Ancestry
+363,0.0,0,0,0,0,0,1,0,0,0,1,2,2,1,0,American Ancestry
+364,0.0,0,0,0,0,1,2,0,0,0,0,1,1,1,2,American Ancestry
+365,0.0,0,1,0,1,0,1,1,1,1,1,1,0,0,0,American Ancestry
+366,0.0,1,0,0,0,1,2,0,0,0,2,2,0,0,1,American Ancestry
+367,0.0,0,0,1,1,1,2,0,1,0,1,1,1,0,1,American Ancestry
+368,0.0,0,0,0,0,0,0,0,1,0,0,2,1,0,0,American Ancestry
+369,0.0,0,0,0,0,0,2,0,1,0,1,2,2,0,1,American Ancestry
+370,0.0,1,1,0,0,0,1,0,1,0,2,1,0,0,1,American Ancestry
+371,0.0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,American Ancestry
+372,0.0,0,0,0,2,0,2,0,1,0,0,2,0,1,0,American Ancestry
+373,0.0,1,0,0,0,1,1,0,0,0,0,1,0,1,1,American Ancestry
+374,0.0,1,1,0,0,2,2,0,1,0,1,1,0,1,0,American Ancestry
+375,0.0,1,1,1,2,0,0,0,1,1,1,1,0,0,1,American Ancestry
+376,0.0,1,0,0,0,1,1,0,0,0,1,1,2,0,0,American Ancestry
+377,0.0,1,0,0,1,0,1,0,1,1,0,0,1,1,0,American Ancestry
+378,0.0,0,1,0,0,0,2,0,1,0,0,2,1,0,0,American Ancestry
+379,0.0,1,1,0,0,1,1,0,0,2,1,2,1,2,0,American Ancestry
+380,0.0,0,1,0,1,1,1,0,1,0,0,2,0,0,0,American Ancestry
+381,0.0,0,0,0,1,0,1,1,1,0,0,0,0,2,0,American Ancestry
+382,0.0,0,0,0,0,0,2,0,0,2,2,1,1,0,0,American Ancestry
+383,0.0,1,2,0,1,0,2,1,0,0,1,1,2,1,2,American Ancestry
+384,0.0,1,0,0,0,1,1,0,1,1,1,0,1,1,0,American Ancestry
+385,0.0,1,1,0,0,1,2,0,0,1,1,2,0,1,0,American Ancestry
+386,0.0,1,0,1,1,0,1,0,0,0,2,0,1,0,0,American Ancestry
+387,0.0,0,0,1,0,0,0,0,0,1,0,0,1,1,0,American Ancestry
+388,0.0,0,0,0,0,0,1,0,0,1,1,0,1,0,0,American Ancestry
+389,0.0,0,1,0,0,0,1,0,1,1,0,1,0,1,1,American Ancestry
+390,0.0,1,1,0,0,1,0,0,0,0,0,0,1,1,1,American Ancestry
+391,0.0,1,1,1,1,0,1,0,1,0,1,0,1,2,1,American Ancestry
+392,0.0,0,0,0,1,1,0,1,0,0,1,2,1,0,0,American Ancestry
+393,0.0,1,2,2,0,0,2,1,1,1,0,1,1,1,1,American Ancestry
+394,0.0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,American Ancestry
+395,0.0,0,0,0,0,1,0,0,0,0,2,1,0,0,0,American Ancestry
+396,0.0,1,1,0,0,1,0,1,0,0,0,0,1,1,0,American Ancestry
+397,0.0,1,0,0,0,0,0,0,1,0,1,2,0,0,1,American Ancestry
+398,0.0,0,0,0,0,0,1,0,1,0,1,1,1,0,1,American Ancestry
+399,0.0,1,1,0,1,1,2,0,0,0,1,2,0,0,2,American Ancestry
+400,0.0,1,1,0,0,0,2,0,1,1,1,0,1,0,0,American Ancestry
+401,0.0,0,0,0,0,0,2,0,0,0,1,2,0,1,0,American Ancestry
+402,0.0,0,2,1,0,0,0,0,0,0,2,1,1,2,0,American Ancestry
+403,0.0,0,1,1,0,1,0,1,1,1,1,0,1,0,1,American Ancestry
+404,0.0,0,0,0,1,0,1,0,2,2,1,0,0,1,0,American Ancestry
+405,0.0,0,0,0,1,0,1,0,0,0,1,0,0,2,0,American Ancestry
+406,0.0,1,1,0,0,0,1,1,0,0,1,1,1,0,0,American Ancestry
+407,0.0,0,1,0,1,0,2,0,1,0,2,1,1,1,0,American Ancestry
+408,0.0,1,0,0,1,0,2,0,0,1,2,2,0,0,1,American Ancestry
+409,0.0,0,1,0,0,0,2,0,0,0,0,2,0,1,0,American Ancestry
+410,0.0,0,0,0,1,1,1,0,1,1,1,2,1,1,0,American Ancestry
+411,0.0,0,1,0,1,1,1,1,0,0,1,1,1,2,0,American Ancestry
+412,0.0,0,1,0,2,0,2,0,0,1,0,2,1,1,1,American Ancestry
+413,0.0,1,0,0,0,0,1,0,1,0,1,0,0,1,0,American Ancestry
+414,0.0,0,0,0,0,1,1,1,0,0,0,1,1,0,0,American Ancestry
+415,0.0,0,0,0,2,0,1,0,0,0,1,0,1,1,1,American Ancestry
+416,0.0,0,1,0,0,1,2,0,1,0,1,0,0,1,1,American Ancestry
+417,0.0,0,0,0,2,0,2,0,1,0,2,1,1,0,0,American Ancestry
+418,0.0,2,0,0,1,1,1,0,0,0,1,1,0,0,0,American Ancestry
+419,0.0,0,0,0,0,0,1,1,1,2,1,1,1,1,0,American Ancestry
+420,0.0,0,0,0,0,0,1,0,0,1,0,2,0,0,0,American Ancestry
+421,0.0,0,0,1,1,2,1,0,1,1,0,0,1,1,0,American Ancestry
+422,0.0,0,1,1,0,2,1,0,2,1,1,2,1,0,1,American Ancestry
+423,0.0,1,1,0,0,0,2,1,0,1,2,1,1,1,0,American Ancestry
+424,0.0,0,1,0,0,2,2,0,2,1,2,1,0,0,0,American Ancestry
+425,0.0,0,0,0,0,0,1,1,1,0,0,1,1,0,0,American Ancestry
+426,0.0,0,1,0,0,0,1,0,1,0,0,2,1,1,2,American Ancestry
+427,0.0,0,2,1,0,0,2,0,0,0,2,2,0,1,0,American Ancestry
+428,0.0,0,0,0,0,1,2,0,1,1,2,0,1,0,0,American Ancestry
+429,0.0,0,0,0,1,0,0,0,1,1,1,0,0,0,2,American Ancestry
+430,0.0,0,0,1,0,0,2,0,0,1,0,0,0,1,0,American Ancestry
+431,0.0,0,0,0,0,0,2,1,0,0,1,1,0,1,2,American Ancestry
+432,0.0,0,0,0,0,2,2,0,0,2,2,0,0,1,0,European Ancestry
+433,0.0,1,2,0,0,0,1,0,0,2,0,1,0,1,1,American Ancestry
+434,0.0,1,1,1,0,1,0,0,1,2,1,1,0,0,0,American Ancestry
+435,0.0,1,1,0,0,2,2,1,1,0,1,1,0,0,0,American Ancestry
+436,0.0,0,1,0,1,1,1,1,1,0,0,2,1,0,1,American Ancestry
+437,0.0,1,1,0,0,1,1,1,1,2,1,2,0,2,1,American Ancestry
+438,0.0,1,0,0,0,0,1,0,0,0,2,2,0,1,0,American Ancestry
+439,0.0,1,0,0,1,1,0,0,0,0,0,1,0,0,1,American Ancestry
+440,0.0,0,0,0,0,0,2,0,2,0,1,1,0,2,1,American Ancestry
+441,0.0,0,0,0,0,0,2,0,1,0,1,0,0,0,0,American Ancestry
+442,0.0,0,1,0,0,0,2,1,1,0,1,1,1,1,2,American Ancestry
+443,0.0,0,1,0,0,1,2,0,1,0,0,0,2,2,1,American Ancestry
+444,0.0,0,0,0,2,1,2,0,1,1,1,2,1,2,0,American Ancestry
+445,0.0,2,0,0,1,1,0,1,1,0,2,1,0,1,0,American Ancestry
+446,0.0,0,0,1,1,0,1,1,0,2,0,1,0,1,0,American Ancestry
+447,0.0,1,2,0,0,1,2,0,1,1,0,0,1,0,0,American Ancestry
+448,0.0,1,1,0,0,2,1,0,0,0,0,1,0,1,0,American Ancestry
+449,0.0,1,1,0,1,0,2,0,1,0,1,1,1,0,1,American Ancestry
+450,0.0,1,1,0,0,0,0,0,0,1,1,2,0,0,0,American Ancestry
+451,0.0,0,1,0,2,1,2,0,0,0,0,1,0,0,1,American Ancestry
+452,0.0,0,0,0,0,0,2,1,1,0,2,2,0,0,1,American Ancestry
+453,0.0,0,1,0,1,1,1,0,0,0,1,2,0,1,0,American Ancestry
+454,0.0,2,2,1,2,1,2,0,0,1,0,2,1,0,1,American Ancestry
+455,0.0,0,1,0,0,0,0,0,1,1,1,1,0,0,1,American Ancestry
+456,0.0,1,0,1,1,1,1,1,1,0,1,1,1,1,0,American Ancestry
+457,0.0,0,0,0,1,1,2,0,0,1,2,0,0,1,0,American Ancestry
+458,0.0,0,1,0,2,0,2,0,2,0,1,2,0,0,1,American Ancestry
+459,0.0,1,1,2,0,1,1,0,0,1,0,2,1,1,0,American Ancestry
+460,0.0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,American Ancestry
+461,0.0,0,2,0,0,0,0,0,1,0,1,1,0,0,0,American Ancestry
+462,0.0,0,1,0,0,1,0,1,2,2,2,1,1,2,0,American Ancestry
+463,0.0,0,0,1,1,1,1,0,0,0,0,1,1,2,0,American Ancestry
+464,0.0,0,0,1,0,0,1,1,1,0,1,1,1,2,1,American Ancestry
+465,0.0,0,1,1,0,1,2,0,0,0,2,2,1,1,1,American Ancestry
+466,0.0,0,0,0,0,0,1,1,1,0,1,2,1,0,2,American Ancestry
+467,0.0,1,0,0,1,0,2,1,1,0,0,2,0,0,1,American Ancestry
+468,0.0,0,0,0,1,0,1,0,1,1,2,2,0,0,1,American Ancestry
+469,0.0,0,2,1,0,1,2,0,1,0,1,0,1,1,0,American Ancestry
+470,0.0,1,0,0,0,0,1,0,0,2,2,0,0,2,0,American Ancestry
+471,0.0,1,0,0,0,0,2,0,0,0,0,1,0,0,1,American Ancestry
+472,0.0,1,0,0,0,1,2,0,0,0,1,1,1,1,0,American Ancestry
+473,0.0,1,0,0,1,0,1,0,1,0,1,0,1,1,0,American Ancestry
+474,0.0,1,0,0,1,2,2,0,1,0,0,0,1,0,1,American Ancestry
+475,0.0,0,1,0,0,1,2,0,0,0,1,2,1,0,1,American Ancestry
+476,0.0,1,1,1,1,0,1,0,0,0,2,2,0,1,0,American Ancestry
+477,0.0,0,0,0,0,0,1,0,1,0,2,1,0,1,0,American Ancestry
+478,0.0,1,2,0,1,0,0,0,1,1,1,1,1,2,1,American Ancestry
+479,0.0,0,1,0,1,1,2,0,0,0,2,2,1,2,0,American Ancestry
+480,0.0,0,0,0,2,0,2,0,0,0,2,1,0,0,0,American Ancestry
+481,0.0,1,1,0,1,0,2,0,0,0,1,0,2,0,0,American Ancestry
+482,0.0,1,1,0,1,1,1,0,1,0,1,0,0,0,0,American Ancestry
+483,0.0,0,2,0,0,0,2,0,1,1,0,1,1,0,0,American Ancestry
+484,0.0,0,2,0,0,0,0,1,1,0,2,0,1,2,0,American Ancestry
+485,0.0,0,2,1,0,0,0,0,0,1,0,1,0,2,1,American Ancestry
+486,0.0,0,1,0,0,0,1,1,1,0,0,1,1,1,0,American Ancestry
+487,0.0,0,0,0,2,0,2,0,0,0,2,0,0,0,1,American Ancestry
+488,0.0,0,0,0,1,2,1,0,1,1,2,0,2,1,1,American Ancestry
+489,0.0,0,0,0,2,1,0,0,1,0,2,2,0,0,0,American Ancestry
+490,0.0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,American Ancestry
+491,0.0,0,0,1,0,1,0,0,0,1,1,0,0,1,0,American Ancestry
+492,0.0,0,0,0,1,1,2,0,0,1,1,1,0,1,0,American Ancestry
+493,0.0,0,0,0,1,0,2,0,0,0,1,0,1,0,0,American Ancestry
+494,0.0,0,0,0,1,0,1,0,0,1,2,1,0,1,0,American Ancestry
+495,0.0,0,0,0,0,1,2,2,1,0,2,2,1,1,0,American Ancestry
+496,0.0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,American Ancestry
+497,0.0,2,1,0,0,0,2,0,1,1,1,1,0,0,1,American Ancestry
+498,0.0,2,1,0,0,0,0,0,1,1,0,0,0,0,1,American Ancestry
+499,0.0,1,0,0,0,1,1,0,0,0,1,1,1,0,0,American Ancestry
+500,0.0,0,1,0,1,0,2,0,1,0,1,0,0,1,1,American Ancestry
+501,0.0,0,0,0,1,0,2,0,1,0,0,2,1,0,0,European Ancestry
+502,0.0,0,0,0,0,1,1,0,0,1,2,1,0,2,1,European Ancestry
+503,0.0,0,0,0,1,1,2,0,1,0,1,2,0,1,0,European Ancestry
+504,0.0,0,0,0,1,2,2,0,1,1,1,1,0,1,0,European Ancestry
+505,0.0,0,0,0,2,0,1,0,0,0,1,1,1,1,1,European Ancestry
+506,0.0,0,0,0,1,0,1,0,1,1,1,0,0,1,0,European Ancestry
+507,0.0,0,0,0,2,0,2,0,1,0,2,2,0,0,0,European Ancestry
+508,0.0,0,0,0,0,1,2,0,0,1,1,2,0,0,0,European Ancestry
+509,0.0,0,0,0,0,0,2,1,1,1,1,2,2,0,0,European Ancestry
+510,0.0,0,0,0,1,1,2,1,0,2,1,1,0,2,1,European Ancestry
+511,0.0,0,0,0,1,0,1,0,0,1,0,2,1,1,0,European Ancestry
+512,0.0,0,0,0,2,0,2,0,1,0,0,0,0,1,0,European Ancestry
+513,0.0,0,0,0,2,1,2,2,0,1,0,0,0,0,1,European Ancestry
+514,0.0,0,0,0,1,1,2,0,0,1,1,1,2,0,1,European Ancestry
+515,0.0,0,0,0,1,0,2,1,1,0,0,1,1,1,1,European Ancestry
+516,0.0,0,0,0,1,2,2,0,0,0,0,2,0,1,1,European Ancestry
+517,0.0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,European Ancestry
+518,0.0,0,0,1,1,0,0,1,1,0,0,0,1,0,0,European Ancestry
+519,0.0,0,0,0,2,0,2,0,0,1,1,1,1,1,0,European Ancestry
+520,0.0,0,0,0,0,1,2,0,1,0,1,2,0,1,0,European Ancestry
+521,0.0,0,0,0,1,1,0,0,0,1,2,0,0,1,1,European Ancestry
+522,0.0,0,0,0,2,0,1,1,0,1,1,0,0,1,0,European Ancestry
+523,0.0,0,0,0,0,1,2,0,1,0,2,1,0,0,0,European Ancestry
+524,0.0,0,0,0,0,0,2,1,0,1,1,1,0,1,1,European Ancestry
+525,0.0,0,0,0,1,1,2,0,0,0,1,0,2,1,1,American Ancestry
+526,0.0,0,2,1,0,1,1,1,1,0,2,0,0,1,2,American Ancestry
+527,0.0,1,2,1,1,0,0,0,1,1,0,1,0,1,0,American Ancestry
+528,0.0,1,0,0,0,1,0,0,0,1,2,2,2,1,1,American Ancestry
+529,0.0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,American Ancestry
+530,0.0,1,2,0,1,1,1,0,0,0,1,1,0,0,1,American Ancestry
+531,0.0,2,1,0,0,0,1,0,0,2,2,2,2,0,1,American Ancestry
+532,0.0,1,0,0,0,1,1,0,0,0,1,1,1,0,1,American Ancestry
+533,0.0,1,1,0,1,1,0,0,2,1,1,0,1,0,1,American Ancestry
+534,0.0,0,0,0,1,0,0,0,1,1,1,2,1,1,1,South Asian Ancestry
+535,0.0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,South Asian Ancestry
+536,0.0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,South Asian Ancestry
+537,0.0,0,0,0,2,0,0,0,0,0,1,1,0,1,0,South Asian Ancestry
+538,0.0,2,2,0,0,0,0,0,2,0,0,1,1,1,0,East Asian Ancestry
+539,0.0,2,2,0,0,0,0,0,2,0,1,2,0,0,0,East Asian Ancestry
+540,0.0,2,2,0,0,0,0,0,2,1,1,2,1,1,0,East Asian Ancestry
+541,0.0,2,2,0,0,0,0,0,1,0,1,2,2,2,0,East Asian Ancestry
+542,1.0,2,2,0,0,0,0,0,2,0,0,0,1,0,0,East Asian Ancestry
+543,0.0,2,2,0,0,0,0,0,2,1,1,2,0,0,0,East Asian Ancestry
+544,0.0,0,0,0,1,2,1,0,1,0,2,1,0,0,0,European Ancestry
+545,0.0,0,0,0,1,1,1,0,0,0,1,2,1,0,1,European Ancestry
+546,0.0,0,0,0,0,1,2,0,1,0,0,1,1,2,0,European Ancestry
+547,0.0,0,0,0,0,1,2,1,1,1,0,1,0,0,0,European Ancestry
+548,0.0,0,0,0,1,1,1,0,1,0,2,2,0,1,0,European Ancestry
+549,0.0,0,0,0,1,0,2,1,1,0,1,0,1,0,2,European Ancestry
+550,0.0,0,0,0,1,0,2,0,0,0,0,1,1,1,0,European Ancestry
+551,0.0,0,0,0,2,0,1,1,0,1,1,1,0,0,1,European Ancestry
+552,0.0,0,0,0,1,1,2,0,0,1,2,0,1,1,1,European Ancestry
+553,0.0,0,0,0,0,1,1,0,1,2,2,1,0,1,1,European Ancestry
+554,0.0,0,0,0,1,0,2,1,1,1,2,1,0,0,2,European Ancestry
+555,0.0,0,0,0,2,1,2,1,2,1,0,1,0,1,0,European Ancestry
+556,0.0,0,0,0,1,1,2,0,1,1,0,0,1,0,0,European Ancestry
+557,0.0,0,0,0,0,1,2,1,0,0,2,1,1,2,0,European Ancestry
+558,0.0,0,0,0,1,0,2,0,0,0,2,0,0,1,1,European Ancestry
+559,0.0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,European Ancestry
+560,0.0,0,0,0,1,1,2,1,0,1,0,2,2,1,0,European Ancestry
+561,0.0,0,0,0,1,1,2,0,0,0,0,1,0,1,0,European Ancestry
+562,0.0,0,0,0,0,0,2,1,1,0,2,2,1,1,1,European Ancestry
+563,0.0,0,0,0,1,0,2,1,1,1,1,0,1,1,0,European Ancestry
+564,0.0,0,0,0,1,2,2,1,1,0,1,1,1,1,0,European Ancestry
+565,0.0,0,0,0,0,1,2,0,0,2,0,1,0,2,0,European Ancestry
+566,0.0,0,0,0,2,1,2,1,0,0,0,1,0,1,0,European Ancestry
+567,0.0,0,0,0,1,0,2,0,1,1,1,1,0,0,0,European Ancestry
+568,0.0,0,0,0,1,0,2,0,1,0,2,0,0,1,0,European Ancestry
+569,0.0,0,0,0,0,1,1,0,0,0,0,1,0,1,1,European Ancestry
+570,0.0,0,0,0,2,1,1,0,2,0,0,1,1,1,0,European Ancestry
+571,0.0,0,0,0,0,0,2,0,2,1,0,2,0,0,0,European Ancestry
+572,0.0,0,0,0,0,0,2,1,0,0,0,0,1,1,0,European Ancestry
+573,0.0,0,0,0,2,0,2,0,0,0,2,0,1,0,1,European Ancestry
+574,0.0,0,0,0,1,0,2,0,1,1,1,1,0,1,0,European Ancestry
+575,0.0,0,0,0,0,0,2,0,0,1,1,2,0,0,1,European Ancestry
+576,0.0,0,0,0,2,0,1,1,1,0,2,1,0,0,1,European Ancestry
+577,0.0,0,0,0,1,1,1,1,0,1,1,0,0,1,0,European Ancestry
+578,0.0,0,0,0,1,1,1,0,0,1,1,1,0,0,0,European Ancestry
+579,0.0,0,0,0,1,1,2,0,0,1,2,0,1,0,0,European Ancestry
+580,0.0,0,0,0,0,1,1,0,0,1,2,1,0,2,1,European Ancestry
+581,0.0,0,0,0,0,1,2,0,1,0,2,2,0,2,0,European Ancestry
+582,0.0,0,0,0,2,2,2,0,0,0,0,1,1,1,2,European Ancestry
+583,0.0,0,0,0,0,0,2,1,0,0,0,1,1,2,0,European Ancestry
+584,0.0,0,0,0,1,1,2,0,1,0,0,0,1,1,1,European Ancestry
+585,0.0,0,0,0,1,2,1,0,0,0,0,1,0,2,0,European Ancestry
+586,0.0,0,0,1,1,0,2,0,1,1,1,1,2,1,0,European Ancestry
+587,0.0,0,0,0,1,0,2,0,0,2,1,2,1,0,1,European Ancestry
+588,0.0,0,0,0,2,1,1,0,0,0,0,2,0,0,0,European Ancestry
+589,0.0,0,0,0,2,0,1,0,1,0,1,1,1,1,0,European Ancestry
+590,0.0,0,0,0,0,0,1,1,0,1,1,1,1,1,0,European Ancestry
+591,0.0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,European Ancestry
+592,0.0,0,0,0,0,1,2,1,1,0,0,1,1,0,1,European Ancestry
+593,0.0,0,0,0,2,0,2,1,1,1,1,1,1,0,1,European Ancestry
+594,0.0,0,0,0,2,0,2,0,0,0,0,1,1,0,2,European Ancestry
+595,0.0,0,0,0,0,1,2,0,0,0,1,1,1,2,0,European Ancestry
+596,0.0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,European Ancestry
+597,0.0,0,0,0,1,0,1,0,1,1,1,0,0,1,0,European Ancestry
+598,0.0,0,0,0,0,0,2,0,1,0,1,1,1,1,0,European Ancestry
+599,0.0,0,0,0,2,1,2,1,0,0,1,2,1,1,0,European Ancestry
+600,0.0,0,0,0,0,0,2,0,0,0,1,1,1,0,0,European Ancestry
+601,0.0,0,0,0,2,1,2,0,1,1,1,0,0,1,1,European Ancestry
+602,0.0,0,0,0,1,1,2,1,0,0,0,1,1,1,0,European Ancestry
+603,0.0,0,0,0,1,0,2,0,0,0,1,0,0,0,0,European Ancestry
+604,0.0,0,0,0,1,1,2,0,1,1,2,2,1,1,1,European Ancestry
+605,0.0,0,0,0,2,2,2,0,0,1,1,1,0,1,0,European Ancestry
+606,0.0,0,0,0,0,1,1,0,2,1,0,1,0,0,1,European Ancestry
+607,0.0,0,0,0,2,0,2,0,1,0,1,2,1,0,0,European Ancestry
+608,0.0,0,0,0,0,2,2,0,1,1,1,1,1,2,0,European Ancestry
+609,0.0,0,0,0,2,1,2,1,1,0,1,1,2,1,0,European Ancestry
+610,0.0,0,0,1,1,1,2,1,1,0,1,1,0,1,0,European Ancestry
+611,0.0,0,0,0,1,1,1,0,0,1,0,1,1,1,0,European Ancestry
+612,0.0,0,0,0,1,0,2,1,0,1,1,2,1,2,0,European Ancestry
+613,0.0,0,0,0,0,0,2,0,0,0,0,0,1,2,0,European Ancestry
+614,0.0,0,0,0,2,0,2,1,0,0,1,2,1,2,2,European Ancestry
+615,0.0,0,0,0,0,2,2,2,0,1,1,2,0,1,2,European Ancestry
+616,0.0,0,0,0,2,2,2,2,0,0,2,2,1,1,0,European Ancestry
+617,0.0,2,2,0,0,0,0,0,2,1,0,2,1,1,0,East Asian Ancestry
+618,0.0,2,2,0,0,0,0,0,0,1,0,1,0,0,0,East Asian Ancestry
+619,1.0,2,2,0,0,0,0,0,1,0,1,2,0,2,0,East Asian Ancestry
+620,0.0,2,2,0,0,0,0,0,1,0,1,1,1,1,0,East Asian Ancestry
+621,0.0,2,2,0,0,0,0,0,1,2,1,2,1,1,0,East Asian Ancestry
+622,0.0,2,2,0,0,0,0,0,2,1,2,1,0,1,0,East Asian Ancestry
+623,0.0,2,2,0,0,0,0,0,1,0,1,0,0,2,0,East Asian Ancestry
+624,0.0,1,2,0,0,0,0,1,2,1,1,1,1,2,0,East Asian Ancestry
+625,0.0,2,2,0,0,0,0,0,1,2,1,1,0,1,0,East Asian Ancestry
+626,0.0,2,2,0,0,0,0,0,2,1,2,1,0,1,0,East Asian Ancestry
+627,1.0,2,2,0,0,0,0,0,2,2,2,2,0,1,0,East Asian Ancestry
+628,0.0,2,2,0,0,0,0,0,2,1,1,2,2,1,0,East Asian Ancestry
+629,0.0,2,2,0,0,0,0,0,2,2,2,1,0,1,0,East Asian Ancestry
+630,0.0,2,2,0,0,0,0,1,1,1,2,2,1,1,0,East Asian Ancestry
+631,0.0,2,2,0,0,0,0,0,1,0,0,1,1,1,0,East Asian Ancestry
+632,0.0,2,2,0,0,0,0,0,1,0,0,0,1,0,0,East Asian Ancestry
+633,0.0,2,2,0,0,0,0,0,2,1,1,2,0,1,0,East Asian Ancestry
+634,0.0,2,2,0,0,0,0,0,2,1,2,1,1,0,0,East Asian Ancestry
+635,0.0,2,2,0,0,0,0,0,1,1,2,1,1,0,0,East Asian Ancestry
+636,0.0,2,2,0,0,0,0,1,1,0,2,1,0,0,0,East Asian Ancestry
+637,0.0,2,2,0,0,0,0,0,2,2,2,2,1,2,0,East Asian Ancestry
+638,0.0,2,2,0,0,0,0,0,2,0,1,2,0,0,0,East Asian Ancestry
+639,0.0,2,2,0,0,0,0,0,0,0,1,1,0,0,0,East Asian Ancestry
+640,0.0,2,2,0,0,0,0,0,1,0,2,2,0,1,0,East Asian Ancestry
+641,0.0,1,2,0,0,0,0,0,1,1,0,1,1,2,0,East Asian Ancestry
+642,0.0,2,2,0,0,0,0,0,2,0,1,1,0,0,0,East Asian Ancestry
+643,1.0,1,2,0,0,0,0,0,1,0,1,1,1,2,0,East Asian Ancestry
+644,0.0,2,2,0,0,0,0,0,2,0,2,1,2,1,0,East Asian Ancestry
+645,0.0,1,2,0,0,0,0,0,1,0,0,1,1,1,0,East Asian Ancestry
+646,0.0,2,2,0,0,0,0,0,2,2,1,1,0,0,0,East Asian Ancestry
+647,0.0,2,2,0,0,0,0,2,2,1,2,2,0,2,0,East Asian Ancestry
+648,0.0,2,2,0,0,0,0,1,2,1,1,2,1,0,0,East Asian Ancestry
+649,0.0,2,2,0,0,0,0,0,1,0,0,2,2,1,0,East Asian Ancestry
+650,0.0,1,2,0,0,0,0,0,1,1,0,2,0,2,0,East Asian Ancestry
+651,0.0,2,2,0,0,0,0,1,2,2,1,1,0,1,0,East Asian Ancestry
+652,0.0,1,2,0,0,0,0,0,1,1,0,2,0,1,0,East Asian Ancestry
+653,1.0,2,2,0,0,0,0,0,1,1,2,2,0,1,0,East Asian Ancestry
+654,1.0,0,2,0,0,0,0,0,2,2,2,2,0,1,0,East Asian Ancestry
+655,0.0,2,2,0,0,0,0,0,2,1,1,1,0,1,0,East Asian Ancestry
+656,0.0,2,2,0,0,0,0,0,0,0,0,1,0,1,0,East Asian Ancestry
+657,0.0,2,2,0,0,0,0,1,2,1,1,1,0,1,0,East Asian Ancestry
+658,1.0,1,2,0,0,0,0,0,2,2,1,2,0,1,0,East Asian Ancestry
+659,0.0,1,2,0,0,0,0,0,1,0,1,1,1,1,1,East Asian Ancestry
+660,0.0,2,2,0,0,0,0,1,2,0,2,1,0,2,0,East Asian Ancestry
+661,0.0,1,2,0,0,0,0,0,2,1,0,2,0,1,0,East Asian Ancestry
+662,0.0,1,2,0,0,0,0,0,1,1,0,2,1,1,0,East Asian Ancestry
+663,0.0,2,2,0,0,0,0,0,0,1,1,1,0,1,0,East Asian Ancestry
+664,0.0,2,2,0,0,0,0,0,1,1,0,1,0,0,0,East Asian Ancestry
+665,1.0,2,2,0,0,0,0,1,2,1,0,2,1,2,0,East Asian Ancestry
+666,1.0,2,2,0,0,0,0,1,1,0,2,1,1,1,0,East Asian Ancestry
+667,0.0,2,2,0,0,0,0,0,2,2,2,2,1,0,0,East Asian Ancestry
+668,0.0,1,2,0,0,0,0,0,2,1,0,1,1,0,0,East Asian Ancestry
+669,1.0,1,2,0,0,0,0,0,2,0,1,2,0,1,0,East Asian Ancestry
+670,1.0,2,2,0,0,0,0,0,1,0,2,1,1,1,0,East Asian Ancestry
+671,0.0,0,2,0,0,0,0,0,0,1,1,1,1,1,0,East Asian Ancestry
+672,0.0,0,2,0,0,0,0,0,1,1,1,1,1,0,0,East Asian Ancestry
+673,0.0,0,2,2,0,0,0,0,1,0,1,1,0,1,0,African Ancestry
+674,0.0,0,2,1,2,1,0,1,2,0,0,1,0,1,1,African Ancestry
+675,0.0,0,2,2,0,0,0,0,0,1,1,0,0,0,0,African Ancestry
+676,0.0,0,2,2,0,0,0,0,1,0,0,0,0,0,1,African Ancestry
+677,0.0,0,2,1,1,0,0,1,1,1,0,0,0,2,1,African Ancestry
+678,0.0,0,2,1,1,0,1,0,1,0,0,0,1,0,0,African Ancestry
+679,0.0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,African Ancestry
+680,0.0,0,2,2,0,0,0,1,1,0,1,1,0,0,1,African Ancestry
+681,0.0,1,2,0,0,0,1,0,1,0,2,2,0,2,0,American Ancestry
+682,0.0,0,2,1,1,0,0,0,0,0,1,0,1,0,0,American Ancestry
+683,0.0,0,2,2,0,1,0,0,2,0,0,0,0,0,0,African Ancestry
+684,0.0,0,2,2,0,0,0,1,0,0,0,0,0,1,2,African Ancestry
+685,0.0,0,1,2,0,1,1,2,1,0,2,0,0,1,1,African Ancestry
+686,0.0,0,1,2,0,0,0,0,0,0,1,0,0,1,0,African Ancestry
+687,0.0,0,2,2,0,0,0,0,1,1,0,0,0,0,1,African Ancestry
+688,0.0,2,1,0,1,0,0,1,1,0,1,2,1,0,0,American Ancestry
+689,0.0,0,1,0,1,0,0,0,0,2,1,1,2,0,0,American Ancestry
+690,0.0,1,2,0,0,0,0,0,1,0,1,1,1,0,1,American Ancestry
+691,0.0,2,2,0,0,1,1,0,2,1,1,2,1,1,0,American Ancestry
+692,0.0,2,2,0,0,1,0,0,1,1,2,1,1,0,0,American Ancestry
+693,0.0,1,1,1,0,0,0,0,1,1,0,1,0,0,0,American Ancestry
+694,0.0,2,2,0,0,0,0,0,0,1,2,0,1,0,0,American Ancestry
+695,0.0,1,1,0,0,0,0,0,0,1,1,2,1,0,1,American Ancestry
+696,0.0,2,2,0,0,0,1,0,1,0,0,1,0,1,1,American Ancestry
+697,0.0,2,2,0,0,0,0,0,1,0,2,2,1,2,0,American Ancestry
+698,0.0,2,1,0,0,1,0,0,0,0,1,1,1,0,1,American Ancestry
+699,0.0,1,1,0,0,0,0,0,1,2,0,1,2,0,1,American Ancestry
+700,0.0,2,2,0,0,0,0,0,1,0,1,0,0,1,0,American Ancestry
+701,0.0,1,1,0,0,0,1,0,1,1,1,2,1,0,1,American Ancestry
+702,0.0,2,2,1,0,0,0,0,0,1,1,1,1,0,1,American Ancestry
+703,0.0,2,2,0,0,0,0,0,0,1,0,1,2,0,0,American Ancestry
+704,1.0,2,2,0,0,0,0,0,0,0,1,2,1,1,0,American Ancestry
+705,0.0,1,2,0,0,0,0,1,1,1,1,1,1,2,1,American Ancestry
+706,0.0,1,2,0,1,0,0,0,0,1,1,1,1,1,0,American Ancestry
+707,0.0,1,1,0,0,0,1,1,0,1,1,1,1,1,0,American Ancestry
+708,0.0,2,2,0,0,0,1,1,0,0,2,1,1,1,0,American Ancestry
+709,0.0,2,2,0,0,0,0,0,0,0,1,0,2,0,1,American Ancestry
+710,0.0,1,2,0,0,0,0,0,2,1,0,2,0,1,0,American Ancestry
+711,0.0,2,1,0,0,0,0,0,0,1,1,1,0,0,1,American Ancestry
+712,0.0,0,2,2,0,0,0,1,1,1,0,1,0,0,0,African Ancestry
+713,0.0,0,2,1,0,0,0,0,2,1,0,1,0,1,0,African Ancestry
+714,0.0,2,2,0,0,0,0,0,2,1,2,1,0,1,0,American Ancestry
+715,0.0,1,0,0,0,0,0,0,0,0,2,0,0,0,1,American Ancestry
+716,,2,1,0,0,0,2,0,1,1,0,2,0,0,1,American Ancestry
+717,0.0,2,2,0,0,0,1,0,0,0,1,2,1,0,0,American Ancestry
+718,0.0,2,1,0,2,0,0,0,0,2,0,0,1,1,1,American Ancestry
+719,0.0,0,1,0,0,1,0,0,1,2,1,1,1,0,1,American Ancestry
+720,0.0,2,1,1,1,0,0,0,0,0,1,2,2,1,0,American Ancestry
+721,0.0,2,2,0,0,0,0,0,2,1,1,2,0,0,0,American Ancestry
+722,0.0,2,0,0,0,0,1,0,0,1,0,2,0,1,0,American Ancestry
+723,0.0,2,2,0,0,0,1,1,0,0,2,1,0,0,1,American Ancestry
+724,0.0,0,0,0,0,0,1,0,1,0,1,0,1,1,0,American Ancestry
+725,0.0,2,2,0,2,0,0,0,0,0,2,2,1,1,0,American Ancestry
+726,0.0,1,2,0,0,0,0,0,2,1,1,0,2,1,0,American Ancestry
+727,0.0,0,2,2,0,1,0,1,2,1,1,0,0,2,1,African Ancestry
+728,0.0,0,1,2,0,1,0,0,0,0,1,0,1,1,0,African Ancestry
+729,0.0,0,2,1,1,0,2,0,1,0,0,0,0,0,0,African Ancestry
+730,0.0,0,1,2,0,1,0,0,0,0,0,1,1,1,0,African Ancestry
+731,0.0,0,2,2,0,1,0,1,2,0,0,0,0,2,0,African Ancestry
+732,0.0,2,2,0,0,0,0,0,1,2,1,1,1,0,0,American Ancestry
+733,0.0,1,2,0,0,1,0,0,0,0,0,2,0,0,0,American Ancestry
+734,0.0,1,2,0,1,0,1,0,1,2,1,1,2,0,2,American Ancestry
+735,0.0,2,2,0,0,0,0,0,1,0,1,0,0,0,0,American Ancestry
+736,0.0,2,2,0,1,1,0,0,2,1,1,2,0,0,1,American Ancestry
+737,0.0,1,1,2,0,0,2,0,0,1,2,1,1,0,2,American Ancestry
+738,0.0,0,2,0,0,0,0,0,0,0,1,0,1,0,0,American Ancestry
+739,0.0,0,2,1,0,0,1,0,2,1,1,0,2,0,0,African Ancestry
+740,0.0,0,2,2,1,0,0,0,1,1,1,0,0,2,0,African Ancestry
+741,0.0,0,2,2,0,0,0,1,0,0,1,0,0,1,1,African Ancestry
+742,0.0,0,2,2,0,0,0,1,1,1,0,0,1,1,1,African Ancestry
+743,0.0,0,2,2,0,0,0,0,0,1,1,1,0,1,0,African Ancestry
+744,0.0,2,2,0,0,0,0,0,1,0,2,1,1,0,0,East Asian Ancestry
+745,1.0,2,2,0,0,0,0,0,2,1,2,2,1,0,0,East Asian Ancestry
+746,1.0,2,2,0,0,0,0,0,0,0,0,1,2,1,0,East Asian Ancestry
+747,0.0,2,2,0,0,0,0,0,1,1,0,2,0,2,0,East Asian Ancestry
+748,1.0,1,1,0,0,0,1,0,1,2,1,1,1,1,0,East Asian Ancestry
+749,0.0,2,2,0,0,0,0,0,1,0,1,2,0,1,0,East Asian Ancestry
+750,0.0,1,2,0,0,0,0,1,1,1,2,1,1,0,0,East Asian Ancestry
+751,0.0,2,2,0,0,0,0,0,2,1,1,2,0,0,0,East Asian Ancestry
+752,0.0,1,2,0,0,0,0,0,1,0,2,1,0,1,0,East Asian Ancestry
+753,0.0,1,2,0,0,0,0,0,2,0,2,2,1,0,0,East Asian Ancestry
+754,0.0,1,2,0,0,0,0,0,1,0,2,1,0,0,0,East Asian Ancestry
+755,0.0,2,2,0,0,0,0,0,1,0,1,2,0,0,0,East Asian Ancestry
+756,0.0,1,2,0,0,0,0,1,1,1,1,0,1,1,0,East Asian Ancestry
+757,1.0,1,2,0,0,0,0,0,2,0,2,1,1,2,0,East Asian Ancestry
+758,0.0,2,2,0,0,0,0,1,0,1,2,1,0,1,0,East Asian Ancestry
+759,0.0,2,2,0,0,0,0,0,1,0,2,0,0,1,0,East Asian Ancestry
+760,1.0,2,2,0,0,0,0,0,2,0,1,1,0,2,0,East Asian Ancestry
+761,0.0,0,2,2,0,0,0,0,0,0,0,0,0,1,1,African Ancestry
+762,0.0,0,2,2,0,0,0,0,2,1,0,0,0,0,1,African Ancestry
+763,0.0,0,1,2,0,0,0,0,1,1,0,0,0,2,0,African Ancestry
+764,0.0,0,2,2,0,0,0,0,2,0,0,1,0,1,0,African Ancestry
+765,0.0,1,2,0,0,0,0,0,2,1,2,1,0,1,0,East Asian Ancestry
+766,0.0,1,2,0,0,0,1,0,2,0,1,2,1,0,0,East Asian Ancestry
+767,0.0,2,2,0,0,0,0,0,1,1,1,1,1,1,0,East Asian Ancestry
+768,1.0,1,2,0,0,0,0,0,2,0,1,2,0,2,0,East Asian Ancestry
+769,0.0,2,2,0,0,0,0,0,2,1,1,1,1,1,0,East Asian Ancestry
+770,0.0,1,2,0,0,0,0,0,2,1,1,2,2,1,0,East Asian Ancestry
+771,0.0,2,2,0,0,0,0,0,1,0,2,2,2,1,0,East Asian Ancestry
+772,0.0,1,2,0,0,0,0,0,2,0,2,1,0,1,0,East Asian Ancestry
+773,0.0,2,2,0,0,0,0,1,1,0,1,1,1,1,0,East Asian Ancestry
+774,1.0,1,2,0,0,0,0,0,1,2,0,2,0,0,0,East Asian Ancestry
+775,0.0,2,2,0,0,0,0,0,2,1,2,2,0,0,0,East Asian Ancestry
+776,1.0,2,2,0,0,0,0,0,1,0,1,1,1,1,0,East Asian Ancestry
+777,0.0,2,2,0,0,0,0,1,1,1,1,2,1,0,0,East Asian Ancestry
+778,1.0,2,2,0,0,0,0,0,1,2,1,1,0,2,0,East Asian Ancestry
+779,0.0,2,2,0,0,0,0,0,2,1,2,2,0,2,0,East Asian Ancestry
+780,0.0,2,2,0,0,0,0,1,2,0,1,2,1,0,0,East Asian Ancestry
+781,1.0,2,2,0,0,0,0,0,2,1,2,1,2,1,0,East Asian Ancestry
+782,0.0,2,2,0,0,0,0,0,0,0,1,2,1,1,0,East Asian Ancestry
+783,0.0,2,2,0,0,0,0,0,1,1,0,1,1,0,0,East Asian Ancestry
+784,0.0,2,2,0,0,0,0,0,2,1,2,1,0,1,0,East Asian Ancestry
+785,0.0,2,2,0,0,0,0,0,2,0,2,1,1,1,0,East Asian Ancestry
+786,0.0,2,1,0,1,0,0,1,0,0,1,2,2,1,1,American Ancestry
+787,0.0,1,1,0,0,0,2,1,1,0,1,1,0,0,0,American Ancestry
+788,0.0,0,1,1,0,0,0,0,2,1,1,0,0,1,0,African Ancestry
+789,0.0,1,2,0,0,0,0,0,1,0,2,1,0,0,1,American Ancestry
+790,0.0,1,2,0,0,0,0,0,0,1,2,2,1,0,0,American Ancestry
+791,0.0,2,1,0,0,0,0,0,1,0,2,2,1,0,0,American Ancestry
+792,0.0,0,2,2,0,0,0,0,0,0,2,0,0,0,0,African Ancestry
+793,0.0,0,2,2,0,1,0,0,1,0,0,0,1,2,1,African Ancestry
+794,0.0,0,2,1,0,0,0,0,2,1,0,1,0,2,0,African Ancestry
+795,0.0,2,2,0,0,0,0,0,1,1,2,2,2,0,0,East Asian Ancestry
+796,1.0,2,2,0,0,0,0,1,2,1,1,2,0,1,0,East Asian Ancestry
+797,0.0,2,2,0,0,0,0,0,1,0,0,2,0,0,0,East Asian Ancestry
+798,0.0,2,2,0,0,0,0,0,2,0,1,2,1,1,0,East Asian Ancestry
+799,0.0,2,2,0,0,0,0,0,1,1,1,2,1,2,0,East Asian Ancestry
+800,0.0,2,2,0,0,0,0,0,2,0,0,1,1,1,0,East Asian Ancestry
+801,0.0,2,2,0,0,0,0,0,1,0,2,1,0,0,0,East Asian Ancestry
+802,0.0,1,2,0,0,0,0,0,1,0,0,2,1,2,0,East Asian Ancestry
+803,1.0,2,2,0,0,0,0,2,1,0,1,1,1,1,0,East Asian Ancestry
+804,0.0,2,2,0,0,0,0,0,2,0,2,1,0,0,0,East Asian Ancestry
+805,0.0,2,2,0,0,0,0,0,2,2,0,0,1,1,0,East Asian Ancestry
+806,0.0,1,2,0,0,0,0,0,1,0,2,2,0,1,0,East Asian Ancestry
+807,0.0,2,2,0,0,0,0,2,2,0,1,2,0,2,0,East Asian Ancestry
+808,1.0,2,2,0,0,0,0,0,1,1,2,1,0,0,0,East Asian Ancestry
+809,2.0,2,2,0,0,0,0,0,1,2,2,2,1,1,0,East Asian Ancestry
+810,0.0,1,2,0,0,0,0,0,1,0,2,1,1,2,0,East Asian Ancestry
+811,0.0,2,2,0,0,0,0,0,2,0,1,1,0,2,0,East Asian Ancestry
+812,1.0,0,2,2,0,0,0,1,1,1,0,0,0,0,2,African Ancestry
+813,0.0,0,2,2,0,0,0,0,1,0,1,0,0,0,0,African Ancestry
+814,0.0,2,2,0,0,1,0,0,1,1,1,2,1,0,2,American Ancestry
+815,0.0,1,2,0,0,0,0,0,0,1,1,2,1,1,0,American Ancestry
+816,0.0,2,2,0,0,0,0,0,1,1,0,2,2,0,0,American Ancestry
+817,0.0,2,2,0,0,0,0,0,2,0,2,1,1,0,0,East Asian Ancestry
+818,0.0,2,2,0,0,0,0,0,2,0,1,1,0,1,0,East Asian Ancestry
+819,0.0,2,2,0,0,0,0,0,2,2,1,2,1,0,0,East Asian Ancestry
+820,0.0,2,2,0,0,0,0,0,1,0,2,2,1,1,0,East Asian Ancestry
+821,0.0,2,2,0,0,0,0,0,2,1,1,2,0,0,0,East Asian Ancestry
+822,0.0,2,2,0,0,0,0,0,2,1,1,2,1,1,0,East Asian Ancestry
+823,0.0,2,2,0,0,0,0,1,1,1,1,2,0,1,0,East Asian Ancestry
+824,0.0,2,2,0,0,0,0,0,2,1,1,0,1,2,0,East Asian Ancestry
+825,0.0,2,2,0,0,0,0,1,1,0,1,1,1,1,0,East Asian Ancestry
+826,0.0,2,2,0,0,0,0,0,2,1,0,2,0,0,0,East Asian Ancestry
+827,0.0,2,2,0,0,0,0,0,2,0,2,1,1,2,0,East Asian Ancestry
+828,0.0,2,2,0,0,0,0,0,1,2,1,2,1,0,0,East Asian Ancestry
+829,0.0,2,2,0,0,0,0,0,2,0,1,2,1,1,0,East Asian Ancestry
+830,0.0,2,2,0,0,0,0,0,1,1,2,2,1,2,0,East Asian Ancestry
+831,1.0,2,2,0,0,0,0,1,2,2,1,0,0,0,0,East Asian Ancestry
+832,0.0,2,2,0,0,0,0,0,1,2,2,1,2,2,0,East Asian Ancestry
+833,0.0,2,2,0,0,0,0,0,2,1,1,1,0,2,0,East Asian Ancestry
+834,0.0,2,2,0,0,0,0,0,1,2,0,2,0,2,0,East Asian Ancestry
+835,0.0,2,2,0,0,0,0,0,2,1,2,2,1,0,0,East Asian Ancestry
+836,1.0,1,2,0,0,0,0,0,2,0,2,2,0,2,0,East Asian Ancestry
+837,0.0,0,0,0,2,1,2,2,2,0,2,0,0,1,0,European Ancestry
+838,0.0,0,0,1,0,0,2,0,1,1,1,0,0,1,0,European Ancestry
+839,0.0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,European Ancestry
+840,0.0,0,0,0,0,2,1,0,1,1,0,1,0,2,1,European Ancestry
+841,0.0,0,0,0,1,1,1,0,0,0,2,1,0,1,0,European Ancestry
+842,0.0,0,0,0,1,1,2,0,0,1,2,0,0,0,1,European Ancestry
+843,0.0,0,0,0,1,0,1,0,0,0,1,2,0,2,0,European Ancestry
+844,0.0,0,0,0,2,1,1,0,0,1,1,1,0,1,1,European Ancestry
+845,0.0,0,0,0,1,1,2,0,1,1,0,2,0,1,0,European Ancestry
+846,0.0,0,0,0,0,0,1,0,0,2,1,1,1,0,2,European Ancestry
+847,0.0,0,0,0,2,0,2,1,0,0,2,1,0,0,0,European Ancestry
+848,0.0,0,0,0,0,2,1,0,1,0,0,2,0,1,0,European Ancestry
+849,0.0,0,0,0,2,1,0,0,0,0,1,1,1,2,0,European Ancestry
+850,0.0,0,0,0,1,1,1,0,1,0,2,0,0,0,1,European Ancestry
+851,0.0,2,2,0,0,0,0,0,2,1,2,1,0,2,0,East Asian Ancestry
+852,0.0,2,1,0,0,0,1,0,0,0,2,1,1,1,1,American Ancestry
+853,0.0,2,1,0,1,0,0,1,1,0,0,2,0,0,0,American Ancestry
+854,0.0,0,2,2,0,0,1,0,0,1,0,0,0,1,0,African Ancestry
+855,0.0,0,2,1,0,0,0,0,1,0,1,0,0,2,0,African Ancestry
+856,0.0,2,2,0,0,0,0,0,1,0,2,1,1,0,1,American Ancestry
+857,0.0,2,1,0,0,1,0,0,0,0,1,1,0,0,0,American Ancestry
+858,0.0,2,1,0,0,0,1,0,0,2,1,1,1,0,0,American Ancestry
+859,0.0,2,2,0,0,0,0,0,0,2,1,2,1,0,0,American Ancestry
+860,0.0,2,1,1,0,0,0,0,1,0,1,0,0,0,1,American Ancestry
+861,0.0,2,2,0,0,0,0,0,1,0,2,1,0,0,0,American Ancestry
+862,0.0,2,2,0,0,0,0,0,1,1,1,1,0,0,1,American Ancestry
+863,0.0,2,1,0,0,1,0,0,1,0,1,2,1,1,0,American Ancestry
+864,0.0,1,2,0,0,1,0,1,1,1,1,0,1,0,0,American Ancestry
+865,0.0,2,1,0,0,1,1,0,1,1,2,1,2,0,2,American Ancestry
+866,0.0,2,2,0,0,1,0,0,0,0,2,2,1,2,0,American Ancestry
+867,0.0,0,2,2,0,0,0,1,1,1,0,0,0,1,1,African Ancestry
+868,0.0,0,1,2,0,1,0,0,1,2,0,0,0,1,0,African Ancestry
+869,0.0,0,0,2,0,0,0,0,0,1,0,0,0,1,0,African Ancestry
+870,0.0,0,1,2,0,0,1,0,2,0,1,0,0,0,0,African Ancestry
+871,0.0,1,1,0,0,1,1,0,2,1,0,2,0,1,2,American Ancestry
+872,0.0,1,1,0,0,0,0,0,0,0,1,1,1,0,0,American Ancestry
+873,0.0,1,1,0,0,0,0,0,1,1,2,2,1,0,0,American Ancestry
+874,0.0,2,1,0,1,0,1,0,1,0,1,1,0,1,0,American Ancestry
+875,0.0,2,1,0,0,0,1,0,1,0,1,2,0,0,0,American Ancestry
+876,0.0,2,1,0,0,0,0,0,2,1,1,2,1,0,0,American Ancestry
+877,0.0,1,1,0,1,0,1,0,1,2,1,1,1,0,0,American Ancestry
+878,0.0,2,2,0,0,1,0,0,1,1,1,2,0,0,1,American Ancestry
+879,0.0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,African Ancestry
+880,0.0,0,2,2,0,1,1,0,1,0,1,0,0,0,0,African Ancestry
+881,0.0,0,2,2,0,0,0,0,1,0,2,0,0,2,0,African Ancestry
+882,0.0,2,1,0,0,0,0,0,1,1,0,1,2,0,1,American Ancestry
+883,0.0,0,2,2,0,0,0,0,0,0,1,0,0,1,0,African Ancestry
+884,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,0,African Ancestry
+885,0.0,0,2,2,0,0,0,1,1,0,0,0,0,1,2,African Ancestry
+886,0.0,0,2,2,0,0,0,1,1,0,0,0,1,0,2,African Ancestry
+887,0.0,0,2,1,0,0,0,2,1,0,0,1,0,2,1,African Ancestry
+888,0.0,0,2,1,0,0,0,0,1,0,1,0,0,0,1,African Ancestry
+889,0.0,0,2,2,0,0,0,0,2,0,1,0,0,1,0,African Ancestry
+890,0.0,0,2,2,0,0,1,0,0,0,1,0,0,1,1,African Ancestry
+891,0.0,0,2,2,0,0,0,1,2,1,1,0,0,1,1,African Ancestry
+892,0.0,0,2,2,0,0,0,0,1,1,0,0,1,0,0,African Ancestry
+893,0.0,0,0,2,0,0,0,0,1,1,1,0,0,0,1,African Ancestry
+894,0.0,0,2,2,0,0,0,1,1,0,1,0,0,1,0,African Ancestry
+895,0.0,0,2,2,0,0,0,0,0,0,0,0,1,1,1,African Ancestry
+896,0.0,1,1,0,1,1,0,0,0,0,1,1,1,0,2,American Ancestry
+897,0.0,2,1,0,0,0,0,0,0,1,2,1,0,1,1,American Ancestry
+898,0.0,2,2,0,0,0,0,1,1,1,1,2,0,1,1,East Asian Ancestry
+899,0.0,2,2,0,0,0,0,0,1,1,2,0,0,2,0,East Asian Ancestry
+900,0.0,2,2,0,0,0,0,1,1,2,2,2,0,0,0,East Asian Ancestry
+901,0.0,1,2,0,0,0,0,0,1,1,0,1,2,2,0,East Asian Ancestry
+902,1.0,2,2,0,0,0,0,0,2,0,2,0,0,1,0,East Asian Ancestry
+903,0.0,1,2,0,0,0,0,0,2,1,2,1,1,1,0,East Asian Ancestry
+904,0.0,1,2,0,0,0,0,1,0,0,2,2,1,1,0,East Asian Ancestry
+905,0.0,2,2,0,0,0,0,1,2,1,1,1,0,1,0,East Asian Ancestry
+906,0.0,2,2,0,0,0,0,0,2,0,2,2,1,1,0,East Asian Ancestry
+907,0.0,2,2,0,0,0,0,1,2,1,2,2,0,1,0,East Asian Ancestry
+908,0.0,0,2,0,0,0,0,0,2,1,0,1,0,1,0,East Asian Ancestry
+909,0.0,2,2,0,0,0,0,0,2,1,1,1,1,2,0,East Asian Ancestry
+910,0.0,2,2,0,0,0,0,0,2,1,2,2,0,1,0,East Asian Ancestry
+911,0.0,2,2,0,0,0,0,0,1,2,1,0,1,1,0,East Asian Ancestry
+912,0.0,1,2,0,0,0,0,0,2,0,2,2,0,1,0,East Asian Ancestry
+913,0.0,2,2,0,0,0,0,1,1,1,2,1,1,2,0,East Asian Ancestry
+914,0.0,2,2,0,0,0,0,0,1,1,1,1,0,1,0,East Asian Ancestry
+915,0.0,2,2,0,0,0,0,0,1,0,1,1,0,1,0,East Asian Ancestry
+916,0.0,2,2,0,0,0,0,1,2,1,1,0,2,1,0,East Asian Ancestry
+917,0.0,1,2,0,0,0,0,0,2,2,2,2,2,1,0,East Asian Ancestry
+918,0.0,2,2,0,0,0,0,1,1,0,2,1,1,1,0,East Asian Ancestry
+919,0.0,2,2,0,0,0,0,0,2,1,1,2,0,1,0,East Asian Ancestry
+920,0.0,0,2,0,0,0,0,0,1,0,1,1,0,2,0,East Asian Ancestry
+921,0.0,2,2,0,0,0,0,0,2,1,2,1,0,1,0,East Asian Ancestry
+922,1.0,1,2,0,0,0,0,0,1,1,1,2,0,0,0,East Asian Ancestry
+923,0.0,2,2,0,0,0,0,0,2,2,2,2,1,0,0,East Asian Ancestry
+924,0.0,2,2,0,0,0,0,1,1,0,1,2,1,0,0,East Asian Ancestry
+925,0.0,2,2,0,0,0,0,0,2,0,2,2,0,2,0,East Asian Ancestry
+926,0.0,2,2,0,0,0,0,0,2,0,2,1,1,0,0,East Asian Ancestry
+927,0.0,2,2,0,0,0,0,0,2,2,1,1,1,2,0,East Asian Ancestry
+928,0.0,2,2,0,0,0,0,0,2,0,1,1,1,1,0,East Asian Ancestry
+929,0.0,1,2,0,0,0,0,0,2,1,2,1,1,1,0,East Asian Ancestry
+930,0.0,1,2,0,0,0,0,0,2,1,1,1,0,1,0,East Asian Ancestry
+931,0.0,2,2,0,0,0,0,1,1,0,0,1,0,2,0,East Asian Ancestry
+932,1.0,2,2,0,0,0,0,0,1,2,2,1,2,1,0,East Asian Ancestry
+933,0.0,0,2,2,0,0,0,1,1,0,0,0,0,0,1,African Ancestry
+934,0.0,0,1,1,1,1,0,1,0,0,0,1,0,0,0,African Ancestry
+935,0.0,2,2,0,0,0,0,0,0,0,2,2,1,0,1,American Ancestry
+936,0.0,0,2,2,0,0,0,0,0,1,0,0,0,0,2,African Ancestry
+937,0.0,0,1,2,0,0,0,1,2,0,1,0,0,1,0,African Ancestry
+938,0.0,0,2,1,0,0,0,1,1,0,0,0,0,2,2,African Ancestry
+939,0.0,0,2,2,0,0,1,1,0,1,1,0,0,1,0,African Ancestry
+940,0.0,0,2,2,0,0,0,2,2,2,0,0,0,0,1,African Ancestry
+941,0.0,0,1,2,0,0,0,0,1,0,1,0,0,1,1,African Ancestry
+942,0.0,0,2,2,1,0,0,0,0,0,0,0,0,0,0,African Ancestry
+943,0.0,0,2,2,0,0,0,0,0,1,2,0,1,1,1,African Ancestry
+944,0.0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,African Ancestry
+945,0.0,0,2,2,0,0,0,0,2,0,1,1,0,2,0,African Ancestry
+946,0.0,0,1,2,0,0,0,0,2,0,0,0,0,0,2,African Ancestry
+947,0.0,0,2,2,0,0,0,0,2,1,0,0,0,1,1,African Ancestry
+948,0.0,0,2,2,0,1,0,0,2,0,0,0,0,0,0,African Ancestry
+949,0.0,0,2,2,0,0,0,0,1,1,1,0,0,2,1,African Ancestry
+950,0.0,0,2,0,0,0,0,0,1,0,1,0,0,2,0,African Ancestry
+951,0.0,0,2,1,1,0,0,1,1,0,0,0,0,1,1,African Ancestry
+952,0.0,0,2,2,0,0,1,1,2,0,0,0,0,0,1,African Ancestry
+953,0.0,0,1,2,0,0,1,1,2,0,1,0,0,1,0,African Ancestry
+954,0.0,0,2,2,0,1,1,1,1,0,0,0,0,0,1,African Ancestry
+955,0.0,0,2,1,0,0,0,0,1,0,0,0,0,2,0,African Ancestry
+956,0.0,0,1,2,0,2,0,1,1,0,0,1,0,1,1,African Ancestry
+957,0.0,0,2,1,0,0,0,1,1,1,0,0,1,1,0,African Ancestry
+958,0.0,0,0,0,0,0,0,0,1,0,1,2,1,0,0,South Asian Ancestry
+959,0.0,0,0,0,0,0,0,1,0,0,1,0,1,1,0,South Asian Ancestry
+960,0.0,0,1,0,1,0,0,1,2,1,2,1,0,1,0,South Asian Ancestry
+961,0.0,0,0,0,1,0,0,1,1,0,2,1,1,1,1,South Asian Ancestry
+962,0.0,0,2,2,0,0,1,0,2,1,0,0,0,2,0,African Ancestry
+963,0.0,0,1,1,0,0,0,0,2,1,0,1,0,1,1,African Ancestry
+964,0.0,0,2,1,1,0,1,1,0,1,0,1,0,0,1,African Ancestry
+965,0.0,0,2,1,0,0,1,0,1,0,0,0,0,1,1,African Ancestry
+966,0.0,0,1,2,1,0,0,0,1,0,2,0,0,1,0,African Ancestry
+967,0.0,0,2,2,0,0,0,0,2,1,0,0,0,0,0,African Ancestry
+968,0.0,0,2,2,0,0,0,1,1,0,0,0,0,0,1,African Ancestry
+969,2.0,2,2,0,0,0,0,0,1,0,1,2,1,1,0,East Asian Ancestry
+970,1.0,1,2,0,0,0,0,1,2,0,0,0,2,1,0,East Asian Ancestry
+971,0.0,1,2,0,0,0,0,0,0,0,1,2,1,1,0,East Asian Ancestry
+972,0.0,2,2,0,0,0,0,0,2,1,2,2,0,1,0,East Asian Ancestry
+973,0.0,0,2,2,0,0,0,0,1,1,1,1,0,0,1,African Ancestry
+974,0.0,0,2,2,1,0,0,1,2,1,0,0,0,1,1,African Ancestry
+975,0.0,0,2,2,0,0,0,0,1,1,1,0,1,1,0,African Ancestry
+976,0.0,0,2,2,0,0,0,0,1,0,1,0,0,1,1,African Ancestry
+977,0.0,0,2,2,0,0,0,1,1,2,0,0,0,1,1,African Ancestry
+978,0.0,0,1,2,0,0,0,1,0,0,1,0,1,1,0,African Ancestry
+979,0.0,0,2,2,0,0,0,1,1,0,1,1,0,0,1,African Ancestry
+980,0.0,0,2,2,0,0,0,0,1,0,0,0,1,0,1,African Ancestry
+981,0.0,0,2,2,0,1,0,1,1,0,0,0,0,1,0,African Ancestry
+982,0.0,0,2,1,0,0,0,2,1,0,1,0,1,0,0,African Ancestry
+983,0.0,0,2,2,1,0,0,0,1,0,0,0,0,1,0,African Ancestry
+984,0.0,0,1,2,0,0,0,0,2,1,0,1,2,1,0,African Ancestry
+985,0.0,0,2,2,0,0,0,1,2,0,0,1,0,1,1,African Ancestry
+986,0.0,0,2,2,0,0,0,0,1,1,1,0,0,2,0,African Ancestry
+987,0.0,0,2,2,0,0,0,1,2,0,1,1,0,0,2,African Ancestry
+988,0.0,0,2,2,0,0,0,0,1,0,2,0,1,1,0,African Ancestry
+989,0.0,0,2,2,0,0,0,1,2,1,0,0,0,1,0,African Ancestry
+990,0.0,0,2,2,1,0,1,1,1,0,1,0,0,1,0,African Ancestry
+991,0.0,0,2,2,0,0,0,0,1,0,0,0,0,2,0,African Ancestry
+992,0.0,0,2,2,0,0,0,0,2,0,0,0,0,0,1,African Ancestry
+993,0.0,0,2,2,0,0,0,2,1,0,0,1,0,2,1,African Ancestry
+994,0.0,0,2,2,0,0,0,1,1,0,0,0,0,0,1,African Ancestry
+995,0.0,0,2,2,0,0,0,1,1,0,2,0,2,0,2,African Ancestry
+996,0.0,0,2,2,0,0,0,0,1,1,0,0,0,0,1,African Ancestry
+997,0.0,0,2,2,0,0,0,0,2,0,1,0,0,1,1,African Ancestry
+998,0.0,0,2,2,0,0,0,0,2,0,0,0,0,2,1,African Ancestry
+999,0.0,0,2,2,0,0,0,0,1,0,0,0,0,2,1,African Ancestry
+1000,0.0,0,0,0,1,0,0,0,2,0,1,0,1,1,0,South Asian Ancestry
+1001,0.0,0,0,0,0,0,1,2,1,0,2,1,2,2,1,South Asian Ancestry
+1002,0.0,0,1,0,0,0,0,1,1,1,0,1,0,2,1,South Asian Ancestry
+1003,0.0,0,0,0,1,1,0,1,1,1,2,0,0,0,0,South Asian Ancestry
+1004,0.0,0,1,0,0,0,1,0,1,0,1,1,1,2,0,South Asian Ancestry
+1005,0.0,0,2,2,0,0,0,0,2,0,1,0,0,1,1,African Ancestry
+1006,0.0,0,2,2,0,0,0,0,1,1,0,0,0,0,1,African Ancestry
+1007,0.0,0,1,2,0,0,0,0,2,0,0,0,0,0,1,African Ancestry
+1008,0.0,0,2,2,0,0,0,0,0,2,1,0,1,2,1,African Ancestry
+1009,0.0,0,2,2,0,0,0,0,2,1,1,0,0,2,0,African Ancestry
+1010,0.0,0,2,2,0,0,0,0,0,1,1,0,0,0,0,African Ancestry
+1011,0.0,0,2,2,0,0,0,0,2,0,1,0,0,2,0,African Ancestry
+1012,0.0,0,2,2,0,0,0,0,1,1,0,0,0,0,0,African Ancestry
+1013,0.0,0,2,2,0,0,0,0,1,0,1,0,0,2,2,African Ancestry
+1014,0.0,0,2,2,0,0,0,0,2,0,1,0,0,1,1,African Ancestry
+1015,0.0,0,2,2,0,0,0,2,2,0,0,0,1,1,0,African Ancestry
+1016,0.0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,African Ancestry
+1017,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,0,African Ancestry
+1018,0.0,0,2,2,0,0,0,1,2,0,1,0,1,0,1,African Ancestry
+1019,0.0,0,2,2,0,0,0,1,2,0,1,1,0,2,0,African Ancestry
+1020,0.0,0,1,2,0,0,0,0,1,0,0,0,0,0,0,African Ancestry
+1021,0.0,0,2,0,0,0,0,0,0,1,0,0,1,1,0,South Asian Ancestry
+1022,0.0,0,1,0,1,0,0,0,2,0,2,2,2,0,2,South Asian Ancestry
+1023,0.0,0,0,0,0,0,0,0,0,0,1,1,0,2,0,South Asian Ancestry
+1024,0.0,0,0,0,2,0,1,1,1,1,0,1,2,2,0,South Asian Ancestry
+1025,0.0,0,0,0,1,0,0,0,0,1,1,1,2,2,1,South Asian Ancestry
+1026,0.0,0,1,0,2,1,0,0,0,0,1,0,0,1,1,South Asian Ancestry
+1027,0.0,0,0,0,0,1,0,0,2,0,1,1,0,1,0,South Asian Ancestry
+1028,0.0,0,1,0,1,1,0,0,0,1,1,1,1,0,0,South Asian Ancestry
+1029,0.0,0,0,0,1,0,0,0,2,0,0,2,1,2,0,South Asian Ancestry
+1030,0.0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,South Asian Ancestry
+1031,0.0,0,2,2,0,0,0,1,2,0,0,0,0,0,1,African Ancestry
+1032,0.0,0,2,2,0,0,0,0,2,0,0,0,1,2,0,African Ancestry
+1033,0.0,0,2,2,0,0,0,1,2,0,0,0,0,1,0,African Ancestry
+1034,0.0,0,1,2,0,0,0,0,1,0,0,0,1,2,0,African Ancestry
+1035,0.0,0,2,2,0,0,0,0,2,0,0,0,0,2,0,African Ancestry
+1036,0.0,0,1,2,0,0,0,1,1,0,0,0,0,1,0,African Ancestry
+1037,0.0,0,0,0,1,0,0,0,1,0,1,2,2,2,1,South Asian Ancestry
+1038,0.0,0,0,0,1,0,1,0,1,1,0,1,2,0,0,South Asian Ancestry
+1039,0.0,0,1,0,0,2,0,0,0,1,2,2,1,2,0,South Asian Ancestry
+1040,0.0,0,0,0,1,1,0,0,0,1,2,1,1,2,0,South Asian Ancestry
+1041,0.0,0,0,0,0,0,0,0,1,1,2,0,1,0,0,South Asian Ancestry
+1042,0.0,0,0,0,0,0,0,0,1,0,1,2,1,1,0,South Asian Ancestry
+1043,0.0,0,0,0,1,0,0,0,1,0,2,0,2,0,0,South Asian Ancestry
+1044,0.0,0,0,0,1,0,0,0,1,0,1,1,1,0,0,South Asian Ancestry
+1045,0.0,0,0,0,1,1,0,0,1,0,1,0,2,0,0,South Asian Ancestry
+1046,0.0,0,1,0,1,0,0,1,1,0,1,1,1,2,1,South Asian Ancestry
+1047,0.0,0,0,0,0,0,1,0,0,1,1,0,2,0,0,South Asian Ancestry
+1048,0.0,0,1,0,1,0,0,0,0,1,1,0,2,2,0,South Asian Ancestry
+1049,0.0,0,1,0,1,0,0,0,1,1,2,1,0,1,0,South Asian Ancestry
+1050,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,2,African Ancestry
+1051,0.0,0,2,2,0,0,0,1,1,2,0,1,1,1,0,African Ancestry
+1052,0.0,0,2,2,0,0,0,1,1,0,2,0,0,1,0,African Ancestry
+1053,0.0,0,2,2,0,0,0,1,1,1,0,1,0,0,0,African Ancestry
+1054,0.0,0,2,2,0,0,0,1,2,1,2,0,0,2,1,African Ancestry
+1055,0.0,0,2,2,0,0,0,1,1,1,1,1,0,0,1,African Ancestry
+1056,0.0,0,1,0,0,0,0,0,1,0,1,2,1,1,0,South Asian Ancestry
+1057,0.0,0,1,0,0,0,0,0,0,0,1,1,2,1,0,South Asian Ancestry
+1058,0.0,0,2,0,1,0,0,0,0,0,0,1,1,0,1,South Asian Ancestry
+1059,0.0,0,2,0,0,0,0,1,1,0,1,1,0,1,0,South Asian Ancestry
+1060,0.0,0,0,0,0,0,0,0,0,0,1,2,2,1,1,South Asian Ancestry
+1061,0.0,0,0,0,0,0,0,0,0,1,1,0,2,0,1,South Asian Ancestry
+1062,0.0,0,0,0,0,0,0,1,0,0,1,0,0,1,1,South Asian Ancestry
+1063,0.0,0,1,0,1,1,0,0,0,0,2,0,0,0,1,South Asian Ancestry
+1064,0.0,0,0,0,2,0,0,0,2,0,0,1,0,0,0,South Asian Ancestry
+1065,0.0,0,1,2,0,0,0,0,1,0,0,0,0,2,2,African Ancestry
+1066,0.0,0,2,2,0,0,0,0,1,0,0,0,0,0,1,African Ancestry
+1067,0.0,0,1,2,0,0,0,0,2,1,0,0,0,2,0,African Ancestry
+1068,0.0,0,1,2,0,0,0,1,0,1,1,0,0,1,1,African Ancestry
+1069,0.0,0,2,2,0,0,0,1,1,0,0,0,0,1,0,African Ancestry
+1070,0.0,0,2,2,0,0,0,0,1,1,0,1,1,0,1,African Ancestry
+1071,0.0,0,2,2,0,0,0,0,2,1,0,0,0,1,0,African Ancestry
+1072,0.0,0,2,2,0,0,0,1,1,0,0,0,0,2,0,African Ancestry
+1073,0.0,0,2,2,0,0,0,1,1,0,0,0,0,1,0,African Ancestry
+1074,0.0,0,1,0,0,0,0,0,0,0,2,0,2,1,1,South Asian Ancestry
+1075,0.0,0,0,0,0,1,0,0,0,0,2,1,2,0,0,South Asian Ancestry
+1076,0.0,0,1,0,0,0,1,0,1,1,0,0,1,1,0,South Asian Ancestry
+1077,0.0,0,1,0,1,0,1,0,0,0,1,1,0,0,0,South Asian Ancestry
+1078,0.0,0,1,0,1,1,0,0,0,1,0,1,2,1,0,South Asian Ancestry
+1079,0.0,0,0,0,0,0,0,1,1,0,1,1,2,1,1,South Asian Ancestry
+1080,0.0,0,0,0,0,1,0,1,0,0,2,1,2,2,0,South Asian Ancestry
+1081,0.0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,South Asian Ancestry
+1082,0.0,0,2,0,2,0,1,0,1,1,1,0,0,1,0,South Asian Ancestry
+1083,0.0,0,0,0,0,1,0,1,0,0,1,1,1,1,0,South Asian Ancestry
+1084,0.0,0,1,0,2,0,0,0,0,0,0,1,2,1,0,South Asian Ancestry
+1085,0.0,0,1,0,0,0,0,0,0,1,0,2,0,0,0,South Asian Ancestry
+1086,0.0,0,2,2,0,0,0,0,2,0,1,0,0,1,1,African Ancestry
+1087,0.0,0,1,2,0,0,0,0,1,1,0,1,0,1,1,African Ancestry
+1088,0.0,0,2,2,0,0,0,0,1,1,1,0,0,1,1,African Ancestry
+1089,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,1,African Ancestry
+1090,0.0,0,2,2,0,0,0,2,2,0,0,0,0,1,1,African Ancestry
+1091,0.0,0,2,2,0,0,0,1,1,0,0,1,0,1,0,African Ancestry
+1092,0.0,0,2,2,0,0,0,0,2,2,0,0,0,0,1,African Ancestry
+1093,0.0,0,2,2,0,0,0,0,1,1,0,1,0,0,2,African Ancestry
+1094,0.0,0,2,2,0,0,0,0,1,0,0,0,1,0,0,African Ancestry
+1095,0.0,0,2,2,0,0,0,1,2,1,1,0,1,0,1,African Ancestry
+1096,0.0,0,2,2,0,0,0,0,1,0,0,0,2,1,0,African Ancestry
+1097,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,0,African Ancestry
+1098,0.0,0,2,2,0,0,0,0,0,1,0,0,0,0,0,African Ancestry
+1099,0.0,0,2,2,0,0,1,1,2,0,0,0,0,1,0,African Ancestry
+1100,0.0,0,2,2,0,1,0,1,2,0,0,0,0,1,0,African Ancestry
+1101,0.0,0,0,2,0,1,0,0,2,1,0,0,1,0,0,African Ancestry
+1102,0.0,0,2,2,1,0,0,2,2,1,0,0,0,0,1,African Ancestry
+1103,0.0,0,2,2,0,0,0,0,1,1,1,0,0,0,1,African Ancestry
+1104,0.0,0,2,2,0,0,0,0,0,0,0,0,1,1,1,African Ancestry
+1105,0.0,0,2,2,0,0,0,1,2,0,0,0,1,1,1,African Ancestry
+1106,0.0,0,2,2,0,0,0,1,1,0,0,0,1,1,0,African Ancestry
+1107,0.0,0,2,2,0,0,0,1,0,1,0,0,0,1,0,African Ancestry
+1108,0.0,0,2,2,0,0,0,1,1,0,1,0,0,1,1,African Ancestry
+1109,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,1,African Ancestry
+1110,0.0,0,1,2,0,0,0,0,1,1,0,0,0,1,2,African Ancestry
+1111,0.0,0,2,2,0,0,0,0,1,0,1,0,0,1,0,African Ancestry
+1112,0.0,0,2,2,0,0,0,1,0,0,2,0,0,2,0,African Ancestry
+1113,0.0,0,2,2,0,0,0,2,2,0,0,0,0,2,1,African Ancestry
+1114,0.0,0,2,2,0,0,0,1,1,0,0,0,0,0,0,African Ancestry
+1115,0.0,0,1,2,0,0,0,0,0,0,0,0,1,0,1,African Ancestry
+1116,0.0,0,1,2,0,0,0,1,1,1,0,0,0,1,1,African Ancestry
+1117,0.0,0,2,2,0,0,0,0,1,0,1,0,0,1,0,African Ancestry
+1118,0.0,0,2,2,0,0,0,0,2,0,1,0,0,1,0,African Ancestry
+1119,0.0,0,2,2,0,0,0,1,1,0,0,0,1,0,1,African Ancestry
+1120,0.0,0,2,2,0,0,0,1,1,0,0,0,0,1,1,African Ancestry
+1121,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,0,African Ancestry
+1122,0.0,0,2,2,0,0,0,0,1,0,0,0,0,2,1,African Ancestry
+1123,0.0,0,2,2,0,0,0,0,1,1,0,0,0,0,1,African Ancestry
+1124,0.0,0,2,2,0,0,0,0,2,1,0,0,0,0,0,African Ancestry
+1125,0.0,0,2,2,0,0,0,0,2,0,0,0,0,2,2,African Ancestry
+1126,0.0,0,2,2,0,0,0,0,1,0,1,0,0,2,1,African Ancestry
+1127,0.0,0,2,2,0,0,0,1,1,0,0,0,0,1,1,African Ancestry
+1128,0.0,0,2,2,0,0,0,1,2,1,0,0,0,2,1,African Ancestry
+1129,0.0,0,2,2,0,0,0,0,0,0,1,0,0,2,1,African Ancestry
+1130,0.0,0,2,2,0,0,0,0,2,0,0,0,0,2,1,African Ancestry
+1131,0.0,0,2,2,0,0,0,0,1,0,0,0,1,0,1,African Ancestry
+1132,0.0,0,2,2,0,0,0,0,1,1,1,0,0,1,0,African Ancestry
+1133,0.0,0,2,2,0,0,0,0,0,1,1,0,0,0,0,African Ancestry
+1134,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,1,African Ancestry
+1135,0.0,0,2,2,0,0,0,1,0,0,1,0,1,1,0,African Ancestry
+1136,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,1,African Ancestry
+1137,0.0,0,2,2,0,0,0,0,0,0,1,0,0,2,0,African Ancestry
+1138,0.0,0,1,2,0,0,0,0,1,1,0,0,0,1,1,African Ancestry
+1139,0.0,0,2,2,0,0,0,0,1,1,0,0,0,0,2,African Ancestry
+1140,0.0,0,2,2,0,0,0,0,1,0,0,0,0,2,0,African Ancestry
+1141,0.0,0,1,2,0,0,0,1,2,1,0,1,0,1,1,African Ancestry
+1142,0.0,0,2,2,0,0,0,0,1,0,0,1,1,1,1,African Ancestry
+1143,0.0,0,2,2,0,0,0,1,2,0,1,0,0,2,1,African Ancestry
+1144,0.0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,South Asian Ancestry
+1145,0.0,0,1,0,0,0,0,1,2,1,0,1,0,1,0,South Asian Ancestry
+1146,0.0,0,0,0,0,0,0,0,1,0,2,0,2,1,0,South Asian Ancestry
+1147,0.0,1,1,0,0,0,1,0,1,0,1,0,2,1,1,South Asian Ancestry
+1148,0.0,0,2,0,0,0,0,0,0,0,1,1,1,1,0,South Asian Ancestry
+1149,0.0,0,0,0,0,0,0,0,2,0,1,1,1,1,0,South Asian Ancestry
+1150,0.0,0,0,0,1,0,0,0,1,1,1,1,2,1,1,South Asian Ancestry
+1151,0.0,0,1,0,2,0,0,0,1,0,1,0,2,2,0,South Asian Ancestry
+1152,0.0,0,2,0,1,0,0,0,1,0,2,1,1,0,0,South Asian Ancestry
+1153,0.0,0,1,0,1,0,0,0,0,0,2,2,2,0,2,South Asian Ancestry
+1154,0.0,0,2,2,0,1,0,0,1,0,1,0,0,0,0,African Ancestry
+1155,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,0,African Ancestry
+1156,0.0,0,1,2,0,0,0,1,0,0,0,0,1,1,1,African Ancestry
+1157,0.0,0,2,2,0,0,0,0,2,1,0,0,0,1,1,African Ancestry
+1158,0.0,0,2,2,0,0,0,0,2,0,0,0,1,1,1,African Ancestry
+1159,0.0,0,2,2,0,0,0,0,2,0,0,0,0,0,1,African Ancestry
+1160,0.0,0,2,2,0,0,0,0,2,1,1,0,0,2,2,African Ancestry
+1161,0.0,0,2,2,0,0,0,0,0,1,0,0,0,1,0,African Ancestry
+1162,0.0,0,2,2,0,0,0,0,0,1,0,0,1,2,1,African Ancestry
+1163,0.0,0,2,2,0,0,0,0,1,0,1,0,0,2,0,African Ancestry
+1164,0.0,0,2,2,0,0,0,0,2,1,1,0,0,2,0,African Ancestry
+1165,0.0,0,2,2,0,0,0,0,0,1,1,0,1,1,1,African Ancestry
+1166,0.0,0,2,2,0,0,0,0,2,2,0,0,0,1,1,African Ancestry
+1167,0.0,0,1,2,0,0,0,0,2,0,0,0,1,0,1,African Ancestry
+1168,0.0,0,2,2,0,0,0,1,2,0,1,0,0,1,1,African Ancestry
+1169,0.0,0,1,2,0,0,0,0,2,0,0,0,0,1,1,African Ancestry
+1170,0.0,0,2,2,0,0,0,1,2,0,0,0,2,1,0,African Ancestry
+1171,0.0,0,2,2,0,0,0,1,0,0,0,1,0,1,1,African Ancestry
+1172,0.0,0,2,2,0,0,0,0,2,0,0,0,1,1,0,African Ancestry
+1173,0.0,0,2,2,0,0,0,1,2,0,0,0,0,0,1,African Ancestry
+1174,0.0,0,2,2,0,0,0,0,0,1,0,1,0,2,1,African Ancestry
+1175,0.0,0,2,2,0,0,0,0,1,1,0,0,0,2,1,African Ancestry
+1176,0.0,0,2,2,0,0,0,1,2,0,0,0,0,0,0,African Ancestry
+1177,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,1,African Ancestry
+1178,0.0,0,2,2,0,0,0,0,2,1,1,0,0,1,1,African Ancestry
+1179,0.0,0,1,2,0,0,0,0,1,0,1,1,1,0,1,African Ancestry
+1180,0.0,0,2,2,0,0,0,0,2,2,1,0,0,0,1,African Ancestry
+1181,0.0,0,2,2,0,0,0,0,0,1,0,1,0,2,1,African Ancestry
+1182,0.0,0,2,2,0,0,1,1,1,0,2,0,0,0,1,African Ancestry
+1183,0.0,0,2,2,0,0,0,0,1,1,1,0,0,1,2,African Ancestry
+1184,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,0,African Ancestry
+1185,0.0,0,1,2,0,0,0,0,0,0,0,0,0,1,1,African Ancestry
+1186,0.0,0,2,2,0,0,0,1,0,1,0,0,2,1,1,African Ancestry
+1187,0.0,0,2,2,0,0,0,1,1,0,0,0,2,1,2,African Ancestry
+1188,0.0,0,2,2,0,0,0,0,2,1,0,0,0,1,2,African Ancestry
+1189,0.0,0,2,2,0,0,0,0,2,1,0,0,0,1,0,African Ancestry
+1190,0.0,0,2,2,0,0,0,0,2,1,0,0,0,0,1,African Ancestry
+1191,0.0,0,2,2,0,0,0,0,2,0,1,0,0,0,1,African Ancestry
+1192,0.0,0,2,2,0,0,0,0,0,0,1,0,2,1,1,African Ancestry
+1193,0.0,0,2,2,0,0,0,1,0,1,0,0,0,2,0,African Ancestry
+1194,0.0,0,2,2,0,0,0,0,2,1,0,0,0,1,1,African Ancestry
+1195,0.0,0,2,2,0,0,0,0,1,0,1,0,0,2,1,African Ancestry
+1196,0.0,0,2,2,0,0,0,1,2,0,0,0,1,2,1,African Ancestry
+1197,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,1,African Ancestry
+1198,0.0,0,1,2,0,0,0,0,2,1,0,0,0,1,0,African Ancestry
+1199,0.0,0,2,2,0,0,0,0,1,1,0,0,0,0,0,African Ancestry
+1200,0.0,0,2,2,0,0,0,1,1,0,1,0,0,0,1,African Ancestry
+1201,0.0,0,2,2,0,0,0,0,2,0,0,0,0,2,2,African Ancestry
+1202,0.0,0,2,2,0,0,0,0,1,1,0,0,1,1,0,African Ancestry
+1203,0.0,0,2,2,0,0,0,0,0,1,1,0,0,2,2,African Ancestry
+1204,0.0,0,2,2,0,0,0,1,2,0,1,0,0,0,1,African Ancestry
+1205,0.0,0,2,2,0,0,0,1,1,1,0,0,0,1,1,African Ancestry
+1206,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,0,African Ancestry
+1207,0.0,0,2,2,0,0,0,0,2,1,0,0,0,0,0,African Ancestry
+1208,0.0,0,2,2,0,0,0,1,2,1,0,0,0,0,0,African Ancestry
+1209,0.0,0,2,2,0,0,0,0,1,0,1,0,0,0,1,African Ancestry
+1210,0.0,0,2,2,0,0,0,0,1,0,0,0,1,1,0,African Ancestry
+1211,0.0,0,2,2,0,0,0,0,0,0,1,0,1,1,1,African Ancestry
+1212,0.0,0,2,2,0,0,0,1,1,1,1,0,0,0,2,African Ancestry
+1213,0.0,0,2,2,0,0,0,1,0,1,0,0,0,0,0,African Ancestry
+1214,0.0,0,2,2,0,0,0,1,0,0,0,0,1,1,0,African Ancestry
+1215,0.0,0,2,2,0,0,0,2,1,0,1,0,0,1,2,African Ancestry
+1216,0.0,0,1,2,0,0,0,0,1,1,0,0,0,1,1,African Ancestry
+1217,0.0,0,2,2,0,0,0,1,2,1,0,0,0,1,1,African Ancestry
+1218,0.0,0,2,2,0,0,0,0,2,0,0,0,0,0,2,African Ancestry
+1219,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,2,African Ancestry
+1220,0.0,0,2,2,0,0,0,0,1,0,0,0,1,0,0,African Ancestry
+1221,0.0,0,2,2,0,0,0,0,1,1,0,1,0,1,0,African Ancestry
+1222,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,0,African Ancestry
+1223,0.0,0,2,2,0,0,0,0,1,0,0,0,1,2,0,African Ancestry
+1224,0.0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,African Ancestry
+1225,0.0,0,2,2,0,0,0,1,2,2,0,0,0,0,0,African Ancestry
+1226,0.0,0,2,2,0,0,0,0,0,0,0,0,0,1,1,African Ancestry
+1227,0.0,0,2,2,0,0,0,0,0,1,0,0,0,0,0,African Ancestry
+1228,0.0,0,2,2,0,0,0,2,1,0,1,0,0,0,1,African Ancestry
+1229,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,0,African Ancestry
+1230,0.0,0,2,2,0,0,0,0,1,0,1,0,0,2,1,African Ancestry
+1231,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,0,African Ancestry
+1232,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,1,African Ancestry
+1233,0.0,0,2,2,0,0,0,1,1,0,0,0,0,0,1,African Ancestry
+1234,0.0,0,2,2,0,0,0,1,1,0,0,1,0,1,1,African Ancestry
+1235,0.0,0,2,2,0,0,0,0,1,1,0,0,0,2,0,African Ancestry
+1236,0.0,0,2,2,0,0,0,1,1,1,0,0,0,1,0,African Ancestry
+1237,0.0,0,1,2,0,0,0,0,2,0,0,0,1,1,0,African Ancestry
+1238,0.0,0,0,0,0,0,0,0,1,1,0,0,2,1,1,South Asian Ancestry
+1239,0.0,0,0,0,0,0,0,0,0,1,0,0,2,0,0,South Asian Ancestry
+1240,0.0,0,0,0,0,0,1,0,1,1,1,0,1,0,0,South Asian Ancestry
+1241,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,South Asian Ancestry
+1242,0.0,0,1,0,1,2,0,0,0,1,1,1,2,1,0,South Asian Ancestry
+1243,0.0,0,0,0,0,0,0,0,1,0,1,2,0,0,0,South Asian Ancestry
+1244,0.0,0,2,2,0,1,0,0,2,0,0,0,0,1,1,African Ancestry
+1245,0.0,0,2,2,0,0,0,0,0,1,0,0,1,1,0,African Ancestry
+1246,0.0,0,1,2,0,0,0,0,1,1,1,0,0,1,0,African Ancestry
+1247,0.0,0,2,2,0,0,0,1,1,0,0,0,0,2,0,African Ancestry
+1248,0.0,0,2,2,0,0,0,1,1,1,0,0,0,1,0,African Ancestry
+1249,0.0,0,2,2,0,0,0,0,1,0,0,0,1,1,1,African Ancestry
+1250,0.0,0,2,2,0,0,0,0,2,1,0,1,0,2,1,African Ancestry
+1251,0.0,0,2,2,0,0,0,0,2,1,0,0,0,0,1,African Ancestry
+1252,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,2,African Ancestry
+1253,0.0,0,2,2,0,0,0,0,0,1,1,0,1,0,1,African Ancestry
+1254,0.0,0,2,2,0,0,0,1,1,0,0,0,0,2,1,African Ancestry
+1255,0.0,0,2,2,0,0,0,1,2,0,0,0,0,1,0,African Ancestry
+1256,0.0,0,2,2,0,0,0,0,2,0,0,0,0,0,1,African Ancestry
+1257,0.0,0,2,2,0,0,0,1,2,0,1,0,0,1,0,African Ancestry
+1258,0.0,0,2,2,0,0,0,0,0,1,0,0,0,1,1,African Ancestry
+1259,0.0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,African Ancestry
+1260,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,1,African Ancestry
+1261,0.0,0,2,2,0,0,0,1,2,1,0,0,0,2,0,African Ancestry
+1262,0.0,0,2,2,0,0,0,0,1,0,2,0,0,1,0,African Ancestry
+1263,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,0,African Ancestry
+1264,0.0,0,2,2,0,0,0,0,1,0,0,0,1,0,0,African Ancestry
+1265,0.0,0,2,2,0,0,0,1,1,1,0,0,0,1,1,African Ancestry
+1266,0.0,0,2,2,0,0,0,0,2,0,1,0,0,1,1,African Ancestry
+1267,0.0,0,2,2,0,0,0,1,2,0,1,0,0,0,0,African Ancestry
+1268,0.0,0,2,2,0,0,0,0,1,1,1,0,0,0,1,African Ancestry
+1269,0.0,0,2,2,0,0,0,0,0,0,0,0,0,0,2,African Ancestry
+1270,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,1,African Ancestry
+1271,0.0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,African Ancestry
+1272,0.0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,African Ancestry
+1273,0.0,0,2,2,0,0,0,0,0,1,0,1,0,1,0,African Ancestry
+1274,0.0,0,2,2,0,0,0,0,1,0,1,0,0,1,2,African Ancestry
+1275,0.0,0,2,2,0,0,0,1,1,0,0,0,0,1,0,African Ancestry
+1276,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,0,African Ancestry
+1277,0.0,0,2,2,0,0,0,1,1,0,1,0,1,0,1,African Ancestry
+1278,0.0,0,2,2,0,0,0,1,1,0,0,0,0,1,0,African Ancestry
+1279,0.0,0,2,2,0,0,0,0,1,0,1,0,0,2,0,African Ancestry
+1280,0.0,0,2,2,0,0,0,1,2,1,0,0,0,2,1,African Ancestry
+1281,0.0,0,2,2,0,0,0,1,1,0,1,0,0,2,2,African Ancestry
+1282,0.0,0,2,2,0,0,0,2,2,0,0,0,0,2,0,African Ancestry
+1283,0.0,0,2,2,0,0,0,1,1,0,0,1,0,1,0,African Ancestry
+1284,0.0,0,2,2,0,0,0,1,2,0,0,0,0,2,1,African Ancestry
+1285,0.0,0,2,2,0,0,0,0,1,0,0,0,0,2,0,African Ancestry
+1286,0.0,0,2,2,0,0,0,0,2,1,0,0,0,2,0,African Ancestry
+1287,0.0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,African Ancestry
+1288,0.0,0,2,2,0,0,0,0,1,1,0,0,1,2,1,African Ancestry
+1289,0.0,0,2,2,0,0,0,1,0,0,0,0,1,2,1,African Ancestry
+1290,0.0,0,2,2,0,0,0,0,2,1,0,0,0,1,0,African Ancestry
+1291,0.0,0,0,2,0,0,0,1,1,2,0,0,1,2,0,African Ancestry
+1292,0.0,0,2,2,0,0,0,0,1,0,0,0,0,0,1,African Ancestry
+1293,0.0,0,2,2,0,0,0,0,1,1,1,0,1,1,0,African Ancestry
+1294,0.0,0,2,2,0,0,0,1,2,1,0,1,0,1,1,African Ancestry
+1295,0.0,0,2,2,0,0,0,2,1,2,1,1,1,1,1,African Ancestry
+1296,0.0,0,1,2,0,0,0,1,0,1,0,0,0,1,1,African Ancestry
+1297,0.0,0,2,2,0,0,0,1,2,0,0,1,0,1,0,African Ancestry
+1298,0.0,0,2,2,0,0,0,1,2,1,1,0,0,0,0,African Ancestry
+1299,0.0,0,1,2,0,0,0,0,2,1,0,0,0,2,0,African Ancestry
+1300,0.0,0,2,2,0,0,0,0,2,1,0,0,0,0,2,African Ancestry
+1301,0.0,0,2,2,0,0,0,1,2,0,0,0,0,2,1,African Ancestry
+1302,0.0,0,2,2,0,0,0,1,2,1,0,1,0,1,0,African Ancestry
+1303,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,0,African Ancestry
+1304,0.0,0,1,2,0,0,0,2,1,1,0,0,1,1,0,African Ancestry
+1305,0.0,0,2,2,0,0,0,0,0,1,0,0,0,1,1,African Ancestry
+1306,0.0,0,1,2,0,0,0,0,2,1,1,0,0,1,1,African Ancestry
+1307,0.0,0,2,2,0,0,0,0,2,1,0,0,0,1,0,African Ancestry
+1308,0.0,0,2,2,0,0,0,1,2,1,0,0,0,1,1,African Ancestry
+1309,0.0,0,2,2,0,0,0,0,2,1,1,1,0,2,1,African Ancestry
+1310,0.0,0,2,2,0,0,0,2,2,0,1,0,1,1,0,African Ancestry
+1311,0.0,0,2,2,0,0,0,1,2,1,1,0,0,1,0,African Ancestry
+1312,0.0,0,1,2,0,0,0,0,2,1,1,0,0,0,0,African Ancestry
+1313,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,0,African Ancestry
+1314,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,2,African Ancestry
+1315,0.0,0,2,2,0,0,0,0,2,0,0,0,0,2,1,African Ancestry
+1316,0.0,0,2,2,0,0,0,2,2,0,0,0,1,1,0,African Ancestry
+1317,0.0,0,2,2,0,0,0,1,1,1,0,0,1,1,0,African Ancestry
+1318,0.0,0,1,0,1,1,0,1,1,0,2,0,0,1,0,South Asian Ancestry
+1319,0.0,0,0,0,0,0,1,0,2,0,2,1,0,1,0,South Asian Ancestry
+1320,0.0,0,0,0,0,0,0,1,0,0,2,2,1,0,0,South Asian Ancestry
+1321,0.0,0,2,2,0,0,0,1,1,1,2,0,0,2,1,African Ancestry
+1322,0.0,0,2,2,0,0,0,0,1,0,1,0,0,2,1,African Ancestry
+1323,0.0,0,1,2,0,0,0,0,1,1,0,0,0,1,0,African Ancestry
+1324,0.0,0,2,2,0,0,0,1,0,0,0,0,0,1,0,African Ancestry
+1325,0.0,0,2,2,0,0,0,1,0,0,0,0,0,0,0,African Ancestry
+1326,0.0,0,2,2,0,0,0,0,1,1,0,0,0,2,1,African Ancestry
+1327,0.0,0,2,2,0,0,0,1,2,0,1,0,1,2,0,African Ancestry
+1328,0.0,0,2,2,0,0,0,0,0,0,0,0,1,1,1,African Ancestry
+1329,0.0,0,2,2,0,0,0,0,1,1,1,1,0,0,1,African Ancestry
+1330,0.0,0,2,2,0,0,0,1,2,0,1,0,1,2,1,African Ancestry
+1331,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,1,African Ancestry
+1332,0.0,0,2,2,0,0,0,0,1,1,1,0,0,0,0,African Ancestry
+1333,0.0,0,2,2,0,0,0,1,1,1,0,0,0,1,1,African Ancestry
+1334,0.0,0,2,2,0,0,0,0,2,0,0,0,0,2,0,African Ancestry
+1335,0.0,0,2,2,0,0,0,0,1,0,1,0,0,0,1,African Ancestry
+1336,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,0,African Ancestry
+1337,0.0,0,1,2,0,0,0,0,2,0,0,0,0,2,0,African Ancestry
+1338,0.0,0,2,2,0,0,0,1,1,0,0,0,1,1,1,African Ancestry
+1339,0.0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,African Ancestry
+1340,0.0,0,2,2,0,0,1,1,2,0,0,0,0,2,1,African Ancestry
+1341,0.0,0,1,2,0,0,0,0,1,2,1,0,0,1,0,African Ancestry
+1342,0.0,0,1,2,0,0,0,2,1,1,0,0,0,1,1,African Ancestry
+1343,0.0,0,2,2,0,0,0,1,1,0,1,0,0,0,1,African Ancestry
+1344,0.0,0,2,2,0,0,0,0,2,1,0,0,0,1,1,African Ancestry
+1345,0.0,0,2,2,0,0,0,1,2,0,0,0,0,1,0,African Ancestry
+1346,0.0,0,1,0,0,1,0,0,1,0,0,2,1,0,0,South Asian Ancestry
+1347,0.0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,South Asian Ancestry
+1348,0.0,0,1,0,0,0,0,0,0,0,1,1,2,0,0,South Asian Ancestry
+1349,0.0,0,0,0,0,0,0,0,2,1,0,1,0,1,0,South Asian Ancestry
+1350,0.0,0,1,0,0,0,0,1,0,1,2,2,0,1,1,South Asian Ancestry
+1351,0.0,0,1,0,0,0,0,0,0,1,2,1,1,0,2,South Asian Ancestry
+1352,0.0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,South Asian Ancestry
+1353,0.0,1,2,0,0,1,0,0,1,1,0,1,1,0,0,South Asian Ancestry
+1354,0.0,0,2,0,0,0,0,1,1,1,1,2,1,0,0,South Asian Ancestry
+1355,0.0,0,1,0,0,0,0,1,2,1,1,1,0,1,0,South Asian Ancestry
+1356,0.0,0,2,0,0,0,0,0,1,1,1,1,0,2,0,South Asian Ancestry
+1357,0.0,0,1,0,0,0,0,0,1,0,2,0,1,0,1,South Asian Ancestry
+1358,0.0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,South Asian Ancestry
+1359,0.0,0,0,0,0,0,0,1,1,1,2,1,0,1,0,South Asian Ancestry
+1360,0.0,0,0,0,1,0,0,1,0,0,0,0,1,0,1,South Asian Ancestry
+1361,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,South Asian Ancestry
+1362,0.0,0,1,0,0,0,0,0,2,1,1,1,2,0,2,South Asian Ancestry
+1363,0.0,0,1,0,1,1,0,0,0,0,1,2,0,2,0,South Asian Ancestry
+1364,0.0,0,0,0,1,0,0,0,2,1,2,1,1,0,0,South Asian Ancestry
+1365,0.0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,South Asian Ancestry
+1366,0.0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,South Asian Ancestry
+1367,0.0,0,0,0,0,0,0,0,2,1,2,2,2,1,0,South Asian Ancestry
+1368,0.0,0,1,0,0,0,0,1,0,0,1,1,0,0,0,South Asian Ancestry
+1369,0.0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,South Asian Ancestry
+1370,0.0,0,0,0,0,1,0,0,0,1,1,2,1,1,0,South Asian Ancestry
+1371,0.0,0,2,0,0,1,1,0,1,0,2,2,1,1,0,South Asian Ancestry
+1372,0.0,0,0,0,0,1,0,1,1,0,2,2,2,1,0,South Asian Ancestry
+1373,0.0,0,2,0,0,0,0,0,0,1,0,2,0,1,0,South Asian Ancestry
+1374,0.0,0,0,0,1,0,0,0,2,1,1,0,0,1,0,South Asian Ancestry
+1375,0.0,0,0,0,1,1,0,0,1,0,1,0,1,2,0,South Asian Ancestry
+1376,0.0,0,0,0,1,0,0,1,1,0,1,0,2,2,1,South Asian Ancestry
+1377,0.0,0,1,0,1,0,0,0,2,1,1,2,1,0,0,South Asian Ancestry
+1378,0.0,0,1,0,1,0,0,0,0,0,2,1,0,1,0,South Asian Ancestry
+1379,0.0,0,0,0,0,0,0,0,0,0,2,1,1,1,0,South Asian Ancestry
+1380,0.0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,South Asian Ancestry
+1381,0.0,0,2,0,0,0,0,1,0,0,0,1,1,2,0,South Asian Ancestry
+1382,0.0,0,1,0,1,0,0,0,0,0,1,1,0,2,0,South Asian Ancestry
+1383,0.0,0,1,0,0,0,0,0,2,1,2,1,0,2,0,South Asian Ancestry
+1384,0.0,0,2,0,0,0,0,0,1,0,1,1,1,2,0,South Asian Ancestry
+1385,0.0,0,2,0,0,0,0,0,1,1,0,2,2,2,0,South Asian Ancestry
+1386,0.0,0,2,0,0,0,0,1,0,1,1,0,1,2,0,South Asian Ancestry
+1387,0.0,0,2,0,0,0,0,1,1,0,1,1,1,0,0,South Asian Ancestry
+1388,0.0,0,0,0,0,0,0,1,1,0,0,0,2,2,1,South Asian Ancestry
+1389,0.0,0,1,0,0,0,0,0,1,0,1,0,2,1,0,South Asian Ancestry
+1390,0.0,0,2,0,1,0,0,0,1,1,1,0,1,1,0,South Asian Ancestry
+1391,0.0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,South Asian Ancestry
+1392,0.0,0,2,0,0,0,0,1,1,1,1,2,2,0,1,South Asian Ancestry
+1393,0.0,0,1,0,0,0,0,1,1,0,1,1,1,1,0,South Asian Ancestry
+1394,0.0,0,1,0,0,0,0,0,1,1,0,2,1,1,0,South Asian Ancestry
+1395,0.0,0,0,0,0,0,0,0,1,1,1,1,1,0,1,South Asian Ancestry
+1396,0.0,0,1,0,0,0,0,0,2,0,2,0,1,1,0,South Asian Ancestry
+1397,0.0,0,1,0,0,0,0,1,2,0,1,2,2,1,0,South Asian Ancestry
+1398,0.0,0,1,0,0,0,0,0,0,0,2,2,2,1,0,South Asian Ancestry
+1399,0.0,0,0,0,0,0,0,1,2,2,1,2,0,1,1,South Asian Ancestry
+1400,0.0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,South Asian Ancestry
+1401,0.0,0,0,0,0,0,0,0,1,0,1,0,1,2,0,South Asian Ancestry
+1402,0.0,0,0,0,0,0,1,0,1,0,0,0,1,1,0,South Asian Ancestry
+1403,0.0,0,0,0,0,0,0,1,0,0,2,1,0,0,0,South Asian Ancestry
+1404,0.0,0,2,0,0,0,1,0,1,0,1,0,1,0,0,South Asian Ancestry
+1405,0.0,0,0,0,0,0,0,0,1,0,1,0,1,0,1,South Asian Ancestry
+1406,0.0,0,0,0,1,0,1,0,0,0,2,0,0,2,1,South Asian Ancestry
+1407,0.0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,South Asian Ancestry
+1408,0.0,0,2,0,0,0,1,0,0,0,1,1,1,1,2,South Asian Ancestry
+1409,0.0,0,1,0,0,0,0,0,1,1,1,0,2,1,0,South Asian Ancestry
+1410,0.0,0,2,0,0,0,0,1,0,0,0,1,1,0,0,South Asian Ancestry
+1411,0.0,0,1,0,0,0,0,0,0,2,2,2,2,1,0,South Asian Ancestry
+1412,0.0,0,0,0,0,0,0,2,1,0,1,2,2,0,0,South Asian Ancestry
+1413,0.0,0,1,0,0,0,0,1,1,0,1,1,1,0,0,South Asian Ancestry
+1414,0.0,0,1,0,0,0,0,0,0,0,2,1,0,1,0,South Asian Ancestry
+1415,0.0,0,0,0,0,0,0,0,1,1,1,2,1,1,0,South Asian Ancestry
+1416,0.0,0,2,0,0,0,0,1,1,0,2,0,0,2,0,South Asian Ancestry
+1417,0.0,0,1,0,0,0,0,0,1,0,1,1,2,1,1,South Asian Ancestry
+1418,0.0,0,1,0,0,0,0,0,2,0,1,2,0,0,0,South Asian Ancestry
+1419,0.0,0,0,0,0,0,0,0,1,0,0,0,2,1,0,South Asian Ancestry
+1420,0.0,0,1,0,0,0,0,0,0,1,2,1,0,0,0,South Asian Ancestry
+1421,0.0,0,1,0,0,0,0,1,0,1,1,0,1,1,0,South Asian Ancestry
+1422,0.0,0,2,0,0,0,0,0,0,0,1,2,2,2,0,South Asian Ancestry
+1423,0.0,0,1,0,0,0,0,0,1,0,1,1,1,1,1,South Asian Ancestry
+1424,0.0,0,1,0,0,0,0,1,1,0,1,0,1,1,0,South Asian Ancestry
+1425,0.0,0,1,0,1,0,0,0,0,0,1,0,2,0,1,South Asian Ancestry
+1426,0.0,0,2,0,0,1,0,0,0,0,1,0,1,0,0,South Asian Ancestry
+1427,0.0,0,0,0,0,0,2,0,1,0,0,0,1,1,0,South Asian Ancestry
+1428,0.0,0,1,0,0,0,0,0,1,0,0,0,2,1,0,South Asian Ancestry
+1429,0.0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,South Asian Ancestry
+1430,0.0,0,2,0,0,0,0,0,1,0,0,1,0,0,0,South Asian Ancestry
+1431,0.0,0,1,0,0,0,0,0,2,1,1,0,1,1,0,South Asian Ancestry
+1432,0.0,0,1,0,0,0,0,0,0,0,2,2,2,1,1,South Asian Ancestry
+1433,0.0,0,0,0,0,0,0,0,0,0,2,1,0,1,2,South Asian Ancestry
+1434,0.0,0,0,0,0,0,0,0,1,0,0,1,2,1,1,South Asian Ancestry
+1435,0.0,0,0,0,1,0,0,0,0,0,1,1,1,2,1,South Asian Ancestry
+1436,0.0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,South Asian Ancestry
+1437,0.0,0,2,0,1,0,0,0,0,2,2,1,1,1,0,South Asian Ancestry
+1438,0.0,0,0,0,0,1,0,0,2,0,1,2,1,1,0,South Asian Ancestry
+1439,0.0,0,1,0,0,1,0,0,2,0,2,2,1,1,1,South Asian Ancestry
+1440,0.0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,South Asian Ancestry
+1441,0.0,0,1,0,0,0,0,0,1,1,0,1,1,1,1,South Asian Ancestry
+1442,0.0,0,0,0,0,0,0,0,0,1,2,2,1,1,0,South Asian Ancestry
+1443,0.0,0,0,0,0,0,0,0,1,0,0,2,0,1,0,South Asian Ancestry
+1444,0.0,0,0,0,0,0,0,0,0,1,1,1,2,1,0,South Asian Ancestry
+1445,0.0,0,2,0,0,1,0,0,0,0,0,1,2,1,1,South Asian Ancestry
+1446,0.0,0,0,0,0,0,0,1,1,0,1,1,1,0,1,South Asian Ancestry
+1447,0.0,0,0,0,0,0,0,1,0,1,2,1,1,1,0,South Asian Ancestry
+1448,0.0,0,1,0,0,0,0,0,2,1,2,0,0,0,0,South Asian Ancestry
+1449,0.0,0,1,0,0,0,0,0,0,0,2,0,0,0,1,South Asian Ancestry
+1450,0.0,0,1,0,0,0,0,1,1,1,2,1,1,0,1,South Asian Ancestry
+1451,0.0,0,1,0,0,0,0,0,0,1,0,1,0,2,0,South Asian Ancestry
+1452,0.0,0,0,0,0,0,1,1,1,0,0,0,1,1,1,South Asian Ancestry
+1453,0.0,0,0,0,0,0,1,0,2,0,0,0,1,1,0,South Asian Ancestry
+1454,0.0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,South Asian Ancestry
+1455,0.0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,South Asian Ancestry
+1456,0.0,0,2,0,0,0,0,0,1,0,0,1,2,1,0,South Asian Ancestry
+1457,0.0,0,1,0,0,0,1,0,2,0,0,1,1,1,0,South Asian Ancestry
+1458,0.0,0,2,0,0,0,0,0,1,1,1,1,0,1,0,South Asian Ancestry
+1459,0.0,0,1,0,0,1,0,2,1,1,1,1,1,0,0,South Asian Ancestry
+1460,0.0,0,2,0,0,0,0,0,1,1,1,0,1,1,0,South Asian Ancestry
+1461,0.0,1,1,0,0,0,0,1,0,0,0,1,1,0,0,South Asian Ancestry
+1462,0.0,0,1,0,0,0,0,0,2,1,1,1,2,0,0,South Asian Ancestry
+1463,0.0,0,2,0,0,0,0,1,0,0,1,0,1,1,1,South Asian Ancestry
+1464,0.0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,South Asian Ancestry
+1465,0.0,1,1,0,0,0,0,0,1,0,0,1,2,1,0,South Asian Ancestry
+1466,0.0,0,1,0,0,0,0,0,1,0,1,1,1,2,1,South Asian Ancestry
+1467,0.0,0,1,0,0,0,0,0,0,0,1,0,1,0,1,South Asian Ancestry
+1468,0.0,0,1,0,1,0,0,0,2,0,2,1,1,1,0,South Asian Ancestry
+1469,0.0,0,1,0,0,0,0,0,2,1,2,1,1,2,0,South Asian Ancestry
+1470,0.0,0,1,0,0,1,0,1,2,1,1,0,1,1,0,South Asian Ancestry
+1471,0.0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,South Asian Ancestry
+1472,0.0,0,0,0,0,0,0,0,1,0,2,1,1,2,0,South Asian Ancestry
+1473,0.0,0,1,0,0,0,0,0,1,0,1,1,1,1,0,South Asian Ancestry
+1474,0.0,0,1,0,1,1,0,0,1,1,0,1,1,1,0,South Asian Ancestry
+1475,0.0,0,2,0,1,0,0,0,1,1,1,1,2,1,0,South Asian Ancestry
+1476,0.0,0,2,0,0,0,0,0,0,1,2,2,1,1,0,South Asian Ancestry
+1477,0.0,0,1,0,0,0,2,0,0,0,0,1,1,0,0,South Asian Ancestry
+1478,0.0,0,1,0,0,0,0,0,1,0,2,2,2,0,0,South Asian Ancestry
+1479,0.0,0,1,0,0,0,0,0,1,1,1,2,1,1,0,South Asian Ancestry
+1480,0.0,0,1,0,0,0,0,0,2,1,1,1,1,1,0,South Asian Ancestry
+1481,0.0,0,0,0,0,0,0,0,2,1,2,1,0,2,0,South Asian Ancestry
+1482,0.0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,South Asian Ancestry
+1483,0.0,0,0,0,0,0,0,1,1,0,1,0,1,2,0,South Asian Ancestry
+1484,0.0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,South Asian Ancestry
+1485,0.0,0,0,0,0,0,0,0,1,0,0,1,1,2,0,South Asian Ancestry
+1486,0.0,0,2,0,0,0,0,0,2,0,0,0,1,0,1,South Asian Ancestry
+1487,0.0,0,2,0,0,0,0,1,0,1,2,1,1,2,0,South Asian Ancestry
+1488,0.0,0,0,0,0,0,0,0,1,0,2,0,1,2,0,South Asian Ancestry
+1489,0.0,0,0,0,0,0,1,0,0,2,2,1,1,0,0,South Asian Ancestry
+1490,0.0,0,1,0,0,0,0,0,0,0,1,1,0,1,1,South Asian Ancestry
+1491,0.0,0,0,0,0,0,0,1,2,0,0,1,1,0,2,South Asian Ancestry
+1492,0.0,0,0,0,0,0,0,0,1,1,2,0,1,0,0,South Asian Ancestry
+1493,0.0,0,0,0,1,0,0,0,1,0,1,2,1,1,1,South Asian Ancestry
+1494,0.0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,South Asian Ancestry
+1495,0.0,0,2,0,0,0,0,0,2,0,0,1,0,2,0,South Asian Ancestry
+1496,0.0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,South Asian Ancestry
+1497,0.0,0,0,0,0,0,0,0,1,1,2,1,2,1,1,South Asian Ancestry
+1498,0.0,0,1,0,0,0,0,0,0,0,2,1,1,0,0,South Asian Ancestry
+1499,0.0,0,1,0,1,0,0,0,1,0,1,2,2,1,0,South Asian Ancestry
+1500,0.0,0,0,0,1,0,0,0,2,0,0,1,2,1,0,South Asian Ancestry
+1501,0.0,0,1,0,0,0,0,0,2,1,1,2,1,1,0,South Asian Ancestry
+1502,0.0,0,1,0,0,0,0,0,2,1,2,0,1,0,0,South Asian Ancestry
+1503,0.0,0,1,0,0,0,1,1,0,0,1,2,1,0,0,South Asian Ancestry
+1504,0.0,0,1,0,0,0,0,0,0,1,2,1,2,0,0,South Asian Ancestry
+1505,0.0,0,1,0,0,0,0,0,1,1,2,1,1,0,0,South Asian Ancestry
+1506,0.0,0,2,0,0,0,0,0,1,1,1,1,2,0,0,South Asian Ancestry
+1507,0.0,0,1,0,0,0,0,0,1,0,2,1,0,1,0,South Asian Ancestry
+1508,0.0,0,2,0,0,0,1,0,1,0,1,1,1,0,0,South Asian Ancestry
+1509,0.0,0,1,0,0,0,0,2,0,0,1,1,2,0,0,South Asian Ancestry
+1510,0.0,0,1,0,1,0,0,0,1,0,1,1,0,0,0,South Asian Ancestry
+1511,0.0,0,1,0,0,0,0,0,1,0,2,1,1,1,0,South Asian Ancestry
+1512,0.0,0,0,0,0,0,0,0,2,0,1,1,1,2,0,South Asian Ancestry
+1513,0.0,0,1,0,0,0,0,0,0,1,1,2,2,0,1,South Asian Ancestry
+1514,0.0,0,0,0,0,0,1,0,2,0,1,0,0,0,0,South Asian Ancestry
+1515,0.0,0,1,0,0,1,0,1,1,1,2,0,1,0,0,South Asian Ancestry
+1516,0.0,0,1,0,0,0,1,1,1,1,2,0,0,1,0,South Asian Ancestry
+1517,0.0,0,1,0,0,0,0,0,0,0,2,1,1,2,0,South Asian Ancestry
+1518,0.0,0,2,0,0,0,0,0,0,1,1,1,0,2,0,South Asian Ancestry
+1519,0.0,0,0,0,0,0,0,0,1,0,1,0,1,2,0,South Asian Ancestry
+1520,0.0,0,2,0,0,0,0,0,0,0,2,1,1,1,1,South Asian Ancestry
+1521,0.0,0,0,0,0,0,0,0,1,0,2,1,2,1,0,South Asian Ancestry
+1522,0.0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,South Asian Ancestry
+1523,0.0,0,1,0,0,1,0,0,0,0,1,2,0,0,1,South Asian Ancestry
+1524,0.0,0,0,0,1,0,0,0,1,0,1,2,2,0,0,South Asian Ancestry
+1525,0.0,0,0,0,1,0,0,0,1,0,1,1,0,2,0,South Asian Ancestry
+1526,0.0,0,0,0,0,1,0,1,0,0,2,0,2,1,0,South Asian Ancestry
+1527,0.0,0,1,0,0,0,0,0,0,0,2,1,1,1,1,South Asian Ancestry
+1528,0.0,0,1,0,1,1,0,0,0,0,2,1,2,0,0,South Asian Ancestry
+1529,0.0,0,2,0,0,0,0,0,2,0,1,1,1,2,0,South Asian Ancestry
+1530,0.0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,South Asian Ancestry
+1531,0.0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,South Asian Ancestry
+1532,0.0,0,1,0,0,0,1,0,0,1,0,0,2,1,0,South Asian Ancestry
+1533,0.0,1,1,0,0,0,0,0,1,0,1,0,0,0,0,South Asian Ancestry
+1534,0.0,1,0,0,0,0,0,0,1,0,1,2,1,0,0,South Asian Ancestry
+1535,0.0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,South Asian Ancestry
+1536,0.0,0,2,0,0,0,0,0,1,1,2,1,0,0,0,South Asian Ancestry
+1537,0.0,0,1,0,0,1,0,0,0,0,2,1,1,0,0,South Asian Ancestry
+1538,0.0,0,1,0,0,0,1,0,1,0,2,2,1,1,0,South Asian Ancestry
+1539,0.0,0,2,0,0,0,1,0,1,0,1,1,0,1,0,South Asian Ancestry
+1540,0.0,0,2,0,0,0,0,0,1,1,0,1,0,1,0,South Asian Ancestry
+1541,0.0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,South Asian Ancestry
+1542,0.0,0,2,0,0,0,0,0,0,1,1,2,2,0,0,South Asian Ancestry
+1543,0.0,0,2,0,0,0,0,0,1,0,1,1,0,1,0,South Asian Ancestry
+1544,0.0,0,0,0,0,0,0,0,0,0,2,1,0,1,1,South Asian Ancestry
+1545,0.0,0,2,0,0,1,0,0,1,0,1,1,1,1,0,South Asian Ancestry
+1546,0.0,0,0,0,0,0,0,0,2,0,2,0,2,2,0,South Asian Ancestry
+1547,0.0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,South Asian Ancestry
+1548,0.0,0,1,0,0,1,0,0,0,0,1,1,1,0,0,South Asian Ancestry
+1549,0.0,0,1,0,0,0,0,0,0,0,1,2,1,1,1,South Asian Ancestry
+1550,0.0,0,1,0,1,0,0,0,0,0,2,0,1,1,0,South Asian Ancestry
+1551,0.0,0,0,0,0,1,0,0,0,1,1,2,1,1,0,South Asian Ancestry
+1552,0.0,0,1,0,0,0,0,0,1,0,0,1,0,0,0,South Asian Ancestry
+1553,0.0,0,1,0,0,0,0,0,1,0,1,1,1,1,0,South Asian Ancestry
+1554,0.0,0,0,0,0,0,0,0,1,0,1,2,1,0,0,South Asian Ancestry
+1555,0.0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,South Asian Ancestry
+1556,0.0,0,0,0,1,0,0,1,2,1,2,0,0,1,1,South Asian Ancestry
+1557,0.0,0,1,0,0,0,0,1,1,0,1,0,0,1,1,South Asian Ancestry
+1558,0.0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,South Asian Ancestry
+1559,0.0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,South Asian Ancestry
+1560,0.0,0,1,0,0,0,0,1,0,1,0,2,0,0,0,South Asian Ancestry
+1561,0.0,0,1,0,0,0,0,0,2,0,2,0,2,0,0,South Asian Ancestry
+1562,0.0,0,1,0,0,0,0,0,0,0,2,2,1,0,0,South Asian Ancestry
+1563,0.0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,South Asian Ancestry
+1564,0.0,0,1,0,0,0,0,1,0,0,2,0,1,0,0,South Asian Ancestry
+1565,0.0,0,2,0,0,0,0,0,0,0,2,1,1,0,1,South Asian Ancestry
+1566,0.0,0,0,0,0,0,0,0,2,0,0,2,1,1,0,South Asian Ancestry
+1567,0.0,0,1,0,1,0,0,0,0,0,0,2,2,0,1,South Asian Ancestry
+1568,0.0,0,2,0,0,0,0,0,1,1,2,0,1,1,0,South Asian Ancestry
+1569,0.0,0,1,0,2,0,0,0,1,1,1,1,1,1,0,South Asian Ancestry
+1570,0.0,0,0,0,1,0,1,1,1,1,0,1,2,0,0,South Asian Ancestry
+1571,0.0,0,1,0,1,0,0,1,0,0,1,1,2,2,0,South Asian Ancestry
+1572,0.0,0,0,0,0,0,0,1,1,0,1,1,0,2,0,South Asian Ancestry
+1573,0.0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,South Asian Ancestry
+1574,0.0,0,1,0,0,0,0,1,0,0,1,0,0,1,1,South Asian Ancestry
+1575,0.0,0,1,0,0,0,0,1,0,0,1,2,0,0,0,South Asian Ancestry
+1576,0.0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,South Asian Ancestry
+1577,0.0,0,1,0,0,0,0,0,1,0,0,2,2,0,0,South Asian Ancestry
+1578,0.0,0,1,0,0,0,0,0,1,1,1,0,0,1,1,South Asian Ancestry
+1579,0.0,0,1,0,0,0,0,0,1,0,2,2,2,2,1,South Asian Ancestry
+1580,0.0,0,0,0,0,0,0,0,1,1,0,1,1,0,1,South Asian Ancestry
+1581,0.0,0,1,0,0,0,0,1,1,1,0,1,1,1,0,South Asian Ancestry
+1582,0.0,1,2,0,0,0,0,0,1,0,2,1,2,0,0,South Asian Ancestry
+1583,0.0,0,1,0,0,1,0,1,1,0,2,0,1,0,0,South Asian Ancestry
+1584,0.0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,South Asian Ancestry
+1585,0.0,0,1,0,0,0,0,1,0,1,1,1,1,0,0,South Asian Ancestry
+1586,0.0,0,0,0,0,0,0,0,1,0,1,2,1,2,0,South Asian Ancestry
+1587,0.0,0,1,0,0,0,0,0,0,0,2,1,0,0,0,South Asian Ancestry
+1588,0.0,0,2,0,0,0,0,0,1,0,1,1,2,2,1,South Asian Ancestry
+1589,0.0,0,2,0,0,0,0,0,1,0,2,2,1,1,1,South Asian Ancestry
+1590,0.0,0,2,0,0,0,0,0,1,0,1,1,0,1,1,South Asian Ancestry
+1591,0.0,0,0,0,0,0,0,0,1,2,1,2,2,1,0,South Asian Ancestry
+1592,0.0,0,1,0,0,0,0,0,0,0,2,1,1,1,1,South Asian Ancestry
+1593,0.0,0,0,0,0,1,0,0,1,0,1,1,1,1,0,South Asian Ancestry
+1594,0.0,0,1,0,0,1,0,1,1,0,1,1,1,1,0,South Asian Ancestry
+1595,0.0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,South Asian Ancestry
+1596,0.0,0,0,0,0,0,0,0,1,0,1,2,1,0,0,South Asian Ancestry
+1597,0.0,0,2,0,0,0,0,0,2,1,1,0,2,1,0,South Asian Ancestry
+1598,0.0,0,1,0,0,0,0,0,0,0,0,1,2,1,0,South Asian Ancestry
+1599,0.0,0,1,0,0,0,0,0,1,0,2,2,2,0,0,South Asian Ancestry
+1600,0.0,0,0,0,0,0,0,0,0,0,1,1,2,0,0,South Asian Ancestry
+1601,0.0,0,2,0,0,0,1,0,0,1,1,2,1,2,0,South Asian Ancestry
+1602,0.0,0,0,0,0,0,0,0,1,0,2,1,1,0,0,South Asian Ancestry
+1603,0.0,0,1,0,0,0,0,0,1,1,2,1,1,1,2,South Asian Ancestry
+1604,0.0,0,0,0,1,0,0,0,1,0,2,1,1,1,0,South Asian Ancestry
+1605,0.0,0,0,0,0,0,0,0,2,1,0,0,1,1,0,South Asian Ancestry
+1606,0.0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,South Asian Ancestry
+1607,0.0,0,2,0,0,0,0,0,0,0,2,2,1,2,0,South Asian Ancestry
+1608,0.0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,South Asian Ancestry
+1609,0.0,0,1,0,1,0,0,0,1,1,1,2,2,1,0,South Asian Ancestry
+1610,0.0,0,0,0,1,1,0,0,2,0,1,1,2,0,1,South Asian Ancestry
+1611,0.0,0,1,0,0,0,0,1,0,0,1,1,0,2,0,South Asian Ancestry
+1612,0.0,0,0,0,0,0,0,0,0,0,2,1,1,2,1,South Asian Ancestry
+1613,0.0,0,1,0,0,1,0,0,2,1,0,1,1,1,0,South Asian Ancestry
+1614,0.0,0,1,0,0,0,0,0,1,1,0,1,0,0,1,South Asian Ancestry
+1615,0.0,0,0,0,0,1,1,0,1,1,1,1,0,0,0,South Asian Ancestry
+1616,0.0,0,1,0,0,0,0,0,1,1,2,2,1,2,1,South Asian Ancestry
+1617,0.0,0,1,0,0,0,0,0,1,0,1,1,0,1,0,South Asian Ancestry
+1618,0.0,1,2,0,0,1,0,0,1,1,1,1,2,1,0,South Asian Ancestry
+1619,0.0,0,2,0,0,0,0,1,1,0,1,1,0,0,0,South Asian Ancestry
+1620,0.0,0,1,0,1,0,0,0,1,0,1,1,1,1,0,South Asian Ancestry
+1621,0.0,0,2,0,0,0,0,1,0,0,0,2,1,2,1,South Asian Ancestry
+1622,0.0,0,1,0,0,0,0,2,0,0,1,2,1,1,1,South Asian Ancestry
+1623,0.0,1,1,0,0,0,0,0,2,0,1,1,0,1,1,South Asian Ancestry
+1624,0.0,0,1,0,0,1,0,0,0,0,1,0,1,2,1,South Asian Ancestry
+1625,0.0,0,2,0,0,0,0,0,1,0,2,0,0,1,1,South Asian Ancestry
+1626,0.0,0,1,0,0,0,0,0,1,0,1,1,0,1,0,South Asian Ancestry
+1627,0.0,0,2,0,1,0,0,0,0,0,1,1,1,2,1,South Asian Ancestry
+1628,0.0,0,0,0,0,0,0,0,1,1,2,1,0,0,0,South Asian Ancestry
+1629,0.0,0,1,0,0,0,0,0,1,0,1,1,0,1,0,South Asian Ancestry
+1630,0.0,1,2,0,0,0,0,0,1,0,1,1,1,1,0,South Asian Ancestry
+1631,0.0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,South Asian Ancestry
+1632,0.0,0,0,0,0,0,1,0,1,0,1,0,2,1,0,South Asian Ancestry
+1633,0.0,0,0,0,0,1,0,0,1,0,0,1,1,1,0,South Asian Ancestry
+1634,0.0,0,0,0,0,0,0,0,2,0,1,1,0,1,0,South Asian Ancestry
+1635,0.0,0,2,0,0,0,0,0,1,1,1,2,1,0,0,South Asian Ancestry
+1636,0.0,0,1,0,0,0,0,0,0,0,0,2,2,0,0,South Asian Ancestry
+1637,0.0,0,1,0,0,0,0,0,0,1,0,1,1,0,0,South Asian Ancestry
+1638,0.0,0,0,0,0,0,0,0,0,1,1,2,1,1,0,South Asian Ancestry
+1639,0.0,0,1,0,0,0,1,0,0,0,2,0,2,1,0,South Asian Ancestry
+1640,0.0,0,0,0,0,1,0,0,0,0,0,1,1,1,0,South Asian Ancestry
+1641,0.0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,South Asian Ancestry
+1642,0.0,0,1,0,0,0,0,0,0,0,2,0,1,0,1,South Asian Ancestry
+1643,0.0,0,2,0,0,0,0,0,1,1,1,1,1,0,0,South Asian Ancestry
+1644,0.0,0,2,0,0,0,0,0,0,2,1,1,1,1,0,South Asian Ancestry
+1645,0.0,0,0,0,0,0,0,0,2,0,1,2,0,1,1,South Asian Ancestry
+1646,0.0,0,2,0,0,0,0,1,1,1,2,1,1,1,0,South Asian Ancestry
+1647,0.0,0,0,0,0,0,0,0,2,0,2,0,2,2,2,South Asian Ancestry
+1648,0.0,0,1,0,1,1,0,1,0,0,1,1,1,1,0,South Asian Ancestry
+1649,0.0,0,2,0,0,0,2,1,1,0,1,1,1,1,0,South Asian Ancestry
+1650,0.0,0,0,0,0,0,0,1,1,1,1,2,1,0,0,South Asian Ancestry
+1651,0.0,0,0,0,0,0,0,0,1,1,0,2,2,1,0,South Asian Ancestry
+1652,0.0,0,1,0,0,0,0,1,0,0,1,1,0,0,1,South Asian Ancestry
+1653,0.0,0,1,0,0,1,0,0,0,0,1,1,1,1,0,South Asian Ancestry
+1654,0.0,0,0,0,0,0,1,0,1,0,0,2,0,1,0,South Asian Ancestry
+1655,0.0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,South Asian Ancestry
+1656,0.0,0,0,0,1,2,2,0,0,0,1,1,1,1,0,European Ancestry
+1657,0.0,0,0,0,1,2,2,0,0,0,2,1,0,0,0,European Ancestry
+1658,0.0,0,0,0,1,1,2,0,1,1,0,1,1,2,1,European Ancestry
+1659,0.0,0,0,0,2,2,2,1,0,0,1,0,1,1,0,European Ancestry
+1660,0.0,0,0,0,1,2,2,0,0,2,2,1,0,0,0,European Ancestry
+1661,0.0,0,0,0,2,1,2,0,0,0,1,1,1,2,0,European Ancestry
+1662,0.0,0,0,0,0,1,2,0,0,1,0,0,0,2,1,European Ancestry
+1663,0.0,0,0,0,1,1,2,0,0,1,0,0,2,2,0,European Ancestry
+1664,0.0,0,0,0,2,1,2,1,0,0,2,2,2,1,0,European Ancestry
+1665,0.0,0,0,0,2,2,2,1,0,1,0,1,0,0,0,European Ancestry
+1666,0.0,0,0,0,2,1,2,0,0,0,2,1,0,0,1,European Ancestry
+1667,0.0,0,0,0,2,1,2,0,2,0,1,2,0,2,0,European Ancestry
+1668,0.0,0,0,0,1,1,2,0,1,1,2,0,0,1,0,European Ancestry
+1669,0.0,0,0,0,2,2,2,0,0,1,2,2,0,1,0,European Ancestry
+1670,0.0,0,0,0,1,1,2,0,0,2,1,1,0,2,0,European Ancestry
+1671,0.0,0,0,0,2,2,2,0,1,0,2,0,1,2,1,European Ancestry
+1672,0.0,0,0,0,2,2,2,1,0,0,1,0,0,0,0,European Ancestry
+1673,0.0,0,0,0,2,1,2,1,0,0,2,1,1,1,0,European Ancestry
+1674,0.0,0,0,0,2,0,2,1,0,0,1,1,0,0,0,European Ancestry
+1675,0.0,0,0,0,2,2,2,0,0,1,1,0,0,1,1,European Ancestry
+1676,0.0,0,0,0,2,2,2,0,0,0,1,2,1,2,0,European Ancestry
+1677,0.0,0,0,0,2,1,2,1,2,0,2,1,0,0,0,European Ancestry
+1678,0.0,0,0,0,2,0,2,0,0,0,2,2,1,1,1,European Ancestry
+1679,0.0,0,0,0,2,2,2,1,1,0,2,0,1,1,0,European Ancestry
+1680,0.0,0,0,0,2,2,2,1,0,1,0,1,0,1,0,European Ancestry
+1681,0.0,0,0,0,2,1,2,1,1,0,0,2,0,1,0,European Ancestry
+1682,0.0,0,0,0,2,2,2,0,1,0,1,0,0,1,0,European Ancestry
+1683,0.0,0,0,0,1,2,2,1,1,0,0,1,0,1,0,European Ancestry
+1684,0.0,0,0,0,2,1,2,0,0,0,1,2,1,2,1,European Ancestry
+1685,0.0,0,0,0,1,1,2,0,0,0,0,1,0,0,1,European Ancestry
+1686,0.0,0,0,0,2,2,2,0,2,1,0,0,0,1,1,European Ancestry
+1687,0.0,0,0,0,1,1,2,0,0,0,2,2,1,1,1,European Ancestry
+1688,0.0,0,0,0,1,1,2,0,0,0,1,1,1,1,0,European Ancestry
+1689,0.0,0,0,0,2,1,2,1,0,0,0,1,0,2,0,European Ancestry
+1690,0.0,0,0,0,1,2,2,1,1,0,1,2,0,1,1,European Ancestry
+1691,0.0,0,0,0,1,2,2,0,0,0,1,1,1,1,0,European Ancestry
+1692,0.0,0,0,0,2,2,2,1,1,0,0,2,0,1,1,European Ancestry
+1693,0.0,0,0,0,1,2,2,0,0,1,0,0,1,1,1,European Ancestry
+1694,0.0,0,0,0,2,2,2,0,0,0,2,1,0,1,1,European Ancestry
+1695,0.0,0,0,0,2,1,2,0,0,0,2,1,1,2,1,European Ancestry
+1696,0.0,0,0,0,0,1,2,0,0,1,2,1,1,0,0,European Ancestry
+1697,0.0,0,0,0,2,2,2,0,1,1,1,1,0,0,1,European Ancestry
+1698,0.0,0,0,0,2,1,2,0,0,0,0,0,1,1,0,European Ancestry
+1699,0.0,0,0,0,1,1,2,0,0,0,1,0,1,0,0,European Ancestry
+1700,0.0,0,0,0,1,2,2,0,0,0,2,0,2,1,0,European Ancestry
+1701,0.0,0,0,0,2,1,2,0,0,0,1,0,0,1,0,European Ancestry
+1702,0.0,0,0,0,2,1,2,1,0,1,1,2,1,0,0,European Ancestry
+1703,0.0,0,0,0,2,2,2,2,1,0,1,1,0,1,0,European Ancestry
+1704,0.0,0,0,0,2,2,2,1,0,1,0,2,0,1,1,European Ancestry
+1705,0.0,0,0,0,2,2,2,1,0,1,0,0,1,0,2,European Ancestry
+1706,0.0,0,0,0,0,1,2,0,0,0,1,1,0,2,0,European Ancestry
+1707,0.0,0,0,0,1,2,2,1,0,1,1,1,0,0,0,European Ancestry
+1708,0.0,0,0,0,0,1,2,0,0,0,1,0,0,0,0,European Ancestry
+1709,0.0,0,0,0,2,2,2,0,1,1,1,1,0,1,0,European Ancestry
+1710,0.0,0,0,0,1,2,1,0,1,0,0,0,1,1,0,European Ancestry
+1711,0.0,0,0,0,1,2,2,0,0,0,1,1,1,0,0,European Ancestry
+1712,0.0,0,0,0,1,1,2,1,1,1,1,2,0,2,1,European Ancestry
+1713,0.0,0,0,0,2,1,2,1,1,0,2,0,0,0,1,European Ancestry
+1714,0.0,0,0,0,1,2,2,0,1,0,1,1,0,1,0,European Ancestry
+1715,0.0,0,0,0,2,2,2,1,0,1,1,1,0,0,0,European Ancestry
+1716,0.0,0,0,0,2,1,2,0,0,1,2,2,1,0,0,European Ancestry
+1717,0.0,0,0,0,1,2,2,0,0,0,0,0,1,1,0,European Ancestry
+1718,0.0,0,0,0,2,1,2,0,0,0,1,1,1,0,0,European Ancestry
+1719,0.0,0,0,0,1,2,2,0,1,0,1,0,0,1,0,European Ancestry
+1720,0.0,0,0,0,2,2,2,0,0,1,0,0,1,0,0,European Ancestry
+1721,0.0,0,0,0,2,2,2,1,0,0,1,0,1,2,0,European Ancestry
+1722,0.0,0,0,0,1,2,2,2,0,0,0,2,0,2,0,European Ancestry
+1723,0.0,0,0,0,1,1,2,1,0,0,1,1,1,0,1,European Ancestry
+1724,0.0,0,0,0,1,2,2,1,0,1,2,1,1,1,1,European Ancestry
+1725,0.0,0,0,0,2,2,2,1,0,0,0,1,0,0,1,European Ancestry
+1726,0.0,0,0,0,0,2,2,1,2,0,1,1,1,1,0,European Ancestry
+1727,0.0,0,0,0,1,2,2,0,0,0,2,1,0,1,0,European Ancestry
+1728,0.0,0,0,0,2,2,2,1,1,2,1,1,0,1,0,European Ancestry
+1729,0.0,0,0,0,1,1,1,1,0,0,1,0,1,0,1,European Ancestry
+1730,0.0,0,0,0,1,2,2,1,0,0,1,2,0,0,0,European Ancestry
+1731,0.0,0,0,0,2,1,2,0,0,0,0,0,1,1,0,European Ancestry
+1732,0.0,0,0,0,1,1,2,0,0,0,1,2,0,0,0,European Ancestry
+1733,0.0,0,0,0,0,2,2,1,1,2,2,2,0,0,0,European Ancestry
+1734,0.0,0,0,0,2,2,2,0,0,1,0,1,0,0,0,European Ancestry
+1735,0.0,0,0,0,1,2,2,0,2,2,1,2,1,2,1,European Ancestry
+1736,0.0,0,0,0,2,2,2,1,0,0,1,0,0,1,0,European Ancestry
+1737,0.0,0,0,0,2,2,2,0,0,0,2,1,0,0,0,European Ancestry
+1738,0.0,0,0,0,2,2,2,1,1,0,0,2,0,2,0,European Ancestry
+1739,0.0,0,0,0,2,1,2,1,1,0,1,1,0,1,0,European Ancestry
+1740,0.0,0,0,0,2,2,2,0,1,0,1,0,0,1,0,European Ancestry
+1741,0.0,0,0,0,1,2,2,0,0,1,1,1,1,1,0,European Ancestry
+1742,0.0,0,0,0,2,2,2,0,1,0,1,2,1,1,0,European Ancestry
+1743,0.0,0,0,0,2,1,2,1,0,1,0,2,0,1,1,European Ancestry
+1744,0.0,0,0,0,2,1,2,0,0,1,1,1,0,1,0,European Ancestry
+1745,0.0,0,0,0,0,2,2,0,1,0,1,2,0,0,0,European Ancestry
+1746,0.0,0,0,0,2,1,2,1,0,1,1,1,2,1,0,European Ancestry
+1747,0.0,0,0,0,2,2,1,1,1,0,0,1,1,1,0,European Ancestry
+1748,0.0,0,0,0,1,2,2,0,0,1,1,1,0,1,0,European Ancestry
+1749,0.0,0,0,0,1,1,1,0,0,1,0,2,0,0,0,European Ancestry
+1750,0.0,0,0,0,1,0,2,1,0,0,1,1,1,2,0,European Ancestry
+1751,0.0,0,0,0,1,2,2,0,0,0,1,1,0,2,1,European Ancestry
+1752,0.0,0,0,0,2,2,2,1,1,2,0,1,1,0,1,European Ancestry
+1753,0.0,0,0,0,1,0,2,0,0,0,1,2,1,2,0,European Ancestry
+1754,0.0,0,0,0,1,2,2,1,0,0,2,2,1,1,0,European Ancestry
+1755,0.0,0,2,2,0,0,0,0,1,0,1,0,0,0,0,African Ancestry
+1756,0.0,0,2,2,0,0,0,0,1,1,1,0,0,2,0,African Ancestry
+1757,0.0,0,2,2,0,0,0,0,2,1,0,0,0,0,1,African Ancestry
+1758,0.0,0,2,2,0,0,0,0,1,1,0,0,0,2,1,African Ancestry
+1759,0.0,0,2,2,0,0,0,0,2,0,1,0,0,2,0,African Ancestry
+1760,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,1,African Ancestry
+1761,0.0,0,1,2,0,0,0,0,1,0,0,0,0,1,2,African Ancestry
+1762,0.0,0,2,2,0,0,0,0,2,0,0,0,0,0,2,African Ancestry
+1763,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,1,African Ancestry
+1764,0.0,0,2,2,0,0,0,0,2,0,0,0,0,2,0,African Ancestry
+1765,0.0,0,2,2,0,0,0,0,2,0,0,0,0,2,1,African Ancestry
+1766,0.0,0,2,2,0,0,0,0,2,2,0,0,0,1,2,African Ancestry
+1767,0.0,0,2,2,0,0,0,0,1,0,1,0,0,1,1,African Ancestry
+1768,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,2,African Ancestry
+1769,0.0,0,1,2,0,0,0,0,2,0,0,0,0,0,0,African Ancestry
+1770,0.0,0,2,2,0,0,0,1,1,2,1,0,1,2,1,African Ancestry
+1771,0.0,0,2,2,0,0,0,0,2,0,0,0,0,0,1,African Ancestry
+1772,0.0,0,2,2,0,0,0,1,2,0,1,0,0,1,1,African Ancestry
+1773,0.0,0,2,2,0,0,0,0,0,1,0,0,0,1,0,African Ancestry
+1774,1.0,1,2,0,0,0,0,0,2,0,0,1,0,1,0,East Asian Ancestry
+1775,1.0,2,2,0,0,0,0,1,1,1,1,0,0,2,0,East Asian Ancestry
+1776,0.0,1,2,0,0,0,0,0,2,0,2,0,0,2,0,East Asian Ancestry
+1777,0.0,2,2,0,0,0,0,0,2,2,1,1,0,1,0,East Asian Ancestry
+1778,0.0,2,2,0,0,0,1,0,0,0,2,1,0,1,0,East Asian Ancestry
+1779,1.0,2,2,0,0,0,0,0,1,0,2,1,0,1,0,East Asian Ancestry
+1780,0.0,1,2,0,0,0,0,1,2,1,1,1,0,1,0,East Asian Ancestry
+1781,0.0,2,2,0,0,0,0,0,2,0,2,2,0,1,0,East Asian Ancestry
+1782,0.0,2,2,0,0,0,0,1,1,0,1,2,0,1,0,East Asian Ancestry
+1783,0.0,2,2,0,0,0,0,0,1,0,0,0,0,1,0,East Asian Ancestry
+1784,0.0,2,2,0,0,0,0,0,2,0,2,0,2,0,0,East Asian Ancestry
+1785,0.0,2,2,0,0,0,0,1,1,1,1,2,0,2,0,East Asian Ancestry
+1786,0.0,2,2,0,0,0,0,1,1,1,2,1,0,1,0,East Asian Ancestry
+1787,1.0,2,2,0,0,0,0,0,1,1,2,1,1,0,0,East Asian Ancestry
+1788,0.0,2,2,0,0,0,0,0,1,0,2,1,2,2,0,East Asian Ancestry
+1789,0.0,2,2,0,0,0,0,0,1,2,1,1,0,1,0,East Asian Ancestry
+1790,2.0,2,2,0,0,0,0,0,1,0,0,2,0,1,0,East Asian Ancestry
+1791,1.0,2,2,0,0,0,1,0,1,2,2,2,2,1,0,East Asian Ancestry
+1792,1.0,2,2,0,0,0,1,0,1,0,2,1,1,0,0,East Asian Ancestry
+1793,1.0,2,2,0,0,0,0,0,2,1,1,1,0,1,0,East Asian Ancestry
+1794,0.0,2,1,0,0,0,0,0,1,2,2,1,0,2,0,East Asian Ancestry
+1795,0.0,2,2,0,0,0,0,0,1,0,2,2,0,1,0,East Asian Ancestry
+1796,0.0,2,2,0,0,0,0,0,1,0,1,1,0,2,0,East Asian Ancestry
+1797,1.0,2,2,0,0,0,0,1,1,1,0,2,0,0,0,East Asian Ancestry
+1798,0.0,2,2,0,0,0,0,1,0,0,1,1,1,0,0,East Asian Ancestry
+1799,0.0,2,2,0,0,0,0,0,2,1,2,1,0,1,0,East Asian Ancestry
+1800,0.0,2,1,0,0,0,0,0,2,2,2,0,0,1,0,East Asian Ancestry
+1801,0.0,2,2,0,0,0,0,0,2,0,2,1,1,0,0,East Asian Ancestry
+1802,0.0,2,2,0,0,0,0,0,1,0,2,2,0,1,0,East Asian Ancestry
+1803,0.0,2,2,0,0,0,0,0,2,0,1,1,0,2,0,East Asian Ancestry
+1804,0.0,2,2,0,0,0,0,0,1,0,2,0,0,1,0,East Asian Ancestry
+1805,1.0,2,2,0,0,0,0,1,1,1,2,2,0,2,0,East Asian Ancestry
+1806,0.0,2,2,0,0,0,0,0,0,1,2,0,0,1,0,East Asian Ancestry
+1807,0.0,2,2,0,0,0,0,0,2,1,1,1,1,0,0,East Asian Ancestry
+1808,1.0,2,2,0,0,0,0,0,1,1,1,0,0,1,0,East Asian Ancestry
+1809,0.0,2,2,0,0,0,0,0,1,1,2,0,1,1,0,East Asian Ancestry
+1810,2.0,2,2,0,0,0,0,0,1,0,2,2,1,1,0,East Asian Ancestry
+1811,1.0,1,2,0,0,0,0,0,1,0,2,2,1,1,0,East Asian Ancestry
+1812,0.0,2,2,0,0,0,0,0,0,0,1,2,0,1,0,East Asian Ancestry
+1813,0.0,2,2,0,0,0,0,0,1,2,0,0,0,1,0,East Asian Ancestry
+1814,0.0,2,2,0,0,0,0,0,2,1,2,2,1,0,0,East Asian Ancestry
+1815,0.0,2,2,0,0,0,0,0,2,0,1,1,0,1,0,East Asian Ancestry
+1816,1.0,2,2,0,0,0,0,0,0,2,2,2,0,0,0,East Asian Ancestry
+1817,0.0,2,2,0,0,0,0,1,1,1,0,2,0,0,0,East Asian Ancestry
+1818,1.0,2,2,0,0,0,0,0,1,2,0,2,1,1,0,East Asian Ancestry
+1819,2.0,2,2,0,0,0,0,0,0,0,2,2,1,1,0,East Asian Ancestry
+1820,0.0,2,2,0,0,0,0,1,1,1,1,2,0,2,0,East Asian Ancestry
+1821,0.0,2,2,0,0,0,0,0,1,1,2,2,2,1,0,East Asian Ancestry
+1822,0.0,2,2,0,0,0,0,1,1,0,0,2,1,0,0,East Asian Ancestry
+1823,0.0,2,2,0,0,0,0,1,1,0,0,2,1,0,0,East Asian Ancestry
+1824,0.0,2,2,0,0,0,0,0,1,0,2,0,0,1,0,East Asian Ancestry
+1825,0.0,2,2,0,0,0,0,0,2,0,2,1,0,1,0,East Asian Ancestry
+1826,1.0,2,2,0,0,0,0,0,2,0,0,0,0,0,0,East Asian Ancestry
+1827,0.0,2,2,0,0,0,0,0,2,0,2,2,0,0,0,East Asian Ancestry
+1828,0.0,2,2,0,0,0,0,0,2,1,1,2,0,0,0,East Asian Ancestry
+1829,0.0,1,2,0,0,0,0,1,2,0,1,2,0,2,0,East Asian Ancestry
+1830,0.0,2,2,0,0,0,0,0,1,1,1,1,1,0,0,East Asian Ancestry
+1831,0.0,2,1,0,0,0,0,0,1,1,2,1,1,2,0,East Asian Ancestry
+1832,1.0,2,2,0,0,0,0,0,1,1,0,0,0,0,0,East Asian Ancestry
+1833,1.0,2,2,0,0,0,0,0,1,0,2,2,1,1,0,East Asian Ancestry
+1834,0.0,2,2,0,0,0,0,0,1,0,1,1,1,1,0,East Asian Ancestry
+1835,0.0,2,1,0,0,0,0,0,0,0,0,1,0,1,0,East Asian Ancestry
+1836,0.0,2,2,0,0,0,0,0,1,1,2,1,0,0,0,East Asian Ancestry
+1837,0.0,1,2,0,0,0,0,0,2,0,2,2,0,1,0,East Asian Ancestry
+1838,0.0,2,2,0,0,0,0,1,1,1,0,2,1,2,0,East Asian Ancestry
+1839,0.0,2,2,0,0,0,0,0,1,0,0,2,0,1,0,East Asian Ancestry
+1840,0.0,2,2,0,0,0,0,0,1,0,1,2,0,1,0,East Asian Ancestry
+1841,0.0,2,2,0,0,0,0,0,1,0,1,1,0,0,0,East Asian Ancestry
+1842,0.0,2,2,0,0,0,0,0,1,0,1,2,1,0,0,East Asian Ancestry
+1843,0.0,2,2,0,0,0,0,0,2,1,2,1,0,1,0,East Asian Ancestry
+1844,1.0,2,2,0,0,0,0,1,1,0,2,2,0,2,0,East Asian Ancestry
+1845,0.0,1,2,0,0,0,0,0,1,1,1,2,0,1,0,East Asian Ancestry
+1846,1.0,2,2,0,0,0,0,0,2,0,1,1,0,0,0,East Asian Ancestry
+1847,0.0,2,2,0,0,0,0,0,2,0,1,1,1,1,0,East Asian Ancestry
+1848,0.0,2,2,0,0,0,0,0,0,0,2,1,0,1,0,East Asian Ancestry
+1849,0.0,2,2,0,0,0,0,0,2,1,1,2,0,1,0,East Asian Ancestry
+1850,0.0,2,2,0,0,0,0,0,1,1,2,1,1,2,0,East Asian Ancestry
+1851,2.0,2,2,0,0,0,0,0,2,0,1,0,1,0,0,East Asian Ancestry
+1852,0.0,2,2,0,0,0,0,0,2,0,2,2,0,1,0,East Asian Ancestry
+1853,0.0,2,1,0,0,0,0,1,2,0,1,0,1,0,0,East Asian Ancestry
+1854,0.0,2,2,0,0,0,0,1,1,1,1,0,0,2,0,East Asian Ancestry
+1855,1.0,1,2,0,0,0,0,1,2,0,1,1,1,1,0,East Asian Ancestry
+1856,1.0,1,2,0,0,0,0,0,2,1,2,1,0,2,0,East Asian Ancestry
+1857,0.0,2,2,0,0,0,0,0,1,0,2,0,0,1,0,East Asian Ancestry
+1858,0.0,1,2,0,0,0,0,0,1,0,2,2,1,0,0,East Asian Ancestry
+1859,1.0,2,2,0,0,0,0,0,2,0,2,1,0,0,0,East Asian Ancestry
+1860,0.0,2,2,0,0,0,0,0,0,1,0,2,0,2,0,East Asian Ancestry
+1861,1.0,1,2,0,0,0,0,1,1,1,1,2,1,1,0,East Asian Ancestry
+1862,0.0,2,2,0,0,0,0,1,1,1,0,1,1,0,0,East Asian Ancestry
+1863,1.0,2,2,0,0,0,0,1,1,0,1,2,1,2,0,East Asian Ancestry
+1864,0.0,2,2,0,0,0,0,0,1,0,0,2,0,2,0,East Asian Ancestry
+1865,0.0,2,2,0,0,0,0,1,2,0,1,2,0,0,0,East Asian Ancestry
+1866,0.0,2,2,0,0,0,0,0,1,0,0,2,0,0,0,East Asian Ancestry
+1867,0.0,2,2,0,0,0,0,0,2,0,1,2,2,0,0,East Asian Ancestry
+1868,1.0,2,1,0,0,0,0,1,1,1,2,1,0,0,0,East Asian Ancestry
+1869,0.0,2,2,0,0,0,0,1,2,1,2,0,1,0,0,East Asian Ancestry
+1870,0.0,1,2,0,0,0,0,1,1,1,1,1,0,1,0,East Asian Ancestry
+1871,0.0,2,2,0,0,0,0,0,2,0,1,2,1,1,0,East Asian Ancestry
+1872,0.0,1,2,0,0,0,0,1,1,1,1,1,2,0,0,East Asian Ancestry
+1873,1.0,2,2,0,0,0,0,0,2,0,1,1,1,1,0,East Asian Ancestry
+1874,0.0,2,2,0,0,0,0,0,1,1,1,1,0,2,0,East Asian Ancestry
+1875,0.0,2,2,0,0,0,0,0,0,0,2,2,0,0,0,East Asian Ancestry
+1876,0.0,2,2,0,0,0,0,0,1,0,2,1,0,1,0,East Asian Ancestry
+1877,0.0,0,2,2,0,0,0,1,2,1,0,0,1,0,1,African Ancestry
+1878,0.0,0,2,2,0,0,0,0,1,1,1,0,0,0,0,African Ancestry
+1879,0.0,0,2,2,0,0,0,0,2,0,0,0,1,1,1,African Ancestry
+1880,0.0,0,2,2,0,0,0,1,2,0,1,0,0,0,1,African Ancestry
+1881,0.0,0,2,2,0,0,0,2,2,1,0,0,0,1,0,African Ancestry
+1882,0.0,0,2,1,0,0,0,1,1,0,0,0,0,0,1,African Ancestry
+1883,0.0,0,2,2,0,0,0,0,1,2,0,0,0,2,0,African Ancestry
+1884,0.0,0,2,2,0,0,0,1,1,0,0,0,0,2,1,African Ancestry
+1885,0.0,0,2,2,0,0,0,0,2,0,1,0,0,2,0,African Ancestry
+1886,0.0,0,2,2,0,0,0,0,2,1,1,0,0,1,1,African Ancestry
+1887,0.0,0,2,2,0,0,0,1,0,0,1,0,0,1,2,African Ancestry
+1888,0.0,0,2,2,0,0,0,0,1,1,2,0,1,1,1,African Ancestry
+1889,0.0,0,2,2,0,0,0,1,1,0,1,0,1,1,0,African Ancestry
+1890,0.0,0,2,2,0,0,0,0,2,1,1,0,0,1,0,African Ancestry
+1891,0.0,0,2,2,0,0,0,0,2,0,0,0,1,0,1,African Ancestry
+1892,0.0,0,2,2,0,0,0,1,2,0,1,0,1,1,1,African Ancestry
+1893,0.0,0,2,2,0,0,0,0,1,1,0,0,1,1,0,African Ancestry
+1894,0.0,0,2,2,0,0,0,0,2,0,0,0,0,0,0,African Ancestry
+1895,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,1,African Ancestry
+1896,0.0,0,2,2,0,0,0,0,2,1,0,0,0,1,0,African Ancestry
+1897,0.0,0,2,2,0,0,0,1,2,0,0,0,0,0,0,African Ancestry
+1898,0.0,0,2,2,0,0,0,1,1,0,2,0,0,0,0,African Ancestry
+1899,0.0,0,2,2,0,0,0,0,2,0,0,0,0,0,1,African Ancestry
+1900,0.0,0,2,2,0,0,0,0,2,0,1,0,0,0,1,African Ancestry
+1901,0.0,0,2,2,0,0,0,1,2,0,1,0,0,1,0,African Ancestry
+1902,0.0,0,2,2,0,0,0,0,1,1,1,0,0,0,2,African Ancestry
+1903,0.0,0,2,2,0,0,0,0,2,0,0,0,1,0,2,African Ancestry
+1904,0.0,0,2,2,0,0,0,1,2,1,1,0,1,2,0,African Ancestry
+1905,0.0,0,2,2,0,0,0,0,1,0,2,0,0,1,0,African Ancestry
+1906,1.0,1,2,0,0,0,0,0,1,0,1,1,2,1,0,East Asian Ancestry
+1907,0.0,0,2,0,0,0,0,0,0,0,2,2,0,0,0,East Asian Ancestry
+1908,1.0,1,2,0,0,0,0,1,2,1,1,1,2,1,0,East Asian Ancestry
+1909,0.0,1,2,0,0,0,0,0,2,1,0,2,0,1,0,East Asian Ancestry
+1910,0.0,2,2,0,0,0,0,0,1,0,2,2,0,2,0,East Asian Ancestry
+1911,2.0,2,2,0,0,0,0,1,1,0,2,2,0,0,0,East Asian Ancestry
+1912,0.0,1,2,0,0,0,0,0,1,1,2,2,0,1,0,East Asian Ancestry
+1913,1.0,1,2,0,0,0,0,0,1,0,1,1,1,1,0,East Asian Ancestry
+1914,0.0,1,2,0,0,0,0,0,2,0,0,2,0,2,0,East Asian Ancestry
+1915,0.0,2,2,0,0,0,0,0,1,1,2,1,0,1,0,East Asian Ancestry
+1916,0.0,2,2,0,0,0,0,0,0,0,2,2,0,1,0,East Asian Ancestry
+1917,0.0,2,2,0,0,0,0,0,1,0,2,2,0,1,0,East Asian Ancestry
+1918,1.0,2,2,0,0,0,0,0,1,1,0,2,1,1,0,East Asian Ancestry
+1919,1.0,2,2,0,0,0,0,0,2,0,2,1,1,1,0,East Asian Ancestry
+1920,0.0,2,2,0,0,0,0,0,2,1,2,2,1,1,0,East Asian Ancestry
+1921,1.0,1,2,0,0,0,0,0,1,1,2,1,1,0,0,East Asian Ancestry
+1922,0.0,2,2,0,0,0,0,0,2,0,2,2,0,0,0,East Asian Ancestry
+1923,0.0,2,2,0,0,0,0,0,1,1,1,2,1,1,0,East Asian Ancestry
+1924,0.0,1,2,0,0,0,0,0,2,2,2,0,0,1,0,East Asian Ancestry
+1925,0.0,2,2,0,0,0,0,0,2,1,2,1,0,0,0,East Asian Ancestry
+1926,0.0,2,2,0,0,0,0,0,2,0,2,2,1,0,0,East Asian Ancestry
+1927,1.0,2,2,0,0,0,0,0,1,0,1,2,1,1,0,East Asian Ancestry
+1928,1.0,1,2,0,0,0,0,0,0,0,1,1,1,1,0,East Asian Ancestry
+1929,0.0,2,2,0,0,0,0,1,0,1,2,2,1,1,0,East Asian Ancestry
+1930,0.0,2,2,0,0,0,0,0,1,1,2,0,0,2,0,East Asian Ancestry
+1931,1.0,1,2,0,0,0,0,0,2,1,1,1,0,2,0,East Asian Ancestry
+1932,0.0,2,2,0,0,0,0,0,1,0,1,2,1,1,0,East Asian Ancestry
+1933,1.0,1,2,0,0,0,0,1,1,0,2,2,1,1,0,East Asian Ancestry
+1934,0.0,1,1,0,0,0,0,0,1,2,2,2,0,1,0,East Asian Ancestry
+1935,2.0,0,2,0,0,0,0,0,2,1,2,2,0,2,0,East Asian Ancestry
+1936,0.0,1,2,0,0,0,0,0,2,1,2,2,1,0,0,East Asian Ancestry
+1937,2.0,2,2,0,0,0,0,0,1,0,1,1,1,0,0,East Asian Ancestry
+1938,0.0,2,2,0,0,0,0,1,2,1,2,1,0,0,0,East Asian Ancestry
+1939,0.0,0,2,0,0,0,0,0,0,1,2,1,0,1,0,East Asian Ancestry
+1940,0.0,2,2,0,0,0,0,2,0,0,2,0,0,0,0,East Asian Ancestry
+1941,1.0,2,2,0,0,0,0,0,0,0,0,2,0,0,0,East Asian Ancestry
+1942,1.0,1,2,0,0,0,0,0,2,1,2,1,0,1,0,East Asian Ancestry
+1943,0.0,2,2,0,0,0,0,0,2,1,2,0,2,1,0,East Asian Ancestry
+1944,0.0,2,2,0,0,0,0,0,2,0,2,1,0,0,0,East Asian Ancestry
+1945,1.0,2,2,0,0,0,0,0,0,1,2,1,0,0,0,East Asian Ancestry
+1946,0.0,2,2,0,0,0,0,0,1,1,2,2,0,1,0,East Asian Ancestry
+1947,0.0,2,2,0,0,0,0,0,2,0,1,2,1,0,0,East Asian Ancestry
+1948,1.0,2,2,0,0,0,0,0,1,1,1,1,1,2,0,East Asian Ancestry
+1949,1.0,1,2,0,0,0,0,1,0,1,1,2,0,0,0,East Asian Ancestry
+1950,1.0,2,2,0,0,0,0,0,2,1,2,2,1,0,0,East Asian Ancestry
+1951,1.0,2,2,0,0,0,0,1,1,1,2,1,1,0,0,East Asian Ancestry
+1952,1.0,2,2,0,0,0,0,0,2,0,1,2,2,0,0,East Asian Ancestry
+1953,0.0,1,2,0,0,0,0,0,0,1,2,2,1,0,0,East Asian Ancestry
+1954,0.0,2,2,0,0,0,0,0,2,1,1,1,1,1,0,East Asian Ancestry
+1955,1.0,2,2,0,0,0,0,1,2,0,2,1,0,2,0,East Asian Ancestry
+1956,0.0,2,2,0,0,0,0,0,0,0,1,1,0,0,0,East Asian Ancestry
+1957,0.0,2,2,0,0,0,0,0,1,0,2,2,1,2,0,East Asian Ancestry
+1958,0.0,1,2,0,0,0,0,0,1,1,1,1,1,0,0,East Asian Ancestry
+1959,1.0,1,2,0,0,0,0,1,0,0,1,2,0,1,0,East Asian Ancestry
+1960,1.0,2,2,0,0,0,0,0,1,0,1,2,0,1,0,East Asian Ancestry
+1961,1.0,1,2,0,0,0,0,0,1,0,1,2,1,0,0,East Asian Ancestry
+1962,0.0,1,2,0,0,0,0,0,1,0,2,2,1,2,0,East Asian Ancestry
+1963,1.0,1,2,0,0,0,0,0,1,0,1,2,1,2,0,East Asian Ancestry
+1964,0.0,2,2,0,0,0,0,0,1,0,1,1,0,2,0,East Asian Ancestry
+1965,2.0,2,2,0,0,0,0,0,2,0,1,2,2,0,0,East Asian Ancestry
+1966,0.0,2,2,0,0,0,0,1,1,0,2,2,0,0,0,East Asian Ancestry
+1967,1.0,2,2,0,0,0,0,0,2,0,2,1,0,0,0,East Asian Ancestry
+1968,1.0,1,2,0,0,0,0,0,2,0,1,1,1,2,0,East Asian Ancestry
+1969,1.0,2,2,0,0,0,0,0,1,0,2,2,1,1,0,East Asian Ancestry
+1970,0.0,2,2,0,0,0,0,0,1,2,1,2,0,1,0,East Asian Ancestry
+1971,0.0,2,2,0,0,0,0,0,2,2,1,2,0,0,0,East Asian Ancestry
+1972,0.0,2,2,0,0,0,0,0,2,2,1,2,0,2,0,East Asian Ancestry
+1973,0.0,2,2,0,0,0,0,0,2,1,2,2,0,0,0,East Asian Ancestry
+1974,1.0,0,2,0,0,0,0,0,0,1,2,2,0,0,0,East Asian Ancestry
+1975,1.0,0,2,0,0,0,0,0,2,1,2,2,2,1,0,East Asian Ancestry
+1976,0.0,0,2,2,0,0,0,0,0,0,1,0,0,1,1,African Ancestry
+1977,0.0,0,2,2,0,0,0,0,2,1,0,0,1,1,1,African Ancestry
+1978,0.0,0,2,2,0,0,0,0,1,0,0,0,1,1,1,African Ancestry
+1979,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,0,African Ancestry
+1980,0.0,0,2,2,0,0,0,0,0,0,1,0,0,0,1,African Ancestry
+1981,0.0,0,2,2,0,0,0,0,0,1,0,0,0,1,1,African Ancestry
+1982,0.0,0,1,2,0,0,0,0,0,0,0,0,0,1,1,African Ancestry
+1983,0.0,0,2,2,0,0,0,0,0,0,0,0,0,1,1,African Ancestry
+1984,0.0,0,2,2,0,0,0,1,2,1,0,0,0,0,0,African Ancestry
+1985,0.0,0,2,2,0,0,0,1,0,1,1,0,1,1,1,African Ancestry
+1986,0.0,0,2,2,0,0,0,2,1,1,0,0,0,0,0,African Ancestry
+1987,0.0,0,1,2,0,0,0,1,0,1,0,1,0,1,1,African Ancestry
+1988,0.0,0,2,2,0,0,0,1,1,0,0,1,0,0,0,African Ancestry
+1989,0.0,0,2,2,0,0,0,1,1,1,1,1,0,1,0,African Ancestry
+1990,0.0,0,2,2,0,0,0,1,1,1,0,0,1,1,1,African Ancestry
+1991,0.0,0,1,2,0,0,0,1,1,0,1,0,0,0,0,African Ancestry
+1992,0.0,0,2,2,0,0,0,1,1,0,0,1,0,1,2,African Ancestry
+1993,0.0,0,1,2,0,0,0,0,1,0,0,0,0,1,0,African Ancestry
+1994,1.0,2,2,0,0,0,0,0,2,0,1,2,0,1,0,East Asian Ancestry
+1995,0.0,2,2,0,0,0,0,0,1,0,0,2,0,1,0,East Asian Ancestry
+1996,0.0,1,2,0,0,0,0,0,2,1,1,2,0,1,0,East Asian Ancestry
+1997,0.0,2,2,0,0,0,0,0,1,2,0,2,1,1,0,East Asian Ancestry
+1998,1.0,2,2,0,0,0,0,0,1,0,2,2,0,0,0,East Asian Ancestry
+1999,1.0,1,2,0,0,0,0,0,1,0,2,2,0,1,0,East Asian Ancestry
+2000,1.0,2,2,0,0,0,0,0,1,0,2,2,0,2,0,East Asian Ancestry
+2001,0.0,2,2,0,0,0,0,0,1,1,1,2,0,1,0,East Asian Ancestry
+2002,0.0,2,2,0,0,0,0,0,0,0,2,2,1,1,0,East Asian Ancestry
+2003,1.0,1,2,0,0,0,0,0,2,1,0,1,0,1,0,East Asian Ancestry
+2004,0.0,2,2,0,0,0,0,1,0,1,1,2,0,1,0,East Asian Ancestry
+2005,0.0,2,2,0,0,0,0,0,2,1,2,1,0,0,0,East Asian Ancestry
+2006,0.0,2,2,0,0,0,0,0,2,1,2,2,1,1,0,East Asian Ancestry
+2007,0.0,2,2,0,0,0,0,0,2,1,1,1,0,1,0,East Asian Ancestry
+2008,0.0,1,2,0,0,0,0,0,2,1,0,1,2,0,0,East Asian Ancestry
+2009,0.0,2,2,0,0,0,0,0,1,0,2,2,0,2,0,East Asian Ancestry
+2010,1.0,2,2,0,0,0,0,0,1,0,2,1,0,1,0,East Asian Ancestry
+2011,0.0,2,2,0,0,0,0,1,2,0,0,1,0,1,0,East Asian Ancestry
+2012,1.0,2,2,0,0,0,0,0,0,0,1,2,2,2,0,East Asian Ancestry
+2013,0.0,2,2,0,0,0,0,0,0,1,1,1,0,2,0,East Asian Ancestry
+2014,2.0,2,2,0,0,0,0,0,1,1,1,2,0,2,0,East Asian Ancestry
+2015,1.0,2,2,0,0,0,0,0,2,0,2,2,1,1,0,East Asian Ancestry
+2016,1.0,2,2,0,0,0,0,0,1,1,1,1,0,1,0,East Asian Ancestry
+2017,1.0,1,2,0,0,0,0,0,1,0,1,2,1,1,0,East Asian Ancestry
+2018,0.0,1,2,0,0,0,0,2,0,1,2,0,1,1,0,East Asian Ancestry
+2019,0.0,1,2,0,0,0,0,0,0,1,2,1,0,1,0,East Asian Ancestry
+2020,0.0,2,2,0,0,0,0,1,2,1,2,1,0,1,0,East Asian Ancestry
+2021,1.0,2,2,0,0,0,0,0,0,0,2,2,0,0,0,East Asian Ancestry
+2022,0.0,2,2,0,0,0,0,1,0,0,1,0,0,2,0,East Asian Ancestry
+2023,0.0,1,2,0,0,0,0,0,2,1,1,1,0,2,0,East Asian Ancestry
+2024,0.0,1,2,0,0,0,0,0,0,0,1,1,0,1,0,East Asian Ancestry
+2025,0.0,2,2,0,0,0,0,0,0,2,2,2,2,0,0,East Asian Ancestry
+2026,0.0,2,2,0,0,0,0,0,2,0,2,1,1,2,0,East Asian Ancestry
+2027,1.0,2,2,0,0,0,0,1,2,1,1,1,0,0,0,East Asian Ancestry
+2028,0.0,0,2,2,0,0,0,0,2,0,0,0,0,0,0,African Ancestry
+2029,0.0,0,2,2,0,0,0,0,1,1,1,0,0,2,1,African Ancestry
+2030,0.0,0,2,2,0,0,0,0,0,0,0,0,1,1,1,African Ancestry
+2031,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,1,African Ancestry
+2032,0.0,0,2,2,0,0,0,0,2,1,0,0,0,2,1,African Ancestry
+2033,0.0,0,2,2,0,0,0,0,1,0,1,0,0,2,2,African Ancestry
+2034,0.0,0,2,2,0,0,0,0,2,1,0,0,0,0,0,African Ancestry
+2035,0.0,0,2,2,0,0,0,0,2,1,2,0,0,1,0,African Ancestry
+2036,0.0,0,2,2,0,0,0,1,1,1,1,1,0,1,0,African Ancestry
+2037,0.0,0,1,2,0,0,0,1,1,2,0,0,0,1,0,African Ancestry
+2038,0.0,0,2,2,0,0,0,0,2,2,0,0,0,1,0,African Ancestry
+2039,0.0,0,2,2,0,0,0,0,2,1,0,0,0,2,0,African Ancestry
+2040,0.0,0,2,2,0,0,0,1,2,0,0,0,0,0,2,African Ancestry
+2041,0.0,0,2,2,0,0,0,0,0,1,0,0,0,0,1,African Ancestry
+2042,0.0,0,2,2,0,0,0,0,2,0,0,0,1,0,1,African Ancestry
+2043,0.0,0,2,2,0,0,0,0,0,0,1,0,0,0,1,African Ancestry
+2044,0.0,0,2,2,0,0,0,1,2,1,1,0,0,1,0,African Ancestry
+2045,0.0,0,2,2,0,0,0,0,2,0,1,0,0,1,1,African Ancestry
+2046,0.0,0,2,2,0,0,0,1,1,1,0,0,1,0,1,African Ancestry
+2047,0.0,0,2,2,0,0,0,1,2,1,1,0,0,1,0,African Ancestry
+2048,0.0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,African Ancestry
+2049,0.0,0,2,2,0,0,0,1,0,1,0,0,0,2,0,African Ancestry
+2050,0.0,0,2,2,0,0,0,0,2,2,0,0,0,1,0,African Ancestry
+2051,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,0,African Ancestry
+2052,0.0,0,2,2,0,0,0,0,1,1,1,0,0,1,0,African Ancestry
+2053,0.0,0,2,2,0,0,0,0,1,1,0,0,0,2,1,African Ancestry
+2054,0.0,0,2,2,0,0,0,0,2,1,1,0,1,0,0,African Ancestry
+2055,0.0,0,2,2,0,0,0,0,2,0,0,1,0,1,1,African Ancestry
+2056,0.0,0,2,2,0,0,0,0,2,0,1,0,0,1,1,African Ancestry
+2057,0.0,0,2,2,0,0,0,1,1,0,0,0,0,0,1,African Ancestry
+2058,0.0,0,2,2,0,0,0,0,2,0,0,0,1,2,0,African Ancestry
+2059,0.0,0,2,2,0,0,0,1,1,1,0,0,0,2,2,African Ancestry
+2060,0.0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,African Ancestry
+2061,0.0,0,2,2,0,0,0,0,1,0,1,0,1,1,1,African Ancestry
+2062,0.0,0,2,2,0,0,0,0,2,0,1,0,0,1,1,African Ancestry
+2063,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,1,African Ancestry
+2064,0.0,0,2,2,0,0,0,0,2,1,0,0,0,1,2,African Ancestry
+2065,0.0,0,2,2,0,0,0,1,2,1,0,0,0,1,1,African Ancestry
+2066,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,0,African Ancestry
+2067,0.0,0,2,2,0,0,0,0,1,0,1,0,0,1,0,African Ancestry
+2068,0.0,0,2,2,0,0,0,0,1,0,0,0,0,2,2,African Ancestry
+2069,0.0,0,2,2,0,0,0,2,2,0,0,0,0,1,1,African Ancestry
+2070,0.0,0,2,2,0,0,0,0,2,0,1,0,0,1,0,African Ancestry
+2071,0.0,0,2,2,0,0,0,0,2,1,0,0,0,0,0,African Ancestry
+2072,0.0,0,2,2,0,0,0,1,1,0,0,0,0,2,0,African Ancestry
+2073,0.0,0,2,2,0,0,0,0,2,1,0,0,0,1,1,African Ancestry
+2074,0.0,0,2,2,0,0,0,0,1,1,2,0,1,1,0,African Ancestry
+2075,0.0,0,2,2,0,0,0,0,1,1,2,0,0,2,1,African Ancestry
+2076,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,1,African Ancestry
+2077,0.0,0,2,2,0,0,0,0,2,1,0,0,1,1,0,African Ancestry
+2078,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,1,African Ancestry
+2079,0.0,0,2,2,0,0,0,0,2,0,1,0,2,2,1,African Ancestry
+2080,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,1,African Ancestry
+2081,0.0,0,2,2,0,0,0,1,1,0,0,0,0,1,0,African Ancestry
+2082,0.0,0,2,2,0,0,0,1,1,1,0,0,0,0,1,African Ancestry
+2083,0.0,0,2,2,0,0,0,0,2,1,0,0,0,1,1,African Ancestry
+2084,0.0,0,2,2,0,0,0,1,1,1,1,0,0,1,0,African Ancestry
+2085,0.0,0,2,2,0,0,0,0,1,1,1,0,0,0,1,African Ancestry
+2086,0.0,0,2,2,0,0,0,0,1,0,0,0,0,2,0,African Ancestry
+2087,0.0,0,2,2,0,0,0,2,2,0,0,0,0,1,2,African Ancestry
+2088,0.0,0,2,2,0,0,0,0,1,0,2,0,0,2,1,African Ancestry
+2089,0.0,0,2,2,0,0,0,1,1,1,0,0,0,1,0,African Ancestry
+2090,0.0,0,2,2,0,0,0,0,1,1,1,0,0,1,0,African Ancestry
+2091,0.0,0,1,2,0,0,0,1,2,0,1,0,1,1,0,African Ancestry
+2092,0.0,0,2,2,0,0,0,2,1,1,1,0,0,1,0,African Ancestry
+2093,0.0,0,2,2,0,0,0,1,1,1,2,0,0,0,0,African Ancestry
+2094,0.0,0,0,2,0,0,0,0,0,2,0,0,0,0,0,African Ancestry
+2095,0.0,0,2,2,0,0,0,0,2,2,0,1,0,1,1,African Ancestry
+2096,0.0,0,2,2,0,0,0,2,2,0,0,0,0,1,0,African Ancestry
+2097,0.0,0,2,2,0,0,0,2,0,0,1,0,0,0,0,African Ancestry
+2098,0.0,0,2,2,0,0,0,1,1,0,0,0,0,1,0,African Ancestry
+2099,0.0,0,2,2,0,0,0,0,2,1,0,0,0,0,1,African Ancestry
+2100,0.0,0,2,2,0,0,0,1,1,1,0,0,0,2,1,African Ancestry
+2101,0.0,0,2,2,0,0,0,2,0,2,1,0,1,0,0,African Ancestry
+2102,0.0,0,1,2,0,0,0,0,0,0,0,0,0,0,1,African Ancestry
+2103,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,2,African Ancestry
+2104,0.0,0,2,2,0,0,0,0,2,1,0,0,0,1,1,African Ancestry
+2105,0.0,0,2,2,0,0,0,1,1,0,1,0,1,0,1,African Ancestry
+2106,0.0,0,2,2,0,0,0,2,2,1,0,0,1,1,1,African Ancestry
+2107,0.0,0,2,2,0,0,0,0,1,0,1,0,1,0,0,African Ancestry
+2108,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,1,African Ancestry
+2109,0.0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,African Ancestry
+2110,0.0,0,2,2,0,0,0,1,0,0,0,2,0,2,0,African Ancestry
+2111,0.0,0,2,2,0,0,0,1,2,0,1,0,0,0,1,African Ancestry
+2112,0.0,0,2,2,0,0,0,0,1,0,0,2,0,1,1,African Ancestry
+2113,0.0,0,2,2,0,0,0,1,1,1,1,0,0,1,2,African Ancestry
+2114,0.0,0,2,2,0,0,0,0,0,1,0,0,1,1,1,African Ancestry
+2115,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,0,African Ancestry
+2116,0.0,0,2,2,0,0,0,0,1,1,1,0,0,1,0,African Ancestry
+2117,0.0,0,2,2,0,0,0,0,2,0,2,0,0,1,0,African Ancestry
+2118,0.0,0,2,2,0,0,0,0,1,0,1,1,0,2,1,African Ancestry
+2119,0.0,0,2,2,0,0,0,0,0,0,0,0,0,0,1,African Ancestry
+2120,0.0,0,2,2,0,0,0,0,0,1,0,0,0,1,0,African Ancestry
+2121,0.0,0,2,2,0,0,0,1,0,0,1,0,1,2,1,African Ancestry
+2122,0.0,0,2,2,0,0,0,2,2,1,0,0,1,2,1,African Ancestry
+2123,0.0,0,2,2,0,0,0,0,0,1,0,0,0,0,1,African Ancestry
+2124,0.0,0,2,2,0,0,0,2,0,0,0,0,0,1,1,African Ancestry
+2125,0.0,0,2,2,0,0,0,1,0,1,0,0,1,2,1,African Ancestry
+2126,0.0,0,2,2,0,0,0,0,1,0,0,0,0,1,0,African Ancestry
+2127,0.0,0,2,2,0,0,0,1,1,1,0,0,0,0,1,African Ancestry
+2128,0.0,0,2,2,0,0,0,1,0,1,1,0,0,1,0,African Ancestry
+2129,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,2,African Ancestry
+2130,0.0,0,2,2,0,0,0,0,0,0,0,0,0,1,0,African Ancestry
+2131,0.0,0,2,2,0,0,0,0,1,2,1,0,0,1,2,African Ancestry
+2132,0.0,0,2,2,0,0,0,1,0,0,0,0,0,2,0,African Ancestry
+2133,0.0,0,2,2,0,0,0,0,2,0,0,0,0,1,1,African Ancestry
+2134,0.0,0,2,2,0,0,0,1,1,0,0,0,0,1,0,African Ancestry
+2135,0.0,0,1,2,0,0,0,1,0,1,0,0,0,2,2,African Ancestry
+2136,0.0,0,2,2,0,0,0,1,0,1,1,0,0,2,0,African Ancestry
+2137,0.0,0,2,2,0,0,0,0,1,1,0,0,0,1,0,African Ancestry
+2138,0.0,0,2,2,0,0,0,0,0,0,1,1,0,1,0,African Ancestry
+2139,0.0,0,2,2,0,0,0,0,1,0,0,0,0,0,1,African Ancestry
+2140,0.0,0,2,2,0,0,0,0,1,0,2,0,1,1,1,African Ancestry
+2141,0.0,0,1,2,0,0,0,0,2,1,0,0,0,1,0,African Ancestry
+2142,0.0,0,2,2,0,0,0,1,0,0,0,1,1,0,0,African Ancestry
+2143,0.0,0,2,2,0,0,0,0,0,0,0,0,1,1,1,African Ancestry
+2144,0.0,0,2,2,0,0,0,2,1,0,0,0,0,0,0,African Ancestry
+2145,0.0,0,2,2,0,0,0,0,1,0,1,0,0,1,0,African Ancestry
+2146,0.0,0,2,2,0,0,0,0,1,1,0,0,1,2,1,African Ancestry
+2147,0.0,0,2,2,0,0,0,1,0,0,0,0,0,0,1,African Ancestry
+2148,0.0,0,2,2,0,0,0,1,2,0,0,0,0,1,1,African Ancestry
+2149,0.0,0,2,2,0,0,0,1,1,1,0,0,0,1,0,African Ancestry
+2150,0.0,0,1,2,0,0,0,1,1,1,1,0,0,1,1,African Ancestry
+2151,0.0,0,2,2,0,0,0,1,1,0,0,0,0,2,0,African Ancestry
+2152,0.0,0,2,2,0,0,0,2,0,2,1,1,0,1,1,African Ancestry
+2153,0.0,0,2,2,0,0,0,0,1,2,0,0,0,1,0,African Ancestry
+2154,0.0,0,1,2,0,0,0,1,0,0,1,0,1,0,2,African Ancestry
+2155,0.0,0,2,2,0,0,0,0,0,1,1,0,1,1,1,African Ancestry
+2156,0.0,0,2,2,0,0,0,1,1,1,1,0,1,2,1,African Ancestry
+2157,0.0,0,2,2,0,0,0,0,1,0,0,0,0,2,0,African Ancestry
+2158,0.0,0,1,2,0,0,0,0,1,0,1,0,0,0,2,African Ancestry
+2159,0.0,0,2,2,0,0,0,1,2,1,1,0,0,1,0,African Ancestry
+2160,0.0,0,1,2,0,0,0,0,2,1,0,0,1,1,0,African Ancestry
+2161,0.0,0,2,2,0,0,0,0,1,1,0,1,0,0,0,African Ancestry
+2162,0.0,0,2,2,0,0,0,0,1,0,0,1,0,0,0,African Ancestry
+2163,0.0,0,2,2,0,0,0,1,2,2,0,0,1,1,0,African Ancestry
+2164,0.0,0,2,2,0,0,0,1,1,0,0,0,0,1,2,African Ancestry
+2165,0.0,0,1,2,0,0,0,2,1,2,0,0,0,1,0,African Ancestry
+2166,0.0,0,2,2,0,0,0,0,1,0,1,1,1,1,1,African Ancestry
+2167,0.0,0,2,2,0,0,0,1,1,0,1,0,1,1,0,African Ancestry
+2168,0.0,0,2,2,0,0,0,0,1,0,0,0,0,2,0,African Ancestry
+2169,0.0,0,2,2,0,1,1,1,0,0,1,0,1,1,1,African Ancestry
+2170,0.0,0,0,0,0,1,2,1,0,0,2,1,1,0,1,American Ancestry
+2171,0.0,1,1,1,1,1,2,1,0,0,2,1,0,1,0,American Ancestry
+2172,0.0,0,0,0,1,0,1,0,0,0,0,2,1,0,0,American Ancestry
+2173,0.0,1,0,0,0,0,1,0,1,1,2,1,0,0,0,American Ancestry
+2174,0.0,0,1,0,0,0,1,0,0,1,2,1,0,1,2,American Ancestry
+2175,0.0,0,0,0,0,0,1,0,1,1,1,0,1,0,1,American Ancestry
+2176,0.0,2,0,0,0,0,0,1,1,1,0,1,0,1,0,American Ancestry
+2177,0.0,2,0,0,0,1,2,0,1,1,1,1,0,0,0,American Ancestry
+2178,0.0,1,1,0,1,0,1,0,0,1,2,1,0,1,0,American Ancestry
+2179,0.0,0,2,0,1,0,0,0,0,2,1,2,1,0,0,American Ancestry
+2180,0.0,1,1,0,0,0,1,0,1,0,0,2,0,1,0,American Ancestry
+2181,0.0,0,0,0,1,1,0,0,1,1,1,1,1,0,0,American Ancestry
+2182,0.0,0,1,0,0,1,1,0,1,0,1,1,0,1,0,American Ancestry
+2183,0.0,1,1,0,1,0,0,0,0,0,2,1,0,1,1,American Ancestry
+2184,0.0,0,1,0,1,0,2,0,0,1,0,1,1,1,0,American Ancestry
+2185,0.0,0,0,0,1,2,2,0,0,1,1,0,0,1,0,American Ancestry
+2186,0.0,1,1,0,1,0,2,0,0,1,1,2,0,1,2,American Ancestry
+2187,0.0,0,0,0,1,0,1,0,0,1,1,1,1,0,0,American Ancestry
+2188,0.0,0,1,0,2,1,2,0,0,2,1,2,1,1,0,American Ancestry
+2189,0.0,0,2,1,1,0,0,2,0,1,0,0,0,0,1,African Ancestry
+2190,0.0,0,2,0,0,0,1,0,1,0,0,0,2,0,2,African Ancestry
+2191,0.0,0,1,1,0,1,0,2,0,0,0,0,0,2,2,African Ancestry
+2192,0.0,0,1,2,0,0,1,0,0,1,0,0,0,0,0,African Ancestry
+2193,0.0,0,2,1,0,1,0,0,1,0,1,0,0,1,0,African Ancestry
+2194,0.0,0,2,2,0,0,0,0,2,0,0,1,0,2,0,African Ancestry
+2195,0.0,0,2,2,1,0,0,0,2,0,1,0,1,2,1,African Ancestry
+2196,0.0,0,2,0,1,0,2,1,1,0,0,0,0,1,0,African Ancestry
+2197,0.0,1,1,0,0,2,1,0,1,2,2,2,1,2,1,American Ancestry
+2198,0.0,1,2,0,0,0,2,0,0,0,1,1,0,1,0,American Ancestry
+2199,0.0,1,0,0,0,0,0,0,1,1,0,2,0,0,1,American Ancestry
+2200,0.0,1,1,0,0,0,1,0,1,0,1,2,2,1,0,American Ancestry
+2201,0.0,1,2,0,0,0,0,0,0,0,1,2,1,2,0,American Ancestry
+2202,0.0,1,2,0,0,1,1,0,0,1,0,1,0,1,2,American Ancestry
+2203,0.0,0,1,0,2,0,1,0,0,1,1,1,0,0,0,American Ancestry
+2204,0.0,0,1,0,0,0,2,1,1,0,0,2,0,1,0,American Ancestry
+2205,0.0,2,2,0,0,0,0,0,0,2,0,2,0,0,0,American Ancestry
+2206,0.0,2,2,0,0,0,0,0,0,2,1,1,1,1,0,American Ancestry
+2207,0.0,2,2,0,0,0,0,0,0,1,2,2,0,1,0,American Ancestry
+2208,0.0,2,2,0,0,0,0,0,0,1,0,2,0,0,2,American Ancestry
+2209,0.0,0,1,0,0,1,0,0,0,1,1,1,2,2,0,American Ancestry
+2210,0.0,1,2,0,0,0,0,0,0,0,2,2,0,0,0,American Ancestry
+2211,0.0,1,2,0,0,0,0,0,0,0,1,2,1,1,0,American Ancestry
+2212,0.0,2,2,0,0,0,1,0,0,1,1,2,0,0,1,American Ancestry
+2213,0.0,2,0,0,1,0,0,0,0,1,0,1,0,0,1,American Ancestry
+2214,0.0,1,1,0,1,2,1,0,2,2,2,1,2,0,0,American Ancestry
+2215,0.0,1,2,0,1,0,0,0,0,0,2,0,0,1,1,American Ancestry
+2216,0.0,2,0,0,1,0,2,1,0,1,0,1,1,1,0,American Ancestry
+2217,0.0,1,1,0,0,0,2,0,1,1,2,2,0,0,0,American Ancestry
+2218,0.0,2,1,0,0,0,0,1,0,1,1,2,1,0,1,American Ancestry
+2219,0.0,0,1,1,0,0,0,0,0,1,1,1,1,1,1,American Ancestry
+2220,0.0,2,1,0,0,0,0,1,0,1,1,1,1,1,1,American Ancestry
+2221,0.0,2,1,1,1,0,0,1,1,0,0,2,0,0,1,American Ancestry
+2222,0.0,1,0,0,0,0,0,0,1,1,0,2,0,0,1,American Ancestry
+2223,0.0,1,1,0,1,0,1,0,0,0,0,2,1,1,0,American Ancestry
+2224,0.0,0,2,0,1,0,1,0,0,1,1,0,0,0,1,American Ancestry
+2225,0.0,1,1,1,1,0,1,0,0,0,0,1,1,0,1,American Ancestry
+2226,0.0,2,1,0,1,0,1,0,1,0,2,1,1,1,0,American Ancestry
+2227,0.0,1,0,0,0,2,1,0,1,1,0,1,0,0,0,American Ancestry
+2228,0.0,2,1,0,1,1,0,0,0,0,1,1,0,1,1,American Ancestry
+2229,0.0,1,0,0,0,0,2,0,0,0,1,1,0,1,0,American Ancestry
+2230,0.0,0,1,0,2,1,0,1,0,0,1,1,0,2,0,American Ancestry
+2231,0.0,0,2,0,0,2,1,1,1,0,0,2,1,1,0,American Ancestry
+2232,0.0,0,0,0,0,0,2,1,1,0,2,1,0,1,1,American Ancestry
+2233,0.0,0,0,0,2,1,1,0,2,0,2,2,2,0,1,American Ancestry
+2234,0.0,2,2,0,0,0,1,0,1,2,2,2,1,1,0,American Ancestry
+2235,1.0,2,1,0,0,0,0,0,1,0,1,1,0,0,1,American Ancestry
+2236,0.0,2,1,0,1,0,0,0,0,0,1,0,0,1,1,American Ancestry
+2237,0.0,2,2,0,0,0,1,0,0,1,0,1,2,0,1,American Ancestry
+2238,0.0,0,2,0,0,2,1,0,0,1,0,0,1,0,0,American Ancestry
+2239,0.0,2,0,0,1,0,1,0,1,0,1,2,0,1,2,American Ancestry
+2240,0.0,1,0,0,0,0,1,1,0,0,1,0,1,2,0,American Ancestry
+2241,0.0,1,1,0,1,0,1,0,0,0,2,1,0,0,0,American Ancestry
+2242,0.0,0,1,1,2,0,1,0,1,1,2,0,0,1,0,African Ancestry
+2243,0.0,0,2,2,2,0,0,0,0,0,0,0,0,1,1,African Ancestry
+2244,0.0,0,2,1,0,0,0,1,1,0,0,1,1,1,0,African Ancestry
+2245,0.0,0,2,2,0,0,0,1,0,1,0,0,1,2,1,African Ancestry
+2246,0.0,0,1,2,1,0,1,0,0,0,1,0,0,2,1,African Ancestry
+2247,0.0,0,2,2,0,0,1,0,0,1,1,0,0,1,0,African Ancestry
+2248,0.0,0,2,2,0,0,0,1,0,0,0,0,0,0,1,African Ancestry
+2249,0.0,0,2,2,0,0,0,1,1,1,0,0,0,1,0,African Ancestry
+2250,0.0,0,1,2,0,0,0,0,2,1,1,0,0,1,1,African Ancestry
+2251,0.0,0,2,2,0,0,0,1,1,0,1,0,0,0,1,African Ancestry
+2252,0.0,0,2,1,0,1,1,0,0,0,1,0,0,0,0,African Ancestry
+2253,0.0,0,2,2,0,0,1,1,2,0,0,0,1,0,2,African Ancestry
+2254,0.0,0,2,2,0,0,0,1,1,0,0,0,1,1,2,African Ancestry
+2255,0.0,0,2,1,0,0,0,1,1,0,1,0,0,1,1,African Ancestry
+2256,0.0,0,1,1,0,1,1,0,1,0,1,0,0,1,1,African Ancestry
+2257,0.0,0,1,2,0,1,1,0,1,0,0,0,0,1,1,African Ancestry
+2258,0.0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,African Ancestry
+2259,0.0,0,1,2,1,0,0,1,2,1,0,1,1,0,0,African Ancestry
+2260,0.0,0,2,2,1,0,0,0,1,0,1,0,2,2,0,African Ancestry
+2261,0.0,0,2,1,0,0,1,1,0,2,1,0,0,1,0,African Ancestry
+2262,0.0,0,2,2,0,0,1,0,2,0,0,0,0,2,0,African Ancestry
+2263,0.0,1,1,1,0,1,0,0,1,0,0,0,0,0,1,African Ancestry
+2264,0.0,0,2,2,1,0,1,1,1,0,1,0,0,0,1,African Ancestry
+2265,0.0,0,1,1,0,1,1,0,1,0,0,1,0,2,1,African Ancestry
+2266,0.0,0,2,2,0,0,0,0,1,0,1,1,1,1,1,African Ancestry
+2267,0.0,0,2,1,0,0,0,1,2,0,0,0,0,1,0,African Ancestry
+2268,0.0,0,1,2,0,0,1,1,0,1,1,1,0,1,0,African Ancestry
+2269,0.0,0,2,2,0,0,0,1,1,1,1,0,0,0,1,African Ancestry
+2270,0.0,0,2,2,0,0,0,1,2,0,1,0,0,2,0,African Ancestry
+2271,0.0,0,1,2,0,1,0,1,1,0,1,0,0,1,0,African Ancestry
+2272,0.0,0,2,2,0,0,0,1,2,2,0,0,0,2,1,African Ancestry
+2273,0.0,0,1,2,0,0,0,0,1,0,1,0,0,2,0,African Ancestry
+2274,0.0,0,2,1,1,0,0,2,1,0,0,0,1,0,1,African Ancestry
+2275,0.0,2,1,0,1,0,1,0,1,0,1,2,0,0,0,African Ancestry
+2276,0.0,0,2,1,2,1,0,1,0,0,0,1,0,2,0,African Ancestry
+2277,0.0,0,2,2,1,0,0,1,1,1,0,1,0,2,0,African Ancestry
+2278,0.0,0,2,2,0,0,1,1,2,0,0,0,1,1,1,African Ancestry
+2279,0.0,0,2,2,1,0,2,1,2,0,0,0,1,1,0,African Ancestry
+2280,0.0,0,2,2,0,0,0,0,1,0,0,0,0,0,0,African Ancestry
+2281,0.0,0,1,1,0,2,0,0,1,0,1,0,0,1,0,African Ancestry
+2282,0.0,0,1,2,0,0,0,0,2,0,0,0,1,0,1,African Ancestry
+2283,0.0,0,1,2,0,0,0,0,1,0,1,0,0,1,1,African Ancestry
+2284,0.0,0,1,1,0,1,0,0,2,0,0,0,0,2,0,African Ancestry
+2285,0.0,0,2,1,0,0,1,1,1,2,0,0,0,1,1,African Ancestry
+2286,0.0,0,1,2,0,0,0,1,0,0,1,0,1,1,0,African Ancestry
+2287,0.0,0,2,2,0,1,1,0,1,0,1,0,1,2,1,African Ancestry
+2288,0.0,1,1,1,1,1,1,0,1,0,0,0,0,1,1,African Ancestry
+2289,0.0,0,2,2,0,1,0,1,1,0,1,0,0,1,2,African Ancestry
+2290,0.0,0,1,2,0,0,1,0,1,1,1,0,0,2,1,African Ancestry
+2291,0.0,0,2,2,1,0,0,1,1,0,1,0,0,1,0,African Ancestry
+2292,0.0,0,1,2,1,0,0,2,1,0,1,0,0,1,1,African Ancestry
+2293,0.0,0,2,2,1,0,1,1,2,0,1,0,0,1,1,African Ancestry
+2294,0.0,0,0,0,0,1,2,1,0,0,1,2,1,1,1,European Ancestry
+2295,0.0,0,0,0,0,1,2,1,0,0,0,1,1,2,0,European Ancestry
+2296,0.0,0,0,0,0,1,2,0,0,0,1,1,0,0,1,European Ancestry
+2297,0.0,0,0,0,1,1,2,1,1,0,1,0,0,2,1,European Ancestry
+2298,0.0,0,0,0,0,1,2,0,0,0,2,1,1,1,1,European Ancestry
+2299,0.0,0,0,0,0,1,2,1,0,0,2,0,1,0,0,European Ancestry
+2300,0.0,0,0,0,1,0,2,1,1,1,2,1,1,1,0,European Ancestry
+2301,0.0,0,0,0,1,0,0,0,1,1,0,1,0,1,0,European Ancestry
+2302,0.0,0,0,0,0,1,2,1,0,0,1,2,0,1,1,European Ancestry
+2303,0.0,0,0,0,1,0,2,1,0,0,1,2,0,2,0,European Ancestry
+2304,0.0,0,0,0,0,1,2,1,1,0,1,0,0,0,1,European Ancestry
+2305,0.0,0,0,0,1,1,2,0,0,1,2,2,0,1,0,European Ancestry
+2306,0.0,0,0,0,0,0,2,1,1,0,2,1,1,1,2,European Ancestry
+2307,0.0,0,0,0,0,0,2,2,0,2,0,2,0,1,0,European Ancestry
+2308,0.0,0,0,0,0,0,2,0,0,0,1,2,2,1,2,European Ancestry
+2309,0.0,0,0,0,0,1,2,0,1,0,2,0,1,0,1,European Ancestry
+2310,0.0,0,0,0,0,1,2,0,0,0,1,2,1,0,0,European Ancestry
+2311,0.0,0,0,0,1,1,2,0,0,0,0,1,1,2,1,European Ancestry
+2312,0.0,0,0,0,0,0,2,1,0,0,0,0,2,1,1,European Ancestry
+2313,0.0,0,0,0,1,1,2,0,0,0,2,1,1,0,0,European Ancestry
+2314,0.0,0,0,0,1,0,2,0,1,0,1,0,0,1,0,European Ancestry
+2315,0.0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,European Ancestry
+2316,0.0,0,0,0,0,1,2,0,0,1,1,0,0,2,1,European Ancestry
+2317,0.0,0,0,0,0,0,2,0,0,1,2,2,0,1,1,European Ancestry
+2318,0.0,0,0,0,0,0,2,1,0,2,0,1,0,0,0,European Ancestry
+2319,0.0,0,0,0,0,0,1,0,1,0,1,1,0,0,1,European Ancestry
+2320,0.0,0,0,0,0,1,2,1,0,0,1,0,0,1,0,European Ancestry
+2321,0.0,0,0,0,0,1,2,0,0,1,2,1,0,1,0,European Ancestry
+2322,0.0,0,0,0,0,1,2,0,0,1,1,1,0,1,0,European Ancestry
+2323,0.0,0,0,0,0,2,2,0,0,1,1,0,0,0,0,European Ancestry
+2324,0.0,0,0,0,0,1,2,1,0,0,1,0,0,1,0,European Ancestry
+2325,0.0,0,0,0,1,0,2,0,0,1,1,0,0,1,1,European Ancestry
+2326,0.0,0,0,0,0,0,2,0,0,0,2,0,0,1,0,European Ancestry
+2327,0.0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,European Ancestry
+2328,0.0,0,0,0,0,1,2,0,1,0,1,2,0,1,0,European Ancestry
+2329,0.0,0,0,0,1,2,2,0,0,1,1,1,0,1,1,European Ancestry
+2330,0.0,0,0,0,0,0,2,0,1,0,0,1,0,1,1,European Ancestry
+2331,0.0,0,0,0,0,0,2,0,1,0,1,2,0,1,0,European Ancestry
+2332,0.0,0,0,0,0,1,2,0,1,0,0,2,1,0,0,European Ancestry
+2333,0.0,0,0,0,0,1,2,0,1,1,0,0,0,0,0,European Ancestry
+2334,0.0,0,0,0,0,1,2,1,0,0,1,1,1,2,0,European Ancestry
+2335,0.0,0,0,0,2,1,2,0,1,0,0,2,1,0,0,European Ancestry
+2336,0.0,0,0,0,0,2,2,0,0,1,1,2,1,0,1,European Ancestry
+2337,0.0,0,0,0,0,2,2,0,1,0,1,1,1,1,1,European Ancestry
+2338,0.0,0,0,0,0,0,2,0,1,1,2,1,0,0,1,European Ancestry
+2339,0.0,0,0,0,1,1,2,0,1,0,1,1,0,2,0,European Ancestry
+2340,0.0,0,0,0,0,1,2,0,1,0,1,2,0,0,1,European Ancestry
+2341,0.0,0,0,0,1,1,2,0,0,0,2,0,0,0,0,European Ancestry
+2342,0.0,0,0,0,0,0,2,0,1,0,1,2,0,1,0,European Ancestry
+2343,0.0,0,0,0,0,0,2,0,1,1,1,1,0,1,0,European Ancestry
+2344,0.0,0,0,0,0,1,2,0,0,0,1,1,0,1,0,European Ancestry
+2345,0.0,0,0,0,0,2,2,1,0,0,0,2,0,2,2,European Ancestry
+2346,0.0,0,0,0,0,1,2,0,1,0,0,1,1,0,1,European Ancestry
+2347,0.0,0,0,0,0,2,2,0,1,0,2,1,1,1,0,European Ancestry
+2348,0.0,0,1,0,0,2,2,0,0,2,1,1,0,0,1,European Ancestry
+2349,0.0,0,0,0,0,0,1,0,1,0,2,1,1,2,1,European Ancestry
+2350,0.0,0,0,0,0,1,2,0,1,2,2,1,2,1,0,European Ancestry
+2351,0.0,0,0,0,0,1,2,1,0,0,2,2,0,2,1,European Ancestry
+2352,0.0,0,0,0,0,1,2,0,0,1,1,1,1,0,0,European Ancestry
+2353,0.0,0,0,0,0,1,2,1,1,0,1,0,1,0,0,European Ancestry
+2354,0.0,0,0,0,0,1,2,0,0,0,2,2,1,0,0,European Ancestry
+2355,0.0,0,0,1,1,0,2,2,2,2,1,1,0,1,1,European Ancestry
+2356,0.0,0,0,0,0,0,2,1,1,0,0,2,0,1,0,European Ancestry
+2357,0.0,0,0,0,0,1,2,0,0,0,1,1,1,0,0,European Ancestry
+2358,0.0,0,0,0,0,2,2,0,0,2,1,2,2,1,1,European Ancestry
+2359,0.0,0,0,0,0,0,2,1,0,1,0,1,0,0,1,European Ancestry
+2360,0.0,0,0,0,0,1,2,0,0,0,2,2,1,0,1,European Ancestry
+2361,0.0,0,0,0,0,1,2,0,0,0,0,0,2,0,0,European Ancestry
+2362,0.0,0,0,0,0,1,2,1,0,1,1,2,1,1,0,European Ancestry
+2363,0.0,0,0,0,0,2,2,1,0,1,1,0,0,1,1,European Ancestry
+2364,0.0,0,0,0,0,0,2,1,0,0,0,1,0,1,0,European Ancestry
+2365,0.0,0,0,0,0,1,2,1,0,1,2,1,0,1,1,European Ancestry
+2366,0.0,0,0,0,0,1,2,0,1,0,2,0,2,0,0,European Ancestry
+2367,0.0,0,0,0,0,2,2,0,0,0,1,1,1,0,0,European Ancestry
+2368,0.0,0,0,0,0,1,2,0,1,1,0,2,1,1,0,European Ancestry
+2369,0.0,0,0,0,0,1,1,0,1,1,0,0,2,1,0,European Ancestry
+2370,0.0,0,0,0,0,2,2,0,0,0,1,0,0,1,0,European Ancestry
+2371,0.0,0,0,0,2,2,2,0,0,1,0,1,1,0,0,European Ancestry
+2372,0.0,0,0,0,0,0,1,1,0,0,0,0,1,1,1,European Ancestry
+2373,0.0,0,0,0,0,0,2,0,0,0,1,0,2,0,1,European Ancestry
+2374,0.0,0,0,0,0,2,2,0,0,0,0,1,0,1,0,European Ancestry
+2375,0.0,0,0,0,0,0,2,1,0,0,0,2,1,1,0,European Ancestry
+2376,0.0,0,0,0,0,1,2,0,0,1,2,0,0,0,0,European Ancestry
+2377,0.0,0,0,0,0,0,2,0,2,1,0,2,0,1,0,European Ancestry
+2378,0.0,0,0,0,0,0,2,0,1,0,2,0,1,1,0,European Ancestry
+2379,0.0,0,0,0,0,1,2,0,1,0,1,1,0,1,1,European Ancestry
+2380,0.0,0,0,1,0,0,2,0,0,0,1,0,2,2,1,European Ancestry
+2381,0.0,0,0,0,0,1,2,1,0,0,0,1,1,1,1,European Ancestry
+2382,0.0,0,0,0,0,2,2,0,0,0,2,2,1,0,0,European Ancestry
+2383,0.0,0,0,0,0,1,2,0,0,0,0,1,0,1,0,European Ancestry
+2384,0.0,0,0,0,0,0,2,0,0,1,1,1,1,1,0,European Ancestry
+2385,0.0,0,0,0,0,1,2,0,0,2,1,0,0,0,0,European Ancestry
+2386,0.0,0,0,0,1,1,2,1,0,0,1,1,0,1,0,European Ancestry
+2387,0.0,0,0,0,0,1,2,0,2,0,1,0,0,0,1,European Ancestry
+2388,0.0,0,0,0,0,0,2,1,0,0,1,0,0,1,0,European Ancestry
+2389,0.0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,European Ancestry
+2390,0.0,0,0,0,1,1,2,0,1,0,1,1,0,1,1,European Ancestry
+2391,0.0,0,0,0,0,2,2,0,0,2,1,1,0,1,0,European Ancestry
+2392,0.0,0,0,0,0,1,2,0,1,1,0,1,1,0,0,European Ancestry
+2393,0.0,0,0,0,0,2,2,0,0,0,0,0,1,1,0,European Ancestry
+2394,0.0,0,0,0,0,1,2,0,0,1,2,2,0,0,0,European Ancestry
+2395,0.0,0,0,0,0,1,2,0,0,1,1,1,1,1,1,European Ancestry
+2396,0.0,0,0,0,0,1,2,0,1,0,1,1,0,0,0,European Ancestry
+2397,0.0,0,0,0,0,1,2,0,1,1,1,2,2,0,1,European Ancestry
+2398,0.0,0,0,0,0,0,2,0,2,0,2,1,0,0,1,European Ancestry
+2399,0.0,0,0,0,0,1,2,0,0,1,0,2,0,2,0,European Ancestry
+2400,0.0,0,0,0,0,2,2,1,0,0,1,1,2,0,1,European Ancestry
+2401,0.0,0,0,0,1,1,1,1,1,0,2,0,0,0,0,South Asian Ancestry
+2402,0.0,0,0,0,1,0,1,0,1,1,1,1,0,0,0,South Asian Ancestry
+2403,0.0,0,0,0,1,0,0,0,1,0,1,0,1,0,0,South Asian Ancestry
+2404,0.0,0,0,0,0,0,0,0,0,0,1,1,1,2,0,South Asian Ancestry
+2405,0.0,0,0,0,0,0,0,1,1,0,1,0,1,0,0,South Asian Ancestry
+2406,0.0,0,0,0,1,0,0,0,1,0,2,1,0,0,0,South Asian Ancestry
+2407,0.0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,South Asian Ancestry
+2408,0.0,0,0,0,0,0,0,2,0,0,2,1,1,2,1,South Asian Ancestry
+2409,0.0,0,1,0,0,0,0,0,1,0,1,2,1,1,0,South Asian Ancestry
+2410,0.0,1,0,0,0,0,1,0,1,0,1,0,0,0,0,South Asian Ancestry
+2411,0.0,0,0,0,0,1,0,1,2,0,1,1,1,1,2,South Asian Ancestry
+2412,0.0,0,0,0,0,0,0,0,0,2,2,0,1,2,0,South Asian Ancestry
+2413,0.0,0,0,0,0,1,0,0,1,0,1,1,1,0,0,South Asian Ancestry
+2414,0.0,0,0,0,1,0,1,0,1,0,1,1,0,1,0,South Asian Ancestry
+2415,0.0,0,0,0,0,0,0,1,1,0,0,2,0,1,0,South Asian Ancestry
+2416,0.0,0,0,0,1,1,1,0,1,2,2,0,1,1,0,South Asian Ancestry
+2417,0.0,0,0,0,0,0,0,0,2,0,0,0,0,2,0,South Asian Ancestry
+2418,0.0,0,0,0,1,0,0,0,0,1,2,0,0,1,0,South Asian Ancestry
+2419,0.0,0,0,0,0,0,0,0,0,1,2,1,1,0,0,South Asian Ancestry
+2420,0.0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,South Asian Ancestry
+2421,0.0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,South Asian Ancestry
+2422,0.0,0,0,0,0,0,0,0,1,0,1,0,1,1,1,South Asian Ancestry
+2423,0.0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,South Asian Ancestry
+2424,0.0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,South Asian Ancestry
+2425,0.0,0,0,0,1,1,0,0,1,0,1,2,1,0,0,South Asian Ancestry
+2426,0.0,0,0,0,0,0,0,0,2,0,2,1,0,1,0,South Asian Ancestry
+2427,0.0,0,0,0,0,0,0,0,1,0,2,2,1,0,0,South Asian Ancestry
+2428,0.0,0,0,0,0,1,0,0,1,0,1,1,1,0,2,South Asian Ancestry
+2429,0.0,0,1,0,0,0,0,0,1,1,1,0,0,0,0,South Asian Ancestry
+2430,0.0,0,1,0,1,1,0,0,1,2,1,1,1,0,0,South Asian Ancestry
+2431,0.0,0,0,0,0,0,1,0,0,1,2,1,0,0,1,South Asian Ancestry
+2432,0.0,0,0,0,0,1,0,0,1,0,1,2,2,1,0,South Asian Ancestry
+2433,0.0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,South Asian Ancestry
+2434,0.0,0,0,0,0,0,0,1,0,0,1,1,1,1,0,South Asian Ancestry
+2435,0.0,0,0,0,0,0,0,0,0,1,0,1,1,2,0,South Asian Ancestry
+2436,0.0,0,0,0,0,0,0,0,1,2,1,1,1,0,0,South Asian Ancestry
+2437,0.0,1,0,0,1,1,0,1,1,0,1,1,1,2,0,South Asian Ancestry
+2438,0.0,0,0,0,0,0,1,0,0,0,1,1,1,1,0,South Asian Ancestry
+2439,0.0,0,0,0,0,1,0,0,1,1,1,1,0,1,1,South Asian Ancestry
+2440,0.0,0,0,0,1,0,0,0,1,0,2,1,2,1,1,South Asian Ancestry
+2441,0.0,0,0,0,0,0,0,0,0,0,2,1,1,0,0,South Asian Ancestry
+2442,0.0,0,0,0,0,0,0,0,0,2,1,1,1,1,1,South Asian Ancestry
+2443,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,South Asian Ancestry
+2444,0.0,1,1,0,1,1,0,0,1,1,1,1,0,1,0,South Asian Ancestry
+2445,0.0,0,0,0,0,0,1,0,1,0,2,0,1,1,0,South Asian Ancestry
+2446,0.0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,South Asian Ancestry
+2447,0.0,0,0,0,0,1,0,0,1,0,2,1,0,0,1,South Asian Ancestry
+2448,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,South Asian Ancestry
+2449,0.0,0,1,0,1,0,1,0,1,0,1,1,0,2,0,South Asian Ancestry
+2450,0.0,0,0,0,0,0,0,0,2,0,1,0,1,0,0,South Asian Ancestry
+2451,0.0,0,0,0,0,0,0,0,0,0,1,2,2,1,0,South Asian Ancestry
+2452,0.0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,South Asian Ancestry
+2453,0.0,0,0,0,1,1,1,0,0,0,1,1,0,1,0,South Asian Ancestry
+2454,0.0,0,1,0,0,0,0,0,0,0,2,0,0,1,0,South Asian Ancestry
+2455,0.0,0,0,0,0,0,0,1,1,1,2,2,2,1,0,South Asian Ancestry
+2456,0.0,0,0,0,1,1,0,0,0,0,2,1,1,1,1,South Asian Ancestry
+2457,0.0,0,1,0,0,0,0,0,2,0,0,2,0,1,1,South Asian Ancestry
+2458,0.0,0,0,0,0,0,0,0,2,0,1,1,1,1,0,South Asian Ancestry
+2459,0.0,0,0,0,0,0,0,1,2,0,1,2,1,0,0,South Asian Ancestry
+2460,0.0,0,0,0,0,0,0,1,1,0,2,0,0,1,0,South Asian Ancestry
+2461,0.0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,South Asian Ancestry
+2462,0.0,0,0,0,0,0,0,0,1,0,2,1,1,1,0,South Asian Ancestry
+2463,0.0,0,1,0,1,0,0,0,0,1,1,0,1,0,0,South Asian Ancestry
+2464,0.0,0,0,0,0,0,1,0,1,0,2,1,1,0,1,South Asian Ancestry
+2465,0.0,0,0,0,0,0,1,0,1,0,2,0,2,2,0,South Asian Ancestry
+2466,0.0,0,0,0,1,1,1,0,2,0,2,1,1,1,0,South Asian Ancestry
+2467,0.0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,South Asian Ancestry
+2468,0.0,0,0,0,0,1,0,0,1,1,2,1,0,2,0,South Asian Ancestry
+2469,0.0,0,0,0,1,0,0,0,2,0,1,2,1,0,0,South Asian Ancestry
+2470,0.0,0,0,0,0,0,0,0,2,1,1,1,1,1,0,South Asian Ancestry
+2471,0.0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,South Asian Ancestry
+2472,0.0,0,0,0,1,0,0,0,0,0,1,0,1,0,0,South Asian Ancestry
+2473,0.0,0,1,0,0,0,0,0,0,0,0,1,2,1,1,South Asian Ancestry
+2474,0.0,0,0,0,1,0,0,1,1,1,0,1,1,0,0,South Asian Ancestry
+2475,0.0,0,0,0,1,0,0,0,0,1,1,1,0,1,0,South Asian Ancestry
+2476,0.0,0,0,0,1,0,0,0,0,2,1,0,1,1,0,South Asian Ancestry
+2477,0.0,0,0,0,0,0,1,1,0,0,0,0,1,2,1,South Asian Ancestry
+2478,0.0,0,0,0,0,0,0,0,1,0,2,2,1,2,0,South Asian Ancestry
+2479,0.0,0,0,0,0,0,1,1,0,0,1,0,0,2,0,South Asian Ancestry
+2480,0.0,0,0,0,1,0,0,0,0,1,2,1,1,1,0,South Asian Ancestry
+2481,0.0,0,0,0,0,0,0,0,1,0,1,1,2,0,0,South Asian Ancestry
+2482,0.0,0,0,0,0,0,0,0,1,0,1,1,1,0,0,South Asian Ancestry
+2483,0.0,0,0,0,0,0,1,0,1,0,2,1,0,0,0,South Asian Ancestry
+2484,0.0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,South Asian Ancestry
+2485,0.0,0,0,0,0,0,0,0,0,0,2,1,2,0,0,South Asian Ancestry
+2486,0.0,0,0,0,0,0,0,0,1,1,2,0,0,2,0,South Asian Ancestry
+2487,0.0,0,0,0,0,0,0,0,0,1,1,2,0,0,0,South Asian Ancestry
+2488,0.0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,South Asian Ancestry
+2489,0.0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,South Asian Ancestry
+2490,0.0,0,0,0,0,0,0,0,1,0,2,2,1,2,0,South Asian Ancestry
+2491,0.0,0,0,0,2,0,0,0,2,1,2,1,1,0,0,South Asian Ancestry
+2492,0.0,0,0,0,0,0,1,0,0,0,2,2,0,2,1,South Asian Ancestry
+2493,0.0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,South Asian Ancestry
+2494,0.0,0,0,0,0,0,0,0,1,0,2,2,2,0,0,South Asian Ancestry
+2495,0.0,0,0,0,0,0,0,0,0,0,0,1,1,2,0,South Asian Ancestry
+2496,0.0,0,0,0,0,0,0,0,0,0,1,2,1,1,0,South Asian Ancestry
+2497,0.0,0,0,0,0,0,0,0,1,1,2,2,2,0,0,South Asian Ancestry
+2498,0.0,0,0,0,1,0,0,0,1,2,0,1,0,1,0,South Asian Ancestry
+2499,0.0,0,0,0,0,0,0,0,2,0,1,1,1,2,1,South Asian Ancestry
+2500,0.0,0,0,0,0,0,0,0,0,1,1,2,1,0,1,South Asian Ancestry
+2501,0.0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,South Asian Ancestry
+2502,0.0,0,0,0,1,1,0,1,0,0,1,2,1,0,0,South Asian Ancestry
+2503,0.0,0,0,0,0,0,0,0,1,0,2,2,0,1,0,South Asian Ancestry

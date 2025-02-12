@@ -33,6 +33,7 @@ from sklearn.linear_model import LogisticRegression
 from xgboost import XGBClassifier
 
 TASK_DICT = {
+    'ancestry_new':  "What is the subject's genomic ancestry? European, South Asian, East Asian, African, or American?",
     'ancestry_15_features': "What is the subject's genomic ancestry? European, South Asian, East Asian, African, or American?",
     'hearing_loss_15_features': "Does the subject have hereditary hearing loss? With regards to SNP variants, no mutations being found for the SNP are indicated by 0, heterozygous mutations by 1, and homozygous mutations by 2.",
 }
@@ -62,9 +63,7 @@ def get_dataset(data_name, shot, seed, test_size_split = 0.5, preloaded_df=None)
             df.loc[:, df.columns != 'y'] = df.loc[:, df.columns != 'y'].astype(int)
             default_target_attribute = 'y'
     else: 
-        if "aims_15" in data_name:
-            default_target_attribute = 'y'
-        else:
+        if "ancestry" in data_name or "aims_15" in data_name:
             default_target_attribute = 'superpopulation_name'
         with pd.option_context('mode.chained_assignment', None):
             df.loc[:, df.columns != default_target_attribute] = df.loc[:, df.columns != default_target_attribute].astype(int)
@@ -209,7 +208,7 @@ def query_full_gpt(text_list, max_tokens=30, temperature=0, max_try_num=10, mode
     return result_list
 
 def serialize(row, prompt_version = "v4"):
-    target_str = f""
+    target_str = ""
     for attr_idx, attr_name in enumerate(list(row.index)):
         if attr_idx < len(list(row.index)) - 1:
             if int(prompt_version[1]) == 6:
@@ -437,7 +436,7 @@ def get_prompt_for_generating_function(parsed_rule, feature_desc, file_name):
         prompt_type_str = f.read()
     
     template_list = []
-    function_name = f'extracting_engineered_features'
+    function_name = 'extracting_engineered_features'
 
     fill_in_dict = {
         "[NAME]": function_name, 
@@ -695,7 +694,7 @@ def evaluate_our_method(_DATA, _NUM_QUERY,_SHOT,_SEEDS, _MODEL,_FUNCTION_MODEL, 
         # Assume get_dataset retrieves your data according to the shot and seed
         df, X_train, X_test, y_train, y_test, target_attr, label_list, is_cat = get_dataset(_DATA, _SHOT, seed)
         X_all = df.drop(target_attr, axis=1)
-        print(f"------------------------Generating Prompt Template------------------------")
+        print("------------------------Generating Prompt Template------------------------")
 
         ask_file_name = f'./templates/{_LLM_FILE}_{_PROMPT_VERSION}_{_DATA_TYPE}.txt'
         meta_data_name = f"../data/{_DATA}-metadata-{_METADATA_VERSION}.json"
@@ -710,7 +709,7 @@ def evaluate_our_method(_DATA, _NUM_QUERY,_SHOT,_SEEDS, _MODEL,_FUNCTION_MODEL, 
         
         _DIVIDER = "\n\n---DIVIDER---\n\n"
         _VERSION = "\n\n---VERSION---\n\n"
-        print(f"------------------------Generating Rules------------------------")
+        print("------------------------Generating Rules------------------------")
         rule_file_name = f'./rules/{_DATA}/{_SHOT}_shot/rule-s{_SHOT}-{_MODEL}-{_PROMPT_VERSION}-q{_NUM_QUERY}-{seed}{_NOTE}.out'
         if os.path.isfile(rule_file_name) == False:
             results = query_gpt(templates, max_tokens=_MAX_TOKENS, temperature=1, model = _MODEL)
@@ -726,7 +725,7 @@ def evaluate_our_method(_DATA, _NUM_QUERY,_SHOT,_SEEDS, _MODEL,_FUNCTION_MODEL, 
         print(results[0])
         
         skip_critique = False
-        print(f"------------------------Extracting Rules------------------------")
+        print("------------------------Extracting Rules------------------------")
         saved_file_name = f'./rules/{_DATA}/{_SHOT}_shot/function-s{_SHOT}-{_MODEL}-{_FUNCTION_MODEL}-{_PROMPT_VERSION}-q{_NUM_QUERY}-{seed}{_NOTE}.out'    
         # If we don't have this in function form, 
         if os.path.isfile(saved_file_name) == False:   
@@ -751,7 +750,7 @@ def evaluate_our_method(_DATA, _NUM_QUERY,_SHOT,_SEEDS, _MODEL,_FUNCTION_MODEL, 
 
 
 
-        print(f"------------------------Generating Functions from Rules------------------------")
+        print("------------------------Generating Functions from Rules------------------------")
 
         saved_file_name = f'./rules/{_DATA}/{_SHOT}_shot/function-s{_SHOT}-{_MODEL}-{_FUNCTION_MODEL}-{_PROMPT_VERSION}-q{_NUM_QUERY}-{seed}{_NOTE}.out'    
         if os.path.isfile(saved_file_name) == False:
@@ -773,7 +772,7 @@ def evaluate_our_method(_DATA, _NUM_QUERY,_SHOT,_SEEDS, _MODEL,_FUNCTION_MODEL, 
                 total_str = f.read().strip()
                 fct_strs_all = [x for x in total_str.split(_VERSION)]
         
-        print(f"------------------------Self-Fix Function------------------------")
+        print("------------------------Self-Fix Function------------------------")
         if not skip_critique:
             critique_fct_strs_all = self_critique_functions(parsed_rules, feature_desc, fct_strs_all, X_train, 15, 5, _REWRITING_FUNCTION_MODEL, condition_tolerance=condition_tolerance)
             if _RECORD_LOGS:
@@ -798,7 +797,7 @@ def evaluate_our_method(_DATA, _NUM_QUERY,_SHOT,_SEEDS, _MODEL,_FUNCTION_MODEL, 
         X_test = X_test[mask]
         y_test = y_test[mask]
         
-        print(f"------------------------Evaluating Downstream Performance------------------------")
+        print("------------------------Evaluating Downstream Performance------------------------")
 
         executable_list, X_train_all_dict, X_test_all_dict = convert_to_binary_vectors_simple(fct_strs_final, 
                                                                                      fct_names, 

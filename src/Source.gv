@@ -1,0 +1,37 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label=<x<SUB>15</SUB> &le; 0.5<br/>gini = 0.76<br/>samples = 13<br/>value = [4, 6, 6, 2, 2]<br/>class = American Ancestry>, fillcolor="#ffffff"] ;
+1 [label=<x<SUB>3</SUB> &le; 1.5<br/>gini = 0.724<br/>samples = 9<br/>value = [3, 1, 6, 2, 2]<br/>class = East Asian Ancestry>, fillcolor="#c9f8ef"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label=<x<SUB>9</SUB> &le; 1.5<br/>gini = 0.735<br/>samples = 5<br/>value = [2, 1, 0, 2, 2]<br/>class = African Ancestry>, fillcolor="#ffffff"] ;
+1 -> 2 ;
+3 [label=<x<SUB>3</SUB> &le; 0.5<br/>gini = 0.444<br/>samples = 2<br/>value = [0, 1, 0, 2, 0]<br/>class = European Ancestry>, fillcolor="#9e9cf2"] ;
+2 -> 3 ;
+4 [label=<gini = 0.0<br/>samples = 1<br/>value = [0, 0, 0, 2, 0]<br/>class = European Ancestry>, fillcolor="#3c39e5"] ;
+3 -> 4 ;
+5 [label=<gini = 0.0<br/>samples = 1<br/>value = [0, 1, 0, 0, 0]<br/>class = American Ancestry>, fillcolor="#7be539"] ;
+3 -> 5 ;
+6 [label=<x<SUB>0</SUB> &le; 1323.5<br/>gini = 0.5<br/>samples = 3<br/>value = [2, 0, 0, 0, 2]<br/>class = African Ancestry>, fillcolor="#ffffff"] ;
+2 -> 6 ;
+7 [label=<gini = 0.0<br/>samples = 1<br/>value = [1, 0, 0, 0, 0]<br/>class = African Ancestry>, fillcolor="#e58139"] ;
+6 -> 7 ;
+8 [label=<x<SUB>8</SUB> &le; 0.5<br/>gini = 0.444<br/>samples = 2<br/>value = [1, 0, 0, 0, 2]<br/>class = South Asian Ancestry>, fillcolor="#f29ce0"] ;
+6 -> 8 ;
+9 [label=<gini = 0.0<br/>samples = 1<br/>value = [0, 0, 0, 0, 2]<br/>class = South Asian Ancestry>, fillcolor="#e539c0"] ;
+8 -> 9 ;
+10 [label=<gini = 0.0<br/>samples = 1<br/>value = [1, 0, 0, 0, 0]<br/>class = African Ancestry>, fillcolor="#e58139"] ;
+8 -> 10 ;
+11 [label=<x<SUB>11</SUB> &le; 0.5<br/>gini = 0.245<br/>samples = 4<br/>value = [1, 0, 6, 0, 0]<br/>class = East Asian Ancestry>, fillcolor="#5ae9cf"] ;
+1 -> 11 ;
+12 [label=<gini = 0.0<br/>samples = 1<br/>value = [1, 0, 0, 0, 0]<br/>class = African Ancestry>, fillcolor="#e58139"] ;
+11 -> 12 ;
+13 [label=<gini = 0.0<br/>samples = 3<br/>value = [0, 0, 6, 0, 0]<br/>class = East Asian Ancestry>, fillcolor="#39e5c5"] ;
+11 -> 13 ;
+14 [label=<x<SUB>4</SUB> &le; 1.0<br/>gini = 0.278<br/>samples = 4<br/>value = [1, 5, 0, 0, 0]<br/>class = American Ancestry>, fillcolor="#95ea61"] ;
+0 -> 14 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+15 [label=<gini = 0.0<br/>samples = 3<br/>value = [0, 5, 0, 0, 0]<br/>class = American Ancestry>, fillcolor="#7be539"] ;
+14 -> 15 ;
+16 [label=<gini = 0.0<br/>samples = 1<br/>value = [1, 0, 0, 0, 0]<br/>class = African Ancestry>, fillcolor="#e58139"] ;
+14 -> 16 ;
+}

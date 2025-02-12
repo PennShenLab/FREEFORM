@@ -563,7 +563,7 @@ def data_driven_feature_selection_pipeline(X, y, initial_reduction = 1000, secon
     return selected_features
 
 
-def evaluate_feature_selection(data_name, selection_method, seeds, shots, top_k=15, manually_selected_features=None, feature_selection_pool=None, return_stored_results = False, old_results = False, use_grid_search = True, load_specific_pkl = None, model = None):
+def evaluate_feature_selection(data_name, selection_method, seeds, shots, top_k=15, manually_selected_features=None, feature_selection_pool=None, return_stored_results = False, use_grid_search = True, load_specific_pkl = None, old_pkl_nomenclature = False, model = None):
     """
     Parameters:
     ----------
@@ -596,8 +596,8 @@ def evaluate_feature_selection(data_name, selection_method, seeds, shots, top_k=
     return_stored_results : bool, optional, default=False
         If True, attempts to load all previously saved results (e.g., Logistic Regression and Random Forest results) from a file, instead of recalculating them.
     
-    old_results : bool, optional, default=False
-        Flag to indicate if old results are to be used in some way; the exact usage can be determined based on how this flag interacts with loading or recalculating results.
+    old_pkl_nomenclature : bool, optional, default=False
+        Flag to indicate if the pkl file requested is an early version.
     
     Returns:
     -------
@@ -611,7 +611,7 @@ def evaluate_feature_selection(data_name, selection_method, seeds, shots, top_k=
         output_file = f"../data/selected_features/feature_selection_{data_name}_{selection_method}_{shots}_{seeds}_{top_k}.pkl"
     else: 
         output_file = f"../data/selected_features/feature_selection_{data_name}_{selection_method}_{shots}_{seeds}_{top_k}_{model}.pkl"
-    if old_results:
+    if old_pkl_nomenclature:
         output_file = f"../data/selected_features/feature_selection_{data_name}_{selection_method}.pkl"
     elif load_specific_pkl is not None:
         output_file = output_file.split('.pkl')[0] + f"{load_specific_pkl}.pkl"

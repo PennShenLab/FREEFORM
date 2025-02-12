@@ -6,7 +6,7 @@ You are an expert in genetics. Given the task description and the list of featur
 ## Features
 [FEATURES]
 
-## Examples
+## ExaXmples
 [EXAMPLES]
 
 ## Detailed Instructions
