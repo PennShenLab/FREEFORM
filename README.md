@@ -15,7 +15,7 @@ conda activate freeform
 ```
 
 ### 🔨 Usage
-To use our framework, look to the ```demonstration.ipynb``` notebook for an example pipeline of the functions defined in ```utils.py```. To replicate our results, you may refer to the notebooks with ```evaluation``` in the filename.
+To use our framework, look to the ```demonstration.ipynb``` notebook for an example pipeline of the functions defined in ```utils.py, utils_selection.py, utils_engineering.py```. To replicate our results, you may refer to the notebooks with ```evaluation``` in the filename.
 
 ### 🤝 Acknowledgements
 This work was supported in part by the NIH grants U01 AG066833, U01 AG068057, R01 AG071470, U19 AG074879, and S10 OD023495.
