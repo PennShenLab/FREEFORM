@@ -137,7 +137,7 @@ def set_seed(seed):
     random.seed(seed)
     np.random.seed(seed)
 
-def query_gpt(text_list, max_tokens=100, temperature=0, max_try_num=10, model="gpt-3.5-turbo"):
+def query_gpt(text_list, max_tokens=100, temperature=0, max_try_num=10, model="gpt-3.5-turbo", return_json=False, debug=False):
     result_list = []
     for prompt in tqdm(text_list):
         curr_try_num = 0
@@ -157,15 +157,27 @@ def query_gpt(text_list, max_tokens=100, temperature=0, max_try_num=10, model="g
                         stop=["<|eot_id|>"]
                     )
                 else:
-                    response = client.chat.completions.create(
+                    if return_json:
+                        response = client.chat.completions.create(
                         model=model,
                         messages=[
                             {"role": "user", "content": prompt}
                         ],
                         temperature=temperature,
-                    )   
+                        response_format={"type": "json_object"}
+                        )  
+                    else:
+                        response = client.chat.completions.create(
+                            model=model,
+                            messages=[
+                                {"role": "user", "content": prompt}
+                            ],
+                            temperature=temperature,
+                        )   
                 result = response.choices[0].message.content.strip()
                 result_list.append(result)
+                if debug:
+                    print(result)
                 break
             except Exception as e:
                 if 'gpt' in model:

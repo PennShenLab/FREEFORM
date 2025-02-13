@@ -37,6 +37,53 @@ def extract_snps_hearing_loss(snp):
     
     return None
 
+def filter_relevant_snps(snps, task, batch_style=False, batch_size=10, debug=False):
+    prompt_template = "Is the genetic variant {variant} relevant for {task}? Answer with just 'Yes' or 'No'."
+    batch_prompt_template = (
+        "Are the following genetic variants {variants} relevant for {task}? "
+        "Answer in JSON with the key 'relevance' which is a list of 'Yes' or 'No'."
+    )
+    
+    filtered_snps = []
+    
+    if batch_style:
+        batch_prompts = []
+        batches = []  # Store each batch to match responses with SNPs
+        # Create batches based on batch_size
+        for i in range(0, len(snps), batch_size):
+            batch = snps[i:i + batch_size]
+            batches.append(batch)
+            variants_str = ", ".join(batch)
+            batch_prompts.append(batch_prompt_template.format(variants=variants_str, task=task))
+        
+        # Call query_gpt once with the list of batch prompts
+        responses = utils.query_gpt(batch_prompts, 
+                                    model='gpt-4o-mini', 
+                                    return_json=True,
+                                    debug=debug)
+        
+        # Process each batch response
+        for batch, response in zip(batches, responses):
+            # Expecting each response to be a JSON with a "relevance" key listing answers for each SNP in the batch
+            for j, snp in enumerate(batch):
+                if 'yes' in response['relevance'][j].lower():
+                    filtered_snps.append(snp)
+    else:
+        # Build a list of prompts, one per SNP
+        prompts = [prompt_template.format(variant=snp, task=task) for snp in snps]
+        
+        # Call query_gpt once with all prompts
+        responses = utils.query_gpt(prompts, 
+                                    model="gpt-4o-mini",
+                                    debug=debug)
+        
+        # Process each response corresponding to a SNP
+        for snp, resp in zip(snps, responses):
+            if 'yes' in resp.lower():
+                filtered_snps.append(snp)
+                
+    return filtered_snps
+
 
 def split_list(input_list, bucket_size):
     """Splits the input_list into buckets of roughly equal size."""
