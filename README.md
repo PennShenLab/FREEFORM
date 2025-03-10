@@ -1,6 +1,6 @@
 ## FREEFORM: Free-flow Reasoning and Ensembling for Enhanced Feature Output and Robust Modeling
 
-This repository holds the official code for the paper [Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models](http://arxiv.org/abs/2410.01795).
+This repository holds the official code for the paper [Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models](http://arxiv.org/abs/2410.01795) in which we represent the FREEFORM framework.
 
 ![alt text](https://github.com/PennShenLab/FREEFORM/raw/main/figure1.png?raw=true)
 
