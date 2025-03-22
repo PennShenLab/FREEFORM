@@ -30,7 +30,7 @@ This work was supported in part by the NIH grants U01 AG066833, U01 AG068057, R0
 @article{FreeForm,
       title={Knowledge-Driven Feature Selection and Engineering for Genotype Data with Large Language Models}, 
       author={Joseph Lee and Shu Yang and Jae Young Baik and Xiaoxi Liu and Zhen Tan and Dawei Li and Zixuan Wen and Bojian Hou and Duy Duong-Tran and Tianlong Chen and Li Shen},
-      year={2024},
-      journal={arXiv preprint arXiv:2410.01795},
+      year={2025},
+      journal={AMIA Informatics Summit},
 }
 ```
